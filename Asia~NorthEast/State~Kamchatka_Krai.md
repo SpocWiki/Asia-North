@@ -13,7 +13,7 @@ confidential: public
 [name::Kamchatka Krai] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[../../Asia~Central/Kazakhstan/Counties/North_Kazakhstan/City/Petropawlowsk]]  
+Capital :: [[../../Asia~Central/Counties/North_Kazakhstan/City/Petropawlowsk]]  
 [geo-lon::158.72] 
 [geo-lat::53.02] 
 [Population::] 
