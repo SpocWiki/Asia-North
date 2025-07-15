@@ -1,4 +1,4 @@
-﻿---
+---
 location: [69.42,86.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Dudinka|Dudinka]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Dudinka.public|Dudinka.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Dudinka.internal|Dudinka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Dudinka.protect|Dudinka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Dudinka.private|Dudinka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Dudinka.personal|Dudinka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Dudinka.secret|Dudinka.secret]] 
+
+### #is_/same_as :: [Dudinka](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Dudinka.md) 
+
+### #is_/same_as :: [Dudinka.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Dudinka.public.md) 
+
+### #is_/same_as :: [Dudinka.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Dudinka.internal.md) 
+
+### #is_/same_as :: [Dudinka.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Dudinka.protect.md) 
+
+### #is_/same_as :: [Dudinka.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Dudinka.private.md) 
+
+### #is_/same_as :: [Dudinka.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Dudinka.personal.md) 
+
+### #is_/same_as :: [Dudinka.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Dudinka.secret.md)
+

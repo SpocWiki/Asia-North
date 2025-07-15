@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kamenskoye|Kamenskoye]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kamenskoye.public|Kamenskoye.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamenskoye.internal|Kamenskoye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamenskoye.protect|Kamenskoye.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kamenskoye.private|Kamenskoye.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamenskoye.personal|Kamenskoye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamenskoye.secret|Kamenskoye.secret]] 
+
+### #is_/same_as :: [Kamenskoye](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Kamenskoye.md) 
+
+### #is_/same_as :: [Kamenskoye.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Kamenskoye.public.md) 
+
+### #is_/same_as :: [Kamenskoye.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Kamenskoye.internal.md) 
+
+### #is_/same_as :: [Kamenskoye.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Kamenskoye.protect.md) 
+
+### #is_/same_as :: [Kamenskoye.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Kamenskoye.private.md) 
+
+### #is_/same_as :: [Kamenskoye.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Kamenskoye.personal.md) 
+
+### #is_/same_as :: [Kamenskoye.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Kamenskoye.secret.md)
+

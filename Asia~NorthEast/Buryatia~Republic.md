@@ -40,11 +40,18 @@ markerFolder: ./State~Buryatia~Republic/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic|State~Buryatia~Republic]] 
-- [[../../../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.public|State~Buryatia~Republic.public]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.internal|State~Buryatia~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.protect|State~Buryatia~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.private|State~Buryatia~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.personal|State~Buryatia~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Buryatia~Republic.secret|State~Buryatia~Republic.secret]] 
+
+### #is_/same_as :: [Buryatia~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.md) 
+
+### #is_/same_as :: [Buryatia~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.public.md) 
+
+### #is_/same_as :: [Buryatia~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.internal.md) 
+
+### #is_/same_as :: [Buryatia~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.protect.md) 
+
+### #is_/same_as :: [Buryatia~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.private.md) 
+
+### #is_/same_as :: [Buryatia~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.personal.md) 
+
+### #is_/same_as :: [Buryatia~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.secret.md)
 

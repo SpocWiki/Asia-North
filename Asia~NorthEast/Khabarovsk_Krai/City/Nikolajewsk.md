@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Nikolajewsk|Nikolajewsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nikolajewsk.public|Nikolajewsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nikolajewsk.internal|Nikolajewsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nikolajewsk.protect|Nikolajewsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nikolajewsk.private|Nikolajewsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nikolajewsk.personal|Nikolajewsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nikolajewsk.secret|Nikolajewsk.secret]] 
+
+### #is_/same_as :: [Nikolajewsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Nikolajewsk.md) 
+
+### #is_/same_as :: [Nikolajewsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Nikolajewsk.public.md) 
+
+### #is_/same_as :: [Nikolajewsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Nikolajewsk.internal.md) 
+
+### #is_/same_as :: [Nikolajewsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Nikolajewsk.protect.md) 
+
+### #is_/same_as :: [Nikolajewsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Nikolajewsk.private.md) 
+
+### #is_/same_as :: [Nikolajewsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Nikolajewsk.personal.md) 
+
+### #is_/same_as :: [Nikolajewsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Nikolajewsk.secret.md)
+

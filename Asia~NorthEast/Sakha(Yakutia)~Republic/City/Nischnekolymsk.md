@@ -32,9 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nischnekolymsk|Nischnekolymsk]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kolymsk.internal|Kolymsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kolymsk.protect|Kolymsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kolymsk.private|Kolymsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kolymsk.personal|Kolymsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kolymsk.secret|Kolymsk.secret]] 
+
+### #is_/same_as :: [Nischnekolymsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Nischnekolymsk.md) 
+
+### #is_/same_as :: [Nischnekolymsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Nischnekolymsk.public.md) 
+
+### #is_/same_as :: [Nischnekolymsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Nischnekolymsk.internal.md) 
+
+### #is_/same_as :: [Nischnekolymsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Nischnekolymsk.protect.md) 
+
+### #is_/same_as :: [Nischnekolymsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Nischnekolymsk.private.md) 
+
+### #is_/same_as :: [Nischnekolymsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Nischnekolymsk.personal.md) 
+
+### #is_/same_as :: [Nischnekolymsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Nischnekolymsk.secret.md)
+

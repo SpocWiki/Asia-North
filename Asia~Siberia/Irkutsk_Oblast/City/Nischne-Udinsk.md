@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.92,99.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Nischne-Udinsk|Nischne-Udinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nischne-Udinsk.public|Nischne-Udinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.internal|Nischne-Udinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nischne-Udinsk.protect|Nischne-Udinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nischne-Udinsk.private|Nischne-Udinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nischne-Udinsk.personal|Nischne-Udinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nischne-Udinsk.secret|Nischne-Udinsk.secret]] 
+
+### #is_/same_as :: [Nischne-Udinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.md) 
+
+### #is_/same_as :: [Nischne-Udinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.public.md) 
+
+### #is_/same_as :: [Nischne-Udinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.internal.md) 
+
+### #is_/same_as :: [Nischne-Udinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.protect.md) 
+
+### #is_/same_as :: [Nischne-Udinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.private.md) 
+
+### #is_/same_as :: [Nischne-Udinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.personal.md) 
+
+### #is_/same_as :: [Nischne-Udinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.secret.md)
+

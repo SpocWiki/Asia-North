@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Ochotsk=Okhotsk|Ochotsk=Okhotsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ochotsk=Okhotsk.public|Ochotsk=Okhotsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ochotsk=Okhotsk.internal|Ochotsk=Okhotsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ochotsk=Okhotsk.protect|Ochotsk=Okhotsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ochotsk=Okhotsk.private|Ochotsk=Okhotsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ochotsk=Okhotsk.personal|Ochotsk=Okhotsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ochotsk=Okhotsk.secret|Ochotsk=Okhotsk.secret]] 
+
+### #is_/same_as :: [Ochotsk=Okhotsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.md) 
+
+### #is_/same_as :: [Ochotsk=Okhotsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.public.md) 
+
+### #is_/same_as :: [Ochotsk=Okhotsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.internal.md) 
+
+### #is_/same_as :: [Ochotsk=Okhotsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.protect.md) 
+
+### #is_/same_as :: [Ochotsk=Okhotsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.private.md) 
+
+### #is_/same_as :: [Ochotsk=Okhotsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.personal.md) 
+
+### #is_/same_as :: [Ochotsk=Okhotsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.78,131.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Woroschilow|Woroschilow]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Woroschilow.public|Woroschilow.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Woroschilow.internal|Woroschilow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Woroschilow.protect|Woroschilow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Woroschilow.private|Woroschilow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Woroschilow.personal|Woroschilow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Woroschilow.secret|Woroschilow.secret]] 
+
+### #is_/same_as :: [Woroschilow](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Woroschilow.md) 
+
+### #is_/same_as :: [Woroschilow.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Woroschilow.public.md) 
+
+### #is_/same_as :: [Woroschilow.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Woroschilow.internal.md) 
+
+### #is_/same_as :: [Woroschilow.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Woroschilow.protect.md) 
+
+### #is_/same_as :: [Woroschilow.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Woroschilow.private.md) 
+
+### #is_/same_as :: [Woroschilow.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Woroschilow.personal.md) 
+
+### #is_/same_as :: [Woroschilow.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Woroschilow.secret.md)
+

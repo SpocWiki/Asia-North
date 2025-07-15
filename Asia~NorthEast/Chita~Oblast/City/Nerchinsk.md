@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Nerchinsk|Nerchinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nerchinsk.public|Nerchinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nerchinsk.internal|Nerchinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nerchinsk.protect|Nerchinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nerchinsk.private|Nerchinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nerchinsk.personal|Nerchinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nerchinsk.secret|Nerchinsk.secret]] 
+
+### #is_/same_as :: [Nerchinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Nerchinsk.md) 
+
+### #is_/same_as :: [Nerchinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Nerchinsk.public.md) 
+
+### #is_/same_as :: [Nerchinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Nerchinsk.internal.md) 
+
+### #is_/same_as :: [Nerchinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Nerchinsk.protect.md) 
+
+### #is_/same_as :: [Nerchinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Nerchinsk.private.md) 
+
+### #is_/same_as :: [Nerchinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Nerchinsk.personal.md) 
+
+### #is_/same_as :: [Nerchinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Nerchinsk.secret.md)
+

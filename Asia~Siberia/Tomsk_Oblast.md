@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Tomsk_Oblast|State~Tomsk_Oblast]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.internal|State~Tomsk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.protect|State~Tomsk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.private|State~Tomsk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.personal|State~Tomsk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tomsk_Oblast.secret|State~Tomsk_Oblast.secret]] 
+
+### #is_/same_as :: [Tomsk_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.md) 
+
+### #is_/same_as :: [Tomsk_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.public.md) 
+
+### #is_/same_as :: [Tomsk_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.internal.md) 
+
+### #is_/same_as :: [Tomsk_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.protect.md) 
+
+### #is_/same_as :: [Tomsk_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.private.md) 
+
+### #is_/same_as :: [Tomsk_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.personal.md) 
+
+### #is_/same_as :: [Tomsk_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.78,142.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Rykowskoje|Rykowskoje]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Rykowskoje.public|Rykowskoje.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Rykowskoje.internal|Rykowskoje.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Rykowskoje.protect|Rykowskoje.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Rykowskoje.private|Rykowskoje.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Rykowskoje.personal|Rykowskoje.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Rykowskoje.secret|Rykowskoje.secret]] 
+
+### #is_/same_as :: [Rykowskoje](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Rykowskoje.md) 
+
+### #is_/same_as :: [Rykowskoje.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Rykowskoje.public.md) 
+
+### #is_/same_as :: [Rykowskoje.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Rykowskoje.internal.md) 
+
+### #is_/same_as :: [Rykowskoje.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Rykowskoje.protect.md) 
+
+### #is_/same_as :: [Rykowskoje.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Rykowskoje.private.md) 
+
+### #is_/same_as :: [Rykowskoje.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Rykowskoje.personal.md) 
+
+### #is_/same_as :: [Rykowskoje.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Rykowskoje.secret.md)
+

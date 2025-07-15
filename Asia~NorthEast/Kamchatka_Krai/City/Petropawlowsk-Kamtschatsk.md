@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.02,158.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk|Petropawlowsk-Kamtschatsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.public|Petropawlowsk-Kamtschatsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.internal|Petropawlowsk-Kamtschatsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.protect|Petropawlowsk-Kamtschatsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.private|Petropawlowsk-Kamtschatsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.personal|Petropawlowsk-Kamtschatsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petropawlowsk-Kamtschatsk.secret|Petropawlowsk-Kamtschatsk.secret]] 
+
+### #is_/same_as :: [Petropawlowsk-Kamtschatsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Petropawlowsk-Kamtschatsk.md) 
+
+### #is_/same_as :: [Petropawlowsk-Kamtschatsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Petropawlowsk-Kamtschatsk.public.md) 
+
+### #is_/same_as :: [Petropawlowsk-Kamtschatsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Petropawlowsk-Kamtschatsk.internal.md) 
+
+### #is_/same_as :: [Petropawlowsk-Kamtschatsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Petropawlowsk-Kamtschatsk.protect.md) 
+
+### #is_/same_as :: [Petropawlowsk-Kamtschatsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Petropawlowsk-Kamtschatsk.private.md) 
+
+### #is_/same_as :: [Petropawlowsk-Kamtschatsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Petropawlowsk-Kamtschatsk.personal.md) 
+
+### #is_/same_as :: [Petropawlowsk-Kamtschatsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Petropawlowsk-Kamtschatsk.secret.md)
+

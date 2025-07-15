@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Anadyr|Anadyr]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Anadyr.public|Anadyr.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Anadyr.internal|Anadyr.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Anadyr.protect|Anadyr.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Anadyr.private|Anadyr.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Anadyr.personal|Anadyr.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Anadyr.secret|Anadyr.secret]] 
+
+### #is_/same_as :: [Anadyr](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Anadyr.md) 
+
+### #is_/same_as :: [Anadyr.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Anadyr.public.md) 
+
+### #is_/same_as :: [Anadyr.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Anadyr.internal.md) 
+
+### #is_/same_as :: [Anadyr.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Anadyr.protect.md) 
+
+### #is_/same_as :: [Anadyr.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Anadyr.private.md) 
+
+### #is_/same_as :: [Anadyr.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Anadyr.personal.md) 
+
+### #is_/same_as :: [Anadyr.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Anadyr.secret.md)
+

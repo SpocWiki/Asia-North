@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.47,59] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Magnitogorsk|Magnitogorsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Magnitogorsk.public|Magnitogorsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Magnitogorsk.internal|Magnitogorsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Magnitogorsk.protect|Magnitogorsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Magnitogorsk.private|Magnitogorsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Magnitogorsk.personal|Magnitogorsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Magnitogorsk.secret|Magnitogorsk.secret]] 
+
+### #is_/same_as :: [Magnitogorsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.md) 
+
+### #is_/same_as :: [Magnitogorsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.public.md) 
+
+### #is_/same_as :: [Magnitogorsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.internal.md) 
+
+### #is_/same_as :: [Magnitogorsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.protect.md) 
+
+### #is_/same_as :: [Magnitogorsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.private.md) 
+
+### #is_/same_as :: [Magnitogorsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.personal.md) 
+
+### #is_/same_as :: [Magnitogorsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.secret.md)
+

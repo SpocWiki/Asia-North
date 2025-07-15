@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Amginsk|Amginsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Amginsk.public|Amginsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Amginsk.internal|Amginsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Amginsk.protect|Amginsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Amginsk.private|Amginsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Amginsk.personal|Amginsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Amginsk.secret|Amginsk.secret]] 
+
+### #is_/same_as :: [Amginsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Amginsk.md) 
+
+### #is_/same_as :: [Amginsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Amginsk.public.md) 
+
+### #is_/same_as :: [Amginsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Amginsk.internal.md) 
+
+### #is_/same_as :: [Amginsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Amginsk.protect.md) 
+
+### #is_/same_as :: [Amginsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Amginsk.private.md) 
+
+### #is_/same_as :: [Amginsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Amginsk.personal.md) 
+
+### #is_/same_as :: [Amginsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Amginsk.secret.md)
+

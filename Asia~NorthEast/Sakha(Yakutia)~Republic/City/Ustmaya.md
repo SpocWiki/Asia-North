@@ -1,4 +1,4 @@
-﻿---
+---
 location: [60.42,134.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Ustmaya|Ustmaya]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ustmaya.public|Ustmaya.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ustmaya.internal|Ustmaya.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ustmaya.protect|Ustmaya.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ustmaya.private|Ustmaya.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ustmaya.personal|Ustmaya.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ustmaya.secret|Ustmaya.secret]] 
+
+### #is_/same_as :: [Ustmaya](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Ustmaya.md) 
+
+### #is_/same_as :: [Ustmaya.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Ustmaya.public.md) 
+
+### #is_/same_as :: [Ustmaya.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Ustmaya.internal.md) 
+
+### #is_/same_as :: [Ustmaya.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Ustmaya.protect.md) 
+
+### #is_/same_as :: [Ustmaya.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Ustmaya.private.md) 
+
+### #is_/same_as :: [Ustmaya.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Ustmaya.personal.md) 
+
+### #is_/same_as :: [Ustmaya.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Ustmaya.secret.md)
+

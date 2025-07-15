@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.95,85.96667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Gorno-Altaysk|Gorno-Altaysk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Gorno-Altaysk.public|Gorno-Altaysk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Gorno-Altaysk.internal|Gorno-Altaysk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Gorno-Altaysk.protect|Gorno-Altaysk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Gorno-Altaysk.private|Gorno-Altaysk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Gorno-Altaysk.personal|Gorno-Altaysk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Gorno-Altaysk.secret|Gorno-Altaysk.secret]] 
+
+### #is_/same_as :: [Gorno-Altaysk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.md) 
+
+### #is_/same_as :: [Gorno-Altaysk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.public.md) 
+
+### #is_/same_as :: [Gorno-Altaysk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.internal.md) 
+
+### #is_/same_as :: [Gorno-Altaysk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.protect.md) 
+
+### #is_/same_as :: [Gorno-Altaysk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.private.md) 
+
+### #is_/same_as :: [Gorno-Altaysk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.personal.md) 
+
+### #is_/same_as :: [Gorno-Altaysk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.secret.md)
+

@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Amur_Oblast|State~Amur_Oblast]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Amur_Oblast.internal|State~Amur_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Amur_Oblast.protect|State~Amur_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Amur_Oblast.private|State~Amur_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Amur_Oblast.personal|State~Amur_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Amur_Oblast.secret|State~Amur_Oblast.secret]] 
+
+### #is_/same_as :: [Amur_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.md) 
+
+### #is_/same_as :: [Amur_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.public.md) 
+
+### #is_/same_as :: [Amur_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.internal.md) 
+
+### #is_/same_as :: [Amur_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.protect.md) 
+
+### #is_/same_as :: [Amur_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.private.md) 
+
+### #is_/same_as :: [Amur_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.personal.md) 
+
+### #is_/same_as :: [Amur_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast.secret.md)
+

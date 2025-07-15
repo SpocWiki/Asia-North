@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.02,92.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Krasnojarsk|Krasnojarsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Krasnojarsk.public|Krasnojarsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Krasnojarsk.internal|Krasnojarsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Krasnojarsk.protect|Krasnojarsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Krasnojarsk.private|Krasnojarsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Krasnojarsk.personal|Krasnojarsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Krasnojarsk.secret|Krasnojarsk.secret]] 
+
+### #is_/same_as :: [Krasnojarsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.md) 
+
+### #is_/same_as :: [Krasnojarsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.public.md) 
+
+### #is_/same_as :: [Krasnojarsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.internal.md) 
+
+### #is_/same_as :: [Krasnojarsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.protect.md) 
+
+### #is_/same_as :: [Krasnojarsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.private.md) 
+
+### #is_/same_as :: [Krasnojarsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.personal.md) 
+
+### #is_/same_as :: [Krasnojarsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.secret.md)
+

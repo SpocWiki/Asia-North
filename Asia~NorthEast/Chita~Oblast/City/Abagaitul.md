@@ -31,10 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Asia/China/City/Abagaitul|Abagaitul]] 
-- [[../../../../../../_public/geo/Continent/Asia/China/City/Abagaitul.public|Abagaitul.public]] 
-- [[../../../../../../_internal/geo/Continent/Asia/China/City/Abagaitul.internal|Abagaitul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/China/City/Abagaitul.protect|Abagaitul.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/China/City/Abagaitul.private|Abagaitul.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/China/City/Abagaitul.personal|Abagaitul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/China/City/Abagaitul.secret|Abagaitul.secret]] 
+
+### #is_/same_as :: [Abagaitul](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Abagaitul.md) 
+
+### #is_/same_as :: [Abagaitul.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Abagaitul.public.md) 
+
+### #is_/same_as :: [Abagaitul.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Abagaitul.internal.md) 
+
+### #is_/same_as :: [Abagaitul.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Abagaitul.protect.md) 
+
+### #is_/same_as :: [Abagaitul.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Abagaitul.private.md) 
+
+### #is_/same_as :: [Abagaitul.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Abagaitul.personal.md) 
+
+### #is_/same_as :: [Abagaitul.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Abagaitul.secret.md)
+

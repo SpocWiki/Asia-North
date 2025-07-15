@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Urluk|Urluk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Urluk.public|Urluk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Urluk.internal|Urluk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Urluk.protect|Urluk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Urluk.private|Urluk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Urluk.personal|Urluk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Urluk.secret|Urluk.secret]] 
+
+### #is_/same_as :: [Urluk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Urluk.md) 
+
+### #is_/same_as :: [Urluk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Urluk.public.md) 
+
+### #is_/same_as :: [Urluk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Urluk.internal.md) 
+
+### #is_/same_as :: [Urluk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Urluk.protect.md) 
+
+### #is_/same_as :: [Urluk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Urluk.private.md) 
+
+### #is_/same_as :: [Urluk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Urluk.personal.md) 
+
+### #is_/same_as :: [Urluk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Urluk.secret.md)
+

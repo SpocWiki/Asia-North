@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.45,134.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Sifiisk|Sifiisk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sifiisk.public|Sifiisk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sifiisk.internal|Sifiisk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sifiisk.protect|Sifiisk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sifiisk.private|Sifiisk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sifiisk.personal|Sifiisk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sifiisk.secret|Sifiisk.secret]] 
+
+### #is_/same_as :: [Sifiisk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Sifiisk.md) 
+
+### #is_/same_as :: [Sifiisk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Sifiisk.public.md) 
+
+### #is_/same_as :: [Sifiisk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Sifiisk.internal.md) 
+
+### #is_/same_as :: [Sifiisk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Sifiisk.protect.md) 
+
+### #is_/same_as :: [Sifiisk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Sifiisk.private.md) 
+
+### #is_/same_as :: [Sifiisk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Sifiisk.personal.md) 
+
+### #is_/same_as :: [Sifiisk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Sifiisk.secret.md)
+

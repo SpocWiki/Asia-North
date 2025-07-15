@@ -1,4 +1,4 @@
-﻿---
+---
 location: [52.28,104.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Irkutsk|Irkutsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Irkutsk.public|Irkutsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Irkutsk.internal|Irkutsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Irkutsk.protect|Irkutsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Irkutsk.private|Irkutsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Irkutsk.personal|Irkutsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Irkutsk.secret|Irkutsk.secret]] 
+
+### #is_/same_as :: [Irkutsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Irkutsk.md) 
+
+### #is_/same_as :: [Irkutsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Irkutsk.public.md) 
+
+### #is_/same_as :: [Irkutsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Irkutsk.internal.md) 
+
+### #is_/same_as :: [Irkutsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Irkutsk.protect.md) 
+
+### #is_/same_as :: [Irkutsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Irkutsk.private.md) 
+
+### #is_/same_as :: [Irkutsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Irkutsk.personal.md) 
+
+### #is_/same_as :: [Irkutsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Irkutsk.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.75,93.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Abakan|Abakan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Abakan.public|Abakan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Abakan.internal|Abakan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Abakan.protect|Abakan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Abakan.private|Abakan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Abakan.personal|Abakan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Abakan.secret|Abakan.secret]] 
+
+### #is_/same_as :: [Abakan](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Abakan.md) 
+
+### #is_/same_as :: [Abakan.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Abakan.public.md) 
+
+### #is_/same_as :: [Abakan.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Abakan.internal.md) 
+
+### #is_/same_as :: [Abakan.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Abakan.protect.md) 
+
+### #is_/same_as :: [Abakan.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Abakan.private.md) 
+
+### #is_/same_as :: [Abakan.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Abakan.personal.md) 
+
+### #is_/same_as :: [Abakan.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Abakan.secret.md)
+

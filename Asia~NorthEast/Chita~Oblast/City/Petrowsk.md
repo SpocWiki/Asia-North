@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Petrowsk|Petrowsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Petrowsk.public|Petrowsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Petrowsk.internal|Petrowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Petrowsk.protect|Petrowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Petrowsk.private|Petrowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Petrowsk.personal|Petrowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Petrowsk.secret|Petrowsk.secret]] 
+
+### #is_/same_as :: [Petrowsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Petrowsk.md) 
+
+### #is_/same_as :: [Petrowsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Petrowsk.public.md) 
+
+### #is_/same_as :: [Petrowsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Petrowsk.internal.md) 
+
+### #is_/same_as :: [Petrowsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Petrowsk.protect.md) 
+
+### #is_/same_as :: [Petrowsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Petrowsk.private.md) 
+
+### #is_/same_as :: [Petrowsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Petrowsk.personal.md) 
+
+### #is_/same_as :: [Petrowsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Petrowsk.secret.md)
+

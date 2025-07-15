@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Chita~Oblast|State~Chita~Oblast]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Chita~Oblast.internal|State~Chita~Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Chita~Oblast.protect|State~Chita~Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Chita~Oblast.private|State~Chita~Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Chita~Oblast.personal|State~Chita~Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Chita~Oblast.secret|State~Chita~Oblast.secret]] 
+
+### #is_/same_as :: [Chita~Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast.md) 
+
+### #is_/same_as :: [Chita~Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast.public.md) 
+
+### #is_/same_as :: [Chita~Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast.internal.md) 
+
+### #is_/same_as :: [Chita~Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast.protect.md) 
+
+### #is_/same_as :: [Chita~Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast.private.md) 
+
+### #is_/same_as :: [Chita~Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast.personal.md) 
+
+### #is_/same_as :: [Chita~Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast.secret.md)
+

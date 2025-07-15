@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Mukhor_Shibir|Mukhor_Shibir]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mukhor_Shibir.public|Mukhor_Shibir.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mukhor_Shibir.internal|Mukhor_Shibir.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mukhor_Shibir.protect|Mukhor_Shibir.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mukhor_Shibir.private|Mukhor_Shibir.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mukhor_Shibir.personal|Mukhor_Shibir.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mukhor_Shibir.secret|Mukhor_Shibir.secret]] 
+
+### #is_/same_as :: [Mukhor_Shibir](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.md) 
+
+### #is_/same_as :: [Mukhor_Shibir.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.public.md) 
+
+### #is_/same_as :: [Mukhor_Shibir.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.internal.md) 
+
+### #is_/same_as :: [Mukhor_Shibir.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.protect.md) 
+
+### #is_/same_as :: [Mukhor_Shibir.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.private.md) 
+
+### #is_/same_as :: [Mukhor_Shibir.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.personal.md) 
+
+### #is_/same_as :: [Mukhor_Shibir.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [73.38,126.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Sagastyr|Sagastyr]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sagastyr.public|Sagastyr.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sagastyr.internal|Sagastyr.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sagastyr.protect|Sagastyr.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sagastyr.private|Sagastyr.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sagastyr.personal|Sagastyr.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sagastyr.secret|Sagastyr.secret]] 
+
+### #is_/same_as :: [Sagastyr](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Sagastyr.md) 
+
+### #is_/same_as :: [Sagastyr.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Sagastyr.public.md) 
+
+### #is_/same_as :: [Sagastyr.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Sagastyr.internal.md) 
+
+### #is_/same_as :: [Sagastyr.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Sagastyr.protect.md) 
+
+### #is_/same_as :: [Sagastyr.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Sagastyr.private.md) 
+
+### #is_/same_as :: [Sagastyr.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Sagastyr.personal.md) 
+
+### #is_/same_as :: [Sagastyr.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Sagastyr.secret.md)
+

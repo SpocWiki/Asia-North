@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.12,131.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Wladiwostok|Wladiwostok]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wladiwostok.public|Wladiwostok.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wladiwostok.internal|Wladiwostok.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wladiwostok.protect|Wladiwostok.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wladiwostok.private|Wladiwostok.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wladiwostok.personal|Wladiwostok.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wladiwostok.secret|Wladiwostok.secret]] 
+
+### #is_/same_as :: [Wladiwostok](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Wladiwostok.md) 
+
+### #is_/same_as :: [Wladiwostok.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Wladiwostok.public.md) 
+
+### #is_/same_as :: [Wladiwostok.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Wladiwostok.internal.md) 
+
+### #is_/same_as :: [Wladiwostok.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Wladiwostok.protect.md) 
+
+### #is_/same_as :: [Wladiwostok.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Wladiwostok.private.md) 
+
+### #is_/same_as :: [Wladiwostok.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Wladiwostok.personal.md) 
+
+### #is_/same_as :: [Wladiwostok.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Wladiwostok.secret.md)
+

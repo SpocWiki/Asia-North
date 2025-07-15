@@ -37,9 +37,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Zabaykalsky_Krai|State~Zabaykalsky_Krai]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Zabaykalsky_Krai.internal|State~Zabaykalsky_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Zabaykalsky_Krai.protect|State~Zabaykalsky_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Zabaykalsky_Krai.private|State~Zabaykalsky_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Zabaykalsky_Krai.personal|State~Zabaykalsky_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Zabaykalsky_Krai.secret|State~Zabaykalsky_Krai.secret]] 
+
+### #is_/same_as :: [Zabaykalsky_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Zabaykalsky_Krai.md) 
+
+### #is_/same_as :: [Zabaykalsky_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Zabaykalsky_Krai.public.md) 
+
+### #is_/same_as :: [Zabaykalsky_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Zabaykalsky_Krai.internal.md) 
+
+### #is_/same_as :: [Zabaykalsky_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Zabaykalsky_Krai.protect.md) 
+
+### #is_/same_as :: [Zabaykalsky_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Zabaykalsky_Krai.private.md) 
+
+### #is_/same_as :: [Zabaykalsky_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Zabaykalsky_Krai.personal.md) 
+
+### #is_/same_as :: [Zabaykalsky_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Zabaykalsky_Krai.secret.md)
+

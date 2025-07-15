@@ -1,4 +1,4 @@
-﻿---
+---
 location: [55.17,59.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Slatonst|Slatonst]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Slatonst.public|Slatonst.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Slatonst.internal|Slatonst.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Slatonst.protect|Slatonst.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Slatonst.private|Slatonst.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Slatonst.personal|Slatonst.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Slatonst.secret|Slatonst.secret]] 
+
+### #is_/same_as :: [Slatonst](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Slatonst.md) 
+
+### #is_/same_as :: [Slatonst.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Slatonst.public.md) 
+
+### #is_/same_as :: [Slatonst.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Slatonst.internal.md) 
+
+### #is_/same_as :: [Slatonst.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Slatonst.protect.md) 
+
+### #is_/same_as :: [Slatonst.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Slatonst.private.md) 
+
+### #is_/same_as :: [Slatonst.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Slatonst.personal.md) 
+
+### #is_/same_as :: [Slatonst.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Slatonst.secret.md)
+

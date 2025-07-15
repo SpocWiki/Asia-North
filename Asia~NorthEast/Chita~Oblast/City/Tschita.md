@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Tschita|Tschita]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tschita.public|Tschita.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tschita.internal|Tschita.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tschita.protect|Tschita.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tschita.private|Tschita.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tschita.personal|Tschita.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tschita.secret|Tschita.secret]] 
+
+### #is_/same_as :: [Tschita](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Tschita.md) 
+
+### #is_/same_as :: [Tschita.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Tschita.public.md) 
+
+### #is_/same_as :: [Tschita.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Tschita.internal.md) 
+
+### #is_/same_as :: [Tschita.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Tschita.protect.md) 
+
+### #is_/same_as :: [Tschita.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Tschita.private.md) 
+
+### #is_/same_as :: [Tschita.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Tschita.personal.md) 
+
+### #is_/same_as :: [Tschita.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Tschita.secret.md)
+

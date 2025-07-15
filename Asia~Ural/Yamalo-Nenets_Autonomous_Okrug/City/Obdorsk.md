@@ -1,4 +1,4 @@
-﻿---
+---
 location: [66.52,66.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Obdorsk|Obdorsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Obdorsk.public|Obdorsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Obdorsk.internal|Obdorsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Obdorsk.protect|Obdorsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Obdorsk.private|Obdorsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Obdorsk.personal|Obdorsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Obdorsk.secret|Obdorsk.secret]] 
+
+### #is_/same_as :: [Obdorsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.md) 
+
+### #is_/same_as :: [Obdorsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.public.md) 
+
+### #is_/same_as :: [Obdorsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.internal.md) 
+
+### #is_/same_as :: [Obdorsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.protect.md) 
+
+### #is_/same_as :: [Obdorsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.private.md) 
+
+### #is_/same_as :: [Obdorsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.personal.md) 
+
+### #is_/same_as :: [Obdorsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.secret.md)
+

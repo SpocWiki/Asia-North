@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Tyumen_Oblast|State~Tyumen_Oblast]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Tyumen_Oblast.internal|State~Tyumen_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Tyumen_Oblast.protect|State~Tyumen_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Tyumen_Oblast.private|State~Tyumen_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Tyumen_Oblast.personal|State~Tyumen_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Tyumen_Oblast.secret|State~Tyumen_Oblast.secret]] 
+
+### #is_/same_as :: [Tyumen_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.md) 
+
+### #is_/same_as :: [Tyumen_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.public.md) 
+
+### #is_/same_as :: [Tyumen_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.internal.md) 
+
+### #is_/same_as :: [Tyumen_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.protect.md) 
+
+### #is_/same_as :: [Tyumen_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.private.md) 
+
+### #is_/same_as :: [Tyumen_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.personal.md) 
+
+### #is_/same_as :: [Tyumen_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast.secret.md)
+

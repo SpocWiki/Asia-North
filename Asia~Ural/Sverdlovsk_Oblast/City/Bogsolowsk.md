@@ -1,4 +1,4 @@
-﻿---
+---
 location: [59.75,60.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Bogsolowsk|Bogsolowsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Bogsolowsk.public|Bogsolowsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Bogsolowsk.internal|Bogsolowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Bogsolowsk.protect|Bogsolowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Bogsolowsk.private|Bogsolowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Bogsolowsk.personal|Bogsolowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Bogsolowsk.secret|Bogsolowsk.secret]] 
+
+### #is_/same_as :: [Bogsolowsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.md) 
+
+### #is_/same_as :: [Bogsolowsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.public.md) 
+
+### #is_/same_as :: [Bogsolowsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.internal.md) 
+
+### #is_/same_as :: [Bogsolowsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.protect.md) 
+
+### #is_/same_as :: [Bogsolowsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.private.md) 
+
+### #is_/same_as :: [Bogsolowsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.personal.md) 
+
+### #is_/same_as :: [Bogsolowsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.72,55.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Ufa|Ufa]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ufa.public|Ufa.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ufa.internal|Ufa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ufa.protect|Ufa.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ufa.private|Ufa.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ufa.personal|Ufa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ufa.secret|Ufa.secret]] 
+
+### #is_/same_as :: [Ufa](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Ufa.md) 
+
+### #is_/same_as :: [Ufa.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Ufa.public.md) 
+
+### #is_/same_as :: [Ufa.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Ufa.internal.md) 
+
+### #is_/same_as :: [Ufa.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Ufa.protect.md) 
+
+### #is_/same_as :: [Ufa.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Ufa.private.md) 
+
+### #is_/same_as :: [Ufa.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Ufa.personal.md) 
+
+### #is_/same_as :: [Ufa.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic/City/Ufa.secret.md)
+

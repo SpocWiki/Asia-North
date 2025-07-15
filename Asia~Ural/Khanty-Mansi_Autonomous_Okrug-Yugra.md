@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Khanty-Mansi_Autonomous_Okrug-Yugra|State~Khanty-Mansi_Autonomous_Okrug-Yugra]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.internal|State~Khanty-Mansi_Autonomous_Okrug-Yugra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.protect|State~Khanty-Mansi_Autonomous_Okrug-Yugra.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.private|State~Khanty-Mansi_Autonomous_Okrug-Yugra.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.personal|State~Khanty-Mansi_Autonomous_Okrug-Yugra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Khanty-Mansi_Autonomous_Okrug-Yugra.secret|State~Khanty-Mansi_Autonomous_Okrug-Yugra.secret]] 
+
+### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.md) 
+
+### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.public.md) 
+
+### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.internal.md) 
+
+### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.protect.md) 
+
+### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.private.md) 
+
+### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.personal.md) 
+
+### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.secret.md)
+

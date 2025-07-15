@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Strietensk|Strietensk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Strietensk.public|Strietensk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Strietensk.internal|Strietensk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Strietensk.protect|Strietensk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Strietensk.private|Strietensk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Strietensk.personal|Strietensk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Strietensk.secret|Strietensk.secret]] 
+
+### #is_/same_as :: [Strietensk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Strietensk.md) 
+
+### #is_/same_as :: [Strietensk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Strietensk.public.md) 
+
+### #is_/same_as :: [Strietensk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Strietensk.internal.md) 
+
+### #is_/same_as :: [Strietensk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Strietensk.protect.md) 
+
+### #is_/same_as :: [Strietensk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Strietensk.private.md) 
+
+### #is_/same_as :: [Strietensk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Strietensk.personal.md) 
+
+### #is_/same_as :: [Strietensk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Strietensk.secret.md)
+

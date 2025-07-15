@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Sakha(Yakutia)~Republic|State~Sakha(Yakutia)~Republic]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.internal|State~Sakha(Yakutia)~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.protect|State~Sakha(Yakutia)~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.private|State~Sakha(Yakutia)~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.personal|State~Sakha(Yakutia)~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Sakha(Yakutia)~Republic.secret|State~Sakha(Yakutia)~Republic.secret]] 
+
+### #is_/same_as :: [Sakha(Yakutia)~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic.md) 
+
+### #is_/same_as :: [Sakha(Yakutia)~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic.public.md) 
+
+### #is_/same_as :: [Sakha(Yakutia)~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic.internal.md) 
+
+### #is_/same_as :: [Sakha(Yakutia)~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic.protect.md) 
+
+### #is_/same_as :: [Sakha(Yakutia)~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic.private.md) 
+
+### #is_/same_as :: [Sakha(Yakutia)~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic.personal.md) 
+
+### #is_/same_as :: [Sakha(Yakutia)~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic.secret.md)
+

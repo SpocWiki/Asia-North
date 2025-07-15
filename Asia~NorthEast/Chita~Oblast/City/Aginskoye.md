@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Aginskoye|Aginskoye]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Aginskoye.public|Aginskoye.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Aginskoye.internal|Aginskoye.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Aginskoye.protect|Aginskoye.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Aginskoye.private|Aginskoye.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Aginskoye.personal|Aginskoye.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Aginskoye.secret|Aginskoye.secret]] 
+
+### #is_/same_as :: [Aginskoye](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Aginskoye.md) 
+
+### #is_/same_as :: [Aginskoye.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Aginskoye.public.md) 
+
+### #is_/same_as :: [Aginskoye.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Aginskoye.internal.md) 
+
+### #is_/same_as :: [Aginskoye.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Aginskoye.protect.md) 
+
+### #is_/same_as :: [Aginskoye.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Aginskoye.private.md) 
+
+### #is_/same_as :: [Aginskoye.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Aginskoye.personal.md) 
+
+### #is_/same_as :: [Aginskoye.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Aginskoye.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [67.08,175.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Pitlekai|Pitlekai]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Pitlekai.public|Pitlekai.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Pitlekai.internal|Pitlekai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Pitlekai.protect|Pitlekai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Pitlekai.private|Pitlekai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Pitlekai.personal|Pitlekai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Pitlekai.secret|Pitlekai.secret]] 
+
+### #is_/same_as :: [Pitlekai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Pitlekai.md) 
+
+### #is_/same_as :: [Pitlekai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Pitlekai.public.md) 
+
+### #is_/same_as :: [Pitlekai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Pitlekai.internal.md) 
+
+### #is_/same_as :: [Pitlekai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Pitlekai.protect.md) 
+
+### #is_/same_as :: [Pitlekai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Pitlekai.private.md) 
+
+### #is_/same_as :: [Pitlekai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Pitlekai.personal.md) 
+
+### #is_/same_as :: [Pitlekai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Pitlekai.secret.md)
+

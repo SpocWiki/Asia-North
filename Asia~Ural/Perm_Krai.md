@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Perm_Krai|State~Perm_Krai]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Perm_Krai.internal|State~Perm_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Perm_Krai.protect|State~Perm_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Perm_Krai.private|State~Perm_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Perm_Krai.personal|State~Perm_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Perm_Krai.secret|State~Perm_Krai.secret]] 
+
+### #is_/same_as :: [Perm_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.md) 
+
+### #is_/same_as :: [Perm_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.public.md) 
+
+### #is_/same_as :: [Perm_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.internal.md) 
+
+### #is_/same_as :: [Perm_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.protect.md) 
+
+### #is_/same_as :: [Perm_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.private.md) 
+
+### #is_/same_as :: [Perm_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.personal.md) 
+
+### #is_/same_as :: [Perm_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai.secret.md)
+

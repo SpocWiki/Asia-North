@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Troizkossawsk|Troizkossawsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Troizkossawsk.public|Troizkossawsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troizkossawsk.internal|Troizkossawsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troizkossawsk.protect|Troizkossawsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troizkossawsk.private|Troizkossawsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troizkossawsk.personal|Troizkossawsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troizkossawsk.secret|Troizkossawsk.secret]] 
+
+### #is_/same_as :: [Troizkossawsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Troizkossawsk.md) 
+
+### #is_/same_as :: [Troizkossawsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Troizkossawsk.public.md) 
+
+### #is_/same_as :: [Troizkossawsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Troizkossawsk.internal.md) 
+
+### #is_/same_as :: [Troizkossawsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Troizkossawsk.protect.md) 
+
+### #is_/same_as :: [Troizkossawsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Troizkossawsk.private.md) 
+
+### #is_/same_as :: [Troizkossawsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Troizkossawsk.personal.md) 
+
+### #is_/same_as :: [Troizkossawsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chita~Oblast/City/Troizkossawsk.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.65,103.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Sliudynka|Sliudynka]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sliudynka.public|Sliudynka.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sliudynka.internal|Sliudynka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sliudynka.protect|Sliudynka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sliudynka.private|Sliudynka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sliudynka.personal|Sliudynka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sliudynka.secret|Sliudynka.secret]] 
+
+### #is_/same_as :: [Sliudynka](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Sliudynka.md) 
+
+### #is_/same_as :: [Sliudynka.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Sliudynka.public.md) 
+
+### #is_/same_as :: [Sliudynka.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Sliudynka.internal.md) 
+
+### #is_/same_as :: [Sliudynka.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Sliudynka.protect.md) 
+
+### #is_/same_as :: [Sliudynka.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Sliudynka.private.md) 
+
+### #is_/same_as :: [Sliudynka.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Sliudynka.personal.md) 
+
+### #is_/same_as :: [Sliudynka.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Sliudynka.secret.md)
+

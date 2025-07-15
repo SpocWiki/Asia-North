@@ -1,4 +1,4 @@
-﻿---
+---
 location: [55.03,82.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Nowosibirsk|Nowosibirsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Nowosibirsk.public|Nowosibirsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Nowosibirsk.internal|Nowosibirsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Nowosibirsk.protect|Nowosibirsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Nowosibirsk.private|Nowosibirsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Nowosibirsk.personal|Nowosibirsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Nowosibirsk.secret|Nowosibirsk.secret]] 
+
+### #is_/same_as :: [Nowosibirsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Nowosibirsk.md) 
+
+### #is_/same_as :: [Nowosibirsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Nowosibirsk.public.md) 
+
+### #is_/same_as :: [Nowosibirsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Nowosibirsk.internal.md) 
+
+### #is_/same_as :: [Nowosibirsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Nowosibirsk.protect.md) 
+
+### #is_/same_as :: [Nowosibirsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Nowosibirsk.private.md) 
+
+### #is_/same_as :: [Nowosibirsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Nowosibirsk.personal.md) 
+
+### #is_/same_as :: [Nowosibirsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Nowosibirsk.secret.md)
+

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Khabarovka|Khabarovka]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Khabarovka.public|Khabarovka.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khabarovka.internal|Khabarovka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khabarovka.protect|Khabarovka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khabarovka.private|Khabarovka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khabarovka.personal|Khabarovka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khabarovka.secret|Khabarovka.secret]] 
+
+### #is_/same_as :: [Khabarovka](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.md) 
+
+### #is_/same_as :: [Khabarovka.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.public.md) 
+
+### #is_/same_as :: [Khabarovka.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.internal.md) 
+
+### #is_/same_as :: [Khabarovka.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.protect.md) 
+
+### #is_/same_as :: [Khabarovka.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.private.md) 
+
+### #is_/same_as :: [Khabarovka.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.personal.md) 
+
+### #is_/same_as :: [Khabarovka.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.secret.md)
+

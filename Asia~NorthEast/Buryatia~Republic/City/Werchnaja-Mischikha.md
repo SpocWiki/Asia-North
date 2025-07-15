@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha|Werchnaja-Mischikha]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.public|Werchnaja-Mischikha.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.internal|Werchnaja-Mischikha.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.protect|Werchnaja-Mischikha.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.private|Werchnaja-Mischikha.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.personal|Werchnaja-Mischikha.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Werchnaja-Mischikha.secret|Werchnaja-Mischikha.secret]] 
+
+### #is_/same_as :: [Werchnaja-Mischikha](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.md) 
+
+### #is_/same_as :: [Werchnaja-Mischikha.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.public.md) 
+
+### #is_/same_as :: [Werchnaja-Mischikha.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.internal.md) 
+
+### #is_/same_as :: [Werchnaja-Mischikha.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.protect.md) 
+
+### #is_/same_as :: [Werchnaja-Mischikha.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.private.md) 
+
+### #is_/same_as :: [Werchnaja-Mischikha.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.personal.md) 
+
+### #is_/same_as :: [Werchnaja-Mischikha.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.secret.md)
+

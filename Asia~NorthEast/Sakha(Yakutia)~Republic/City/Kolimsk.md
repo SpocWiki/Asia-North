@@ -1,4 +1,4 @@
-﻿---
+---
 location: [67.17,157.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Sweden/City/Kolimsk|Kolimsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Sweden/City/Kolimsk.public|Kolimsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Sweden/City/Kolimsk.internal|Kolimsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Sweden/City/Kolimsk.protect|Kolimsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Sweden/City/Kolimsk.private|Kolimsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Sweden/City/Kolimsk.personal|Kolimsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Sweden/City/Kolimsk.secret|Kolimsk.secret]] 
+
+### #is_/same_as :: [Kolimsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Kolimsk.md) 
+
+### #is_/same_as :: [Kolimsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Kolimsk.public.md) 
+
+### #is_/same_as :: [Kolimsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Kolimsk.internal.md) 
+
+### #is_/same_as :: [Kolimsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Kolimsk.protect.md) 
+
+### #is_/same_as :: [Kolimsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Kolimsk.private.md) 
+
+### #is_/same_as :: [Kolimsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Kolimsk.personal.md) 
+
+### #is_/same_as :: [Kolimsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Kolimsk.secret.md)
+

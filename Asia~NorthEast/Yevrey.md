@@ -40,11 +40,18 @@ markerFolder: ./State~Yevrey/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey|State~Yevrey]] 
-- [[../../../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.public|State~Yevrey.public]] 
-- [[../../../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.internal|State~Yevrey.internal]] 
-- [[../../../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.protect|State~Yevrey.protect]] 
-- [[../../../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.private|State~Yevrey.private]] 
-- [[../../../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.personal|State~Yevrey.personal]] 
-- [[../../../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Yevrey.secret|State~Yevrey.secret]] 
+
+### #is_/same_as :: [Yevrey](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.md) 
+
+### #is_/same_as :: [Yevrey.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.public.md) 
+
+### #is_/same_as :: [Yevrey.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.internal.md) 
+
+### #is_/same_as :: [Yevrey.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.protect.md) 
+
+### #is_/same_as :: [Yevrey.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.private.md) 
+
+### #is_/same_as :: [Yevrey.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.personal.md) 
+
+### #is_/same_as :: [Yevrey.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.secret.md)
 

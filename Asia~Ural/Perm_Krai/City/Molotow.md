@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58.02,56.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Molotow|Molotow]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Molotow.public|Molotow.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Molotow.internal|Molotow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Molotow.protect|Molotow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Molotow.private|Molotow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Molotow.personal|Molotow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Molotow.secret|Molotow.secret]] 
+
+### #is_/same_as :: [Molotow](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Molotow.md) 
+
+### #is_/same_as :: [Molotow.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Molotow.public.md) 
+
+### #is_/same_as :: [Molotow.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Molotow.internal.md) 
+
+### #is_/same_as :: [Molotow.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Molotow.protect.md) 
+
+### #is_/same_as :: [Molotow.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Molotow.private.md) 
+
+### #is_/same_as :: [Molotow.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Molotow.personal.md) 
+
+### #is_/same_as :: [Molotow.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Molotow.secret.md)
+

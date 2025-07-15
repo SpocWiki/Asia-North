@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Mosowsk|Mosowsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mosowsk.public|Mosowsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mosowsk.internal|Mosowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mosowsk.protect|Mosowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mosowsk.private|Mosowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mosowsk.personal|Mosowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mosowsk.secret|Mosowsk.secret]] 
+
+### #is_/same_as :: [Mosowsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mosowsk.md) 
+
+### #is_/same_as :: [Mosowsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mosowsk.public.md) 
+
+### #is_/same_as :: [Mosowsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mosowsk.internal.md) 
+
+### #is_/same_as :: [Mosowsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mosowsk.protect.md) 
+
+### #is_/same_as :: [Mosowsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mosowsk.private.md) 
+
+### #is_/same_as :: [Mosowsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mosowsk.personal.md) 
+
+### #is_/same_as :: [Mosowsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mosowsk.secret.md)
+

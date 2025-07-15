@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58.2,63.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Turinsk|Turinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Turinsk.public|Turinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turinsk.internal|Turinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turinsk.protect|Turinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turinsk.private|Turinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turinsk.personal|Turinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turinsk.secret|Turinsk.secret]] 
+
+### #is_/same_as :: [Turinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Turinsk.md) 
+
+### #is_/same_as :: [Turinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Turinsk.public.md) 
+
+### #is_/same_as :: [Turinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Turinsk.internal.md) 
+
+### #is_/same_as :: [Turinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Turinsk.protect.md) 
+
+### #is_/same_as :: [Turinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Turinsk.private.md) 
+
+### #is_/same_as :: [Turinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Turinsk.personal.md) 
+
+### #is_/same_as :: [Turinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Turinsk.secret.md)
+

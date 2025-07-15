@@ -40,22 +40,18 @@ markerFolder: ./Island~Ayon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon|Island~Ayon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.public|Island~Ayon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.internal|Island~Ayon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.protect|Island~Ayon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.private|Island~Ayon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.personal|Island~Ayon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Ayon.secret|Island~Ayon.secret]] 
 
+### #is_/same_as :: [Island~Ayon](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.md) 
 
+### #is_/same_as :: [Island~Ayon.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.public.md) 
 
-```leaflet
-id: State~Chukotka_Autonomous_Okrug
-geojsonFolder: ./Island~Ayon/
-markerFolder: ./Island~Ayon/
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-```
+### #is_/same_as :: [Island~Ayon.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.internal.md) 
+
+### #is_/same_as :: [Island~Ayon.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.protect.md) 
+
+### #is_/same_as :: [Island~Ayon.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.private.md) 
+
+### #is_/same_as :: [Island~Ayon.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.personal.md) 
+
+### #is_/same_as :: [Island~Ayon.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.secret.md)
 

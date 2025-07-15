@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-[[State~Taymyr~Autonomous_Okrug|State~Taymyr~Autonomous_Okrug]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.internal|State~Taymyr_Autonomous_Okrug.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.protect|State~Taymyr_Autonomous_Okrug.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.private|State~Taymyr_Autonomous_Okrug.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.personal|State~Taymyr_Autonomous_Okrug.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Taymyr_Autonomous_Okrug.secret|State~Taymyr_Autonomous_Okrug.secret]] 
+
+### #is_/same_as :: [Taymyr~Autonomous_Okrug](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Taymyr~Autonomous_Okrug.md) 
+
+### #is_/same_as :: [Taymyr~Autonomous_Okrug.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Taymyr~Autonomous_Okrug.public.md) 
+
+### #is_/same_as :: [Taymyr~Autonomous_Okrug.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Taymyr~Autonomous_Okrug.internal.md) 
+
+### #is_/same_as :: [Taymyr~Autonomous_Okrug.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Taymyr~Autonomous_Okrug.protect.md) 
+
+### #is_/same_as :: [Taymyr~Autonomous_Okrug.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Taymyr~Autonomous_Okrug.private.md) 
+
+### #is_/same_as :: [Taymyr~Autonomous_Okrug.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Taymyr~Autonomous_Okrug.personal.md) 
+
+### #is_/same_as :: [Taymyr~Autonomous_Okrug.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Taymyr~Autonomous_Okrug.secret.md)
+

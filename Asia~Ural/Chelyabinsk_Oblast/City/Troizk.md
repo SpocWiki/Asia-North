@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.08,61.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Troizk|Troizk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Troizk.public|Troizk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Troizk.internal|Troizk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Troizk.protect|Troizk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Troizk.private|Troizk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Troizk.personal|Troizk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Troizk.secret|Troizk.secret]] 
+
+### #is_/same_as :: [Troizk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Troizk.md) 
+
+### #is_/same_as :: [Troizk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Troizk.public.md) 
+
+### #is_/same_as :: [Troizk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Troizk.internal.md) 
+
+### #is_/same_as :: [Troizk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Troizk.protect.md) 
+
+### #is_/same_as :: [Troizk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Troizk.private.md) 
+
+### #is_/same_as :: [Troizk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Troizk.personal.md) 
+
+### #is_/same_as :: [Troizk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Troizk.secret.md)
+

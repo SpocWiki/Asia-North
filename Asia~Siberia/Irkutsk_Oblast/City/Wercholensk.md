@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.13,105.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Wercholensk|Wercholensk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Wercholensk.public|Wercholensk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Wercholensk.internal|Wercholensk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Wercholensk.protect|Wercholensk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Wercholensk.private|Wercholensk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Wercholensk.personal|Wercholensk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Wercholensk.secret|Wercholensk.secret]] 
+
+### #is_/same_as :: [Wercholensk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Wercholensk.md) 
+
+### #is_/same_as :: [Wercholensk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Wercholensk.public.md) 
+
+### #is_/same_as :: [Wercholensk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Wercholensk.internal.md) 
+
+### #is_/same_as :: [Wercholensk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Wercholensk.protect.md) 
+
+### #is_/same_as :: [Wercholensk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Wercholensk.private.md) 
+
+### #is_/same_as :: [Wercholensk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Wercholensk.personal.md) 
+
+### #is_/same_as :: [Wercholensk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Wercholensk.secret.md)
+

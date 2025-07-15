@@ -1,4 +1,4 @@
-﻿---
+---
 location: [66.53333,66.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Salekhard|Salekhard]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Salekhard.public|Salekhard.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Salekhard.internal|Salekhard.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Salekhard.protect|Salekhard.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Salekhard.private|Salekhard.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Salekhard.personal|Salekhard.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Salekhard.secret|Salekhard.secret]] 
+
+### #is_/same_as :: [Salekhard](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Salekhard.md) 
+
+### #is_/same_as :: [Salekhard.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Salekhard.public.md) 
+
+### #is_/same_as :: [Salekhard.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Salekhard.internal.md) 
+
+### #is_/same_as :: [Salekhard.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Salekhard.protect.md) 
+
+### #is_/same_as :: [Salekhard.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Salekhard.private.md) 
+
+### #is_/same_as :: [Salekhard.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Salekhard.personal.md) 
+
+### #is_/same_as :: [Salekhard.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Salekhard.secret.md)
+

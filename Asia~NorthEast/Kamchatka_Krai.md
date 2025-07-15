@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Kamchatka_Krai|State~Kamchatka_Krai]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Kamchatka_Krai.internal|State~Kamchatka_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Kamchatka_Krai.protect|State~Kamchatka_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Kamchatka_Krai.private|State~Kamchatka_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Kamchatka_Krai.personal|State~Kamchatka_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Kamchatka_Krai.secret|State~Kamchatka_Krai.secret]] 
+
+### #is_/same_as :: [Kamchatka_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.md) 
+
+### #is_/same_as :: [Kamchatka_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.public.md) 
+
+### #is_/same_as :: [Kamchatka_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.internal.md) 
+
+### #is_/same_as :: [Kamchatka_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.protect.md) 
+
+### #is_/same_as :: [Kamchatka_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.private.md) 
+
+### #is_/same_as :: [Kamchatka_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.personal.md) 
+
+### #is_/same_as :: [Kamchatka_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.secret.md)
+

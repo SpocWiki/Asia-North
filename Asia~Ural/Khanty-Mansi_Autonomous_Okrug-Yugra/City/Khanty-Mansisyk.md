@@ -1,4 +1,4 @@
-﻿---
+---
 location: [61,69] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Khanty-Mansisyk|Khanty-Mansisyk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.public|Khanty-Mansisyk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.internal|Khanty-Mansisyk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.protect|Khanty-Mansisyk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.private|Khanty-Mansisyk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.personal|Khanty-Mansisyk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Khanty-Mansisyk.secret|Khanty-Mansisyk.secret]] 
+
+### #is_/same_as :: [Khanty-Mansisyk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.md) 
+
+### #is_/same_as :: [Khanty-Mansisyk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.public.md) 
+
+### #is_/same_as :: [Khanty-Mansisyk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.internal.md) 
+
+### #is_/same_as :: [Khanty-Mansisyk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.protect.md) 
+
+### #is_/same_as :: [Khanty-Mansisyk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.private.md) 
+
+### #is_/same_as :: [Khanty-Mansisyk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.personal.md) 
+
+### #is_/same_as :: [Khanty-Mansisyk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.secret.md)
+

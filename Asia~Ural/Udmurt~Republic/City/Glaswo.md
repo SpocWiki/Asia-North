@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58.13,52.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Glaswo|Glaswo]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Glaswo.public|Glaswo.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Glaswo.internal|Glaswo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Glaswo.protect|Glaswo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Glaswo.private|Glaswo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Glaswo.personal|Glaswo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Glaswo.secret|Glaswo.secret]] 
+
+### #is_/same_as :: [Glaswo](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Glaswo.md) 
+
+### #is_/same_as :: [Glaswo.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Glaswo.public.md) 
+
+### #is_/same_as :: [Glaswo.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Glaswo.internal.md) 
+
+### #is_/same_as :: [Glaswo.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Glaswo.protect.md) 
+
+### #is_/same_as :: [Glaswo.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Glaswo.private.md) 
+
+### #is_/same_as :: [Glaswo.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Glaswo.personal.md) 
+
+### #is_/same_as :: [Glaswo.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Glaswo.secret.md)
+

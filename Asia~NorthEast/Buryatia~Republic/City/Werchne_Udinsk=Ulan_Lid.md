@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Werchne_Udinsk=Ulan_Lid|Werchne_Udinsk=Ulan_Lid]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Werchne_Udinsk=Ulan_Lid.public|Werchne_Udinsk=Ulan_Lid.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Werchne_Udinsk=Ulan_Lid.internal|Werchne_Udinsk=Ulan_Lid.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Werchne_Udinsk=Ulan_Lid.protect|Werchne_Udinsk=Ulan_Lid.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Werchne_Udinsk=Ulan_Lid.private|Werchne_Udinsk=Ulan_Lid.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Werchne_Udinsk=Ulan_Lid.personal|Werchne_Udinsk=Ulan_Lid.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Werchne_Udinsk=Ulan_Lid.secret|Werchne_Udinsk=Ulan_Lid.secret]] 
+
+### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.md) 
+
+### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.public.md) 
+
+### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.internal.md) 
+
+### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.protect.md) 
+
+### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.private.md) 
+
+### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.personal.md) 
+
+### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.secret.md)
+

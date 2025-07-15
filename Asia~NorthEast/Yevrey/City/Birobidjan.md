@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Birobidjan|Birobidjan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Birobidjan.public|Birobidjan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Birobidjan.internal|Birobidjan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Birobidjan.protect|Birobidjan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Birobidjan.private|Birobidjan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Birobidjan.personal|Birobidjan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Birobidjan.secret|Birobidjan.secret]] 
+
+### #is_/same_as :: [Birobidjan](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.md) 
+
+### #is_/same_as :: [Birobidjan.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.public.md) 
+
+### #is_/same_as :: [Birobidjan.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.internal.md) 
+
+### #is_/same_as :: [Birobidjan.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.protect.md) 
+
+### #is_/same_as :: [Birobidjan.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.private.md) 
+
+### #is_/same_as :: [Birobidjan.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.personal.md) 
+
+### #is_/same_as :: [Birobidjan.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.secret.md)
+

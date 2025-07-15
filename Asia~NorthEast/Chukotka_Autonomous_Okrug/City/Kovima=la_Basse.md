@@ -1,4 +1,4 @@
-﻿---
+---
 location: [68.3,163.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kovima=la_Basse|Kovima=la_Basse]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kovima=la_Basse.public|Kovima=la_Basse.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kovima=la_Basse.internal|Kovima=la_Basse.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kovima=la_Basse.protect|Kovima=la_Basse.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kovima=la_Basse.private|Kovima=la_Basse.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kovima=la_Basse.personal|Kovima=la_Basse.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kovima=la_Basse.secret|Kovima=la_Basse.secret]] 
+
+### #is_/same_as :: [Kovima=la_Basse](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.md) 
+
+### #is_/same_as :: [Kovima=la_Basse.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.public.md) 
+
+### #is_/same_as :: [Kovima=la_Basse.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.internal.md) 
+
+### #is_/same_as :: [Kovima=la_Basse.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.protect.md) 
+
+### #is_/same_as :: [Kovima=la_Basse.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.private.md) 
+
+### #is_/same_as :: [Kovima=la_Basse.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.personal.md) 
+
+### #is_/same_as :: [Kovima=la_Basse.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.secret.md)
+

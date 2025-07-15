@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Ayan|Ayan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ayan.public|Ayan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ayan.internal|Ayan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ayan.protect|Ayan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ayan.private|Ayan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ayan.personal|Ayan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ayan.secret|Ayan.secret]] 
+
+### #is_/same_as :: [Ayan](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ayan.md) 
+
+### #is_/same_as :: [Ayan.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ayan.public.md) 
+
+### #is_/same_as :: [Ayan.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ayan.internal.md) 
+
+### #is_/same_as :: [Ayan.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ayan.protect.md) 
+
+### #is_/same_as :: [Ayan.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ayan.private.md) 
+
+### #is_/same_as :: [Ayan.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ayan.personal.md) 
+
+### #is_/same_as :: [Ayan.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ayan.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [63.93,65.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Berezof|Berezof]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Berezof.public|Berezof.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Berezof.internal|Berezof.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Berezof.protect|Berezof.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Berezof.private|Berezof.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Berezof.personal|Berezof.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Berezof.secret|Berezof.secret]] 
+
+### #is_/same_as :: [Berezof](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Berezof.md) 
+
+### #is_/same_as :: [Berezof.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Berezof.public.md) 
+
+### #is_/same_as :: [Berezof.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Berezof.internal.md) 
+
+### #is_/same_as :: [Berezof.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Berezof.protect.md) 
+
+### #is_/same_as :: [Berezof.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Berezof.private.md) 
+
+### #is_/same_as :: [Berezof.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Berezof.personal.md) 
+
+### #is_/same_as :: [Berezof.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Berezof.secret.md)
+

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Chabarowsk|Chabarowsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chabarowsk.public|Chabarowsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chabarowsk.internal|Chabarowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chabarowsk.protect|Chabarowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chabarowsk.private|Chabarowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chabarowsk.personal|Chabarowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chabarowsk.secret|Chabarowsk.secret]] 
+
+### #is_/same_as :: [Chabarowsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Chabarowsk.md) 
+
+### #is_/same_as :: [Chabarowsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Chabarowsk.public.md) 
+
+### #is_/same_as :: [Chabarowsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Chabarowsk.internal.md) 
+
+### #is_/same_as :: [Chabarowsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Chabarowsk.protect.md) 
+
+### #is_/same_as :: [Chabarowsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Chabarowsk.private.md) 
+
+### #is_/same_as :: [Chabarowsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Chabarowsk.personal.md) 
+
+### #is_/same_as :: [Chabarowsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Chabarowsk.secret.md)
+

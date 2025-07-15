@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Novosibirsk_Oblast|State~Novosibirsk_Oblast]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.internal|State~Novosibirsk_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.protect|State~Novosibirsk_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.private|State~Novosibirsk_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.personal|State~Novosibirsk_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Novosibirsk_Oblast.secret|State~Novosibirsk_Oblast.secret]] 
+
+### #is_/same_as :: [Novosibirsk_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.md) 
+
+### #is_/same_as :: [Novosibirsk_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.public.md) 
+
+### #is_/same_as :: [Novosibirsk_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.internal.md) 
+
+### #is_/same_as :: [Novosibirsk_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.protect.md) 
+
+### #is_/same_as :: [Novosibirsk_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.private.md) 
+
+### #is_/same_as :: [Novosibirsk_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.personal.md) 
+
+### #is_/same_as :: [Novosibirsk_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast.secret.md)
+

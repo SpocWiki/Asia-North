@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.83,60.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Swerdlowsk|Swerdlowsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Swerdlowsk.public|Swerdlowsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Swerdlowsk.internal|Swerdlowsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Swerdlowsk.protect|Swerdlowsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Swerdlowsk.private|Swerdlowsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Swerdlowsk.personal|Swerdlowsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Swerdlowsk.secret|Swerdlowsk.secret]] 
+
+### #is_/same_as :: [Swerdlowsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Swerdlowsk.md) 
+
+### #is_/same_as :: [Swerdlowsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Swerdlowsk.public.md) 
+
+### #is_/same_as :: [Swerdlowsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Swerdlowsk.internal.md) 
+
+### #is_/same_as :: [Swerdlowsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Swerdlowsk.protect.md) 
+
+### #is_/same_as :: [Swerdlowsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Swerdlowsk.private.md) 
+
+### #is_/same_as :: [Swerdlowsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Swerdlowsk.personal.md) 
+
+### #is_/same_as :: [Swerdlowsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Swerdlowsk.secret.md)
+

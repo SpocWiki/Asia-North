@@ -1,4 +1,4 @@
-﻿---
+---
 location: [55.17,61.4] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Chelyabinsk|Chelyabinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Chelyabinsk.public|Chelyabinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Chelyabinsk.internal|Chelyabinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Chelyabinsk.protect|Chelyabinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Chelyabinsk.private|Chelyabinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Chelyabinsk.personal|Chelyabinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Chelyabinsk.secret|Chelyabinsk.secret]] 
+
+### #is_/same_as :: [Chelyabinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Chelyabinsk.md) 
+
+### #is_/same_as :: [Chelyabinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Chelyabinsk.public.md) 
+
+### #is_/same_as :: [Chelyabinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Chelyabinsk.internal.md) 
+
+### #is_/same_as :: [Chelyabinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Chelyabinsk.protect.md) 
+
+### #is_/same_as :: [Chelyabinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Chelyabinsk.private.md) 
+
+### #is_/same_as :: [Chelyabinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Chelyabinsk.personal.md) 
+
+### #is_/same_as :: [Chelyabinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Chelyabinsk.secret.md)
+

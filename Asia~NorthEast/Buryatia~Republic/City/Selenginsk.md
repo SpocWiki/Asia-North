@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Selenginsk|Selenginsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Selenginsk.public|Selenginsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Selenginsk.internal|Selenginsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Selenginsk.protect|Selenginsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Selenginsk.private|Selenginsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Selenginsk.personal|Selenginsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Selenginsk.secret|Selenginsk.secret]] 
+
+### #is_/same_as :: [Selenginsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Selenginsk.md) 
+
+### #is_/same_as :: [Selenginsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Selenginsk.public.md) 
+
+### #is_/same_as :: [Selenginsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Selenginsk.internal.md) 
+
+### #is_/same_as :: [Selenginsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Selenginsk.protect.md) 
+
+### #is_/same_as :: [Selenginsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Selenginsk.private.md) 
+
+### #is_/same_as :: [Selenginsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Selenginsk.personal.md) 
+
+### #is_/same_as :: [Selenginsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Selenginsk.secret.md)
+

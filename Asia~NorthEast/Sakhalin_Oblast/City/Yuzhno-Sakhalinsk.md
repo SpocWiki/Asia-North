@@ -1,4 +1,4 @@
-﻿---
+---
 location: [46.96667,142.7333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk|Yuzhno-Sakhalinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.public|Yuzhno-Sakhalinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.internal|Yuzhno-Sakhalinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.protect|Yuzhno-Sakhalinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.private|Yuzhno-Sakhalinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.personal|Yuzhno-Sakhalinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Yuzhno-Sakhalinsk.secret|Yuzhno-Sakhalinsk.secret]] 
+
+### #is_/same_as :: [Yuzhno-Sakhalinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.md) 
+
+### #is_/same_as :: [Yuzhno-Sakhalinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.public.md) 
+
+### #is_/same_as :: [Yuzhno-Sakhalinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.internal.md) 
+
+### #is_/same_as :: [Yuzhno-Sakhalinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.protect.md) 
+
+### #is_/same_as :: [Yuzhno-Sakhalinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.private.md) 
+
+### #is_/same_as :: [Yuzhno-Sakhalinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.personal.md) 
+
+### #is_/same_as :: [Yuzhno-Sakhalinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.secret.md)
+

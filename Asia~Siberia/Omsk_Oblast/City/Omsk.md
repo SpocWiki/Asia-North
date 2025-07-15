@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.98,73.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Omsk|Omsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Omsk.public|Omsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Omsk.internal|Omsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Omsk.protect|Omsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Omsk.private|Omsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Omsk.personal|Omsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Omsk.secret|Omsk.secret]] 
+
+### #is_/same_as :: [Omsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.md) 
+
+### #is_/same_as :: [Omsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.public.md) 
+
+### #is_/same_as :: [Omsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.internal.md) 
+
+### #is_/same_as :: [Omsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.protect.md) 
+
+### #is_/same_as :: [Omsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.private.md) 
+
+### #is_/same_as :: [Omsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.personal.md) 
+
+### #is_/same_as :: [Omsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58,56.31667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Perm|Perm]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Perm.public|Perm.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Perm.internal|Perm.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Perm.protect|Perm.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Perm.private|Perm.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Perm.personal|Perm.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Perm.secret|Perm.secret]] 
+
+### #is_/same_as :: [Perm](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.md) 
+
+### #is_/same_as :: [Perm.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.public.md) 
+
+### #is_/same_as :: [Perm.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.internal.md) 
+
+### #is_/same_as :: [Perm.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.protect.md) 
+
+### #is_/same_as :: [Perm.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.private.md) 
+
+### #is_/same_as :: [Perm.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.personal.md) 
+
+### #is_/same_as :: [Perm.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Perm.secret.md)
+

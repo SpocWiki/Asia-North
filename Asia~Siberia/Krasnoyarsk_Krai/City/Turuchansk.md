@@ -1,4 +1,4 @@
-﻿---
+---
 location: [65.92,87.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Turuchansk|Turuchansk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Turuchansk.public|Turuchansk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Turuchansk.internal|Turuchansk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Turuchansk.protect|Turuchansk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Turuchansk.private|Turuchansk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Turuchansk.personal|Turuchansk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Turuchansk.secret|Turuchansk.secret]] 
+
+### #is_/same_as :: [Turuchansk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Turuchansk.md) 
+
+### #is_/same_as :: [Turuchansk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Turuchansk.public.md) 
+
+### #is_/same_as :: [Turuchansk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Turuchansk.internal.md) 
+
+### #is_/same_as :: [Turuchansk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Turuchansk.protect.md) 
+
+### #is_/same_as :: [Turuchansk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Turuchansk.private.md) 
+
+### #is_/same_as :: [Turuchansk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Turuchansk.personal.md) 
+
+### #is_/same_as :: [Turuchansk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Turuchansk.secret.md)
+

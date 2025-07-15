@@ -1,4 +1,4 @@
-﻿---
+---
 location: [57.5,86.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Igarka|Igarka]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Igarka.public|Igarka.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Igarka.internal|Igarka.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Igarka.protect|Igarka.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Igarka.private|Igarka.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Igarka.personal|Igarka.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Igarka.secret|Igarka.secret]] 
+
+### #is_/same_as :: [Igarka](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast/City/Igarka.md) 
+
+### #is_/same_as :: [Igarka.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast/City/Igarka.public.md) 
+
+### #is_/same_as :: [Igarka.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast/City/Igarka.internal.md) 
+
+### #is_/same_as :: [Igarka.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast/City/Igarka.protect.md) 
+
+### #is_/same_as :: [Igarka.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast/City/Igarka.private.md) 
+
+### #is_/same_as :: [Igarka.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast/City/Igarka.personal.md) 
+
+### #is_/same_as :: [Igarka.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tomsk_Oblast/City/Igarka.secret.md)
+

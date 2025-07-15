@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Udmurt~Republic|State~Udmurt~Republic]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Udmurt~Republic.internal|State~Udmurt~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Udmurt~Republic.protect|State~Udmurt~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Udmurt~Republic.private|State~Udmurt~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Udmurt~Republic.personal|State~Udmurt~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Udmurt~Republic.secret|State~Udmurt~Republic.secret]] 
+
+### #is_/same_as :: [Udmurt~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.md) 
+
+### #is_/same_as :: [Udmurt~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.public.md) 
+
+### #is_/same_as :: [Udmurt~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.internal.md) 
+
+### #is_/same_as :: [Udmurt~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.protect.md) 
+
+### #is_/same_as :: [Udmurt~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.private.md) 
+
+### #is_/same_as :: [Udmurt~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.personal.md) 
+
+### #is_/same_as :: [Udmurt~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic.secret.md)
+

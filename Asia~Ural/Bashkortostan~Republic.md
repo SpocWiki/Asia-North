@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Bashkortostan~Republic|State~Bashkortostan~Republic]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.internal|State~Bashkortostan~Republic.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.protect|State~Bashkortostan~Republic.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.private|State~Bashkortostan~Republic.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.personal|State~Bashkortostan~Republic.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Bashkortostan~Republic.secret|State~Bashkortostan~Republic.secret]] 
+
+### #is_/same_as :: [Bashkortostan~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.md) 
+
+### #is_/same_as :: [Bashkortostan~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.public.md) 
+
+### #is_/same_as :: [Bashkortostan~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.internal.md) 
+
+### #is_/same_as :: [Bashkortostan~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.protect.md) 
+
+### #is_/same_as :: [Bashkortostan~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.private.md) 
+
+### #is_/same_as :: [Bashkortostan~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.personal.md) 
+
+### #is_/same_as :: [Bashkortostan~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Bashkortostan~Republic.secret.md)
+

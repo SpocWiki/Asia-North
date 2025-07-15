@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Udinsk|Udinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Udinsk.public|Udinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Udinsk.internal|Udinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Udinsk.protect|Udinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Udinsk.private|Udinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Udinsk.personal|Udinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Udinsk.secret|Udinsk.secret]] 
+
+### #is_/same_as :: [Udinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Udinsk.md) 
+
+### #is_/same_as :: [Udinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Udinsk.public.md) 
+
+### #is_/same_as :: [Udinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Udinsk.internal.md) 
+
+### #is_/same_as :: [Udinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Udinsk.protect.md) 
+
+### #is_/same_as :: [Udinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Udinsk.private.md) 
+
+### #is_/same_as :: [Udinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Udinsk.personal.md) 
+
+### #is_/same_as :: [Udinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Udinsk.secret.md)
+

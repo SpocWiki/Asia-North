@@ -1,4 +1,4 @@
-﻿---
+---
 location: [62.17,129.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Marschinskoje|Marschinskoje]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Marschinskoje.public|Marschinskoje.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marschinskoje.internal|Marschinskoje.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marschinskoje.protect|Marschinskoje.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marschinskoje.private|Marschinskoje.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marschinskoje.personal|Marschinskoje.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marschinskoje.secret|Marschinskoje.secret]] 
+
+### #is_/same_as :: [Marschinskoje](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Marschinskoje.md) 
+
+### #is_/same_as :: [Marschinskoje.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Marschinskoje.public.md) 
+
+### #is_/same_as :: [Marschinskoje.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Marschinskoje.internal.md) 
+
+### #is_/same_as :: [Marschinskoje.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Marschinskoje.protect.md) 
+
+### #is_/same_as :: [Marschinskoje.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Marschinskoje.private.md) 
+
+### #is_/same_as :: [Marschinskoje.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Marschinskoje.personal.md) 
+
+### #is_/same_as :: [Marschinskoje.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Marschinskoje.secret.md)
+

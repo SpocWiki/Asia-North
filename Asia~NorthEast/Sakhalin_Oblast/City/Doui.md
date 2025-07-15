@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.83,142.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Doui|Doui]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Doui.public|Doui.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Doui.internal|Doui.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Doui.protect|Doui.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Doui.private|Doui.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Doui.personal|Doui.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Doui.secret|Doui.secret]] 
+
+### #is_/same_as :: [Doui](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.md) 
+
+### #is_/same_as :: [Doui.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.public.md) 
+
+### #is_/same_as :: [Doui.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.internal.md) 
+
+### #is_/same_as :: [Doui.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.protect.md) 
+
+### #is_/same_as :: [Doui.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.private.md) 
+
+### #is_/same_as :: [Doui.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.personal.md) 
+
+### #is_/same_as :: [Doui.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [55.43,65.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kurgan|Kurgan]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kurgan.public|Kurgan.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kurgan.internal|Kurgan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kurgan.protect|Kurgan.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kurgan.private|Kurgan.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kurgan.personal|Kurgan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kurgan.secret|Kurgan.secret]] 
+
+### #is_/same_as :: [Kurgan](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast/City/Kurgan.md) 
+
+### #is_/same_as :: [Kurgan.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast/City/Kurgan.public.md) 
+
+### #is_/same_as :: [Kurgan.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast/City/Kurgan.internal.md) 
+
+### #is_/same_as :: [Kurgan.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast/City/Kurgan.protect.md) 
+
+### #is_/same_as :: [Kurgan.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast/City/Kurgan.private.md) 
+
+### #is_/same_as :: [Kurgan.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast/City/Kurgan.personal.md) 
+
+### #is_/same_as :: [Kurgan.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast/City/Kurgan.secret.md)
+

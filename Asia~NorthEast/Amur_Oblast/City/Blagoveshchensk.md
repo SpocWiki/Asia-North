@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.36666,127.5167] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Blagoveshchensk|Blagoveshchensk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Blagoveshchensk.public|Blagoveshchensk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Blagoveshchensk.internal|Blagoveshchensk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Blagoveshchensk.protect|Blagoveshchensk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Blagoveshchensk.private|Blagoveshchensk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Blagoveshchensk.personal|Blagoveshchensk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Blagoveshchensk.secret|Blagoveshchensk.secret]] 
+
+### #is_/same_as :: [Blagoveshchensk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.md) 
+
+### #is_/same_as :: [Blagoveshchensk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.public.md) 
+
+### #is_/same_as :: [Blagoveshchensk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.internal.md) 
+
+### #is_/same_as :: [Blagoveshchensk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.protect.md) 
+
+### #is_/same_as :: [Blagoveshchensk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.private.md) 
+
+### #is_/same_as :: [Blagoveshchensk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.personal.md) 
+
+### #is_/same_as :: [Blagoveshchensk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.secret.md)
+

@@ -40,22 +40,18 @@ markerFolder: ./Island~Wrangel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel|Island~Wrangel]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.public|Island~Wrangel.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.internal|Island~Wrangel.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.protect|Island~Wrangel.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.private|Island~Wrangel.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.personal|Island~Wrangel.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Wrangel.secret|Island~Wrangel.secret]] 
 
+### #is_/same_as :: [Island~Wrangel](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Wrangel.md) 
 
+### #is_/same_as :: [Island~Wrangel.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Wrangel.public.md) 
 
-```leaflet
-id: State~Chukotka_Autonomous_Okrug
-geojsonFolder: ./Island~Wrangel/
-markerFolder: ./Island~Wrangel/
-zoomFeatures: true 
-minZoom: 2 
-maxZoom: 18
-```
+### #is_/same_as :: [Island~Wrangel.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Wrangel.internal.md) 
+
+### #is_/same_as :: [Island~Wrangel.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Wrangel.protect.md) 
+
+### #is_/same_as :: [Island~Wrangel.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Wrangel.private.md) 
+
+### #is_/same_as :: [Island~Wrangel.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Wrangel.personal.md) 
+
+### #is_/same_as :: [Island~Wrangel.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Wrangel.secret.md)
 

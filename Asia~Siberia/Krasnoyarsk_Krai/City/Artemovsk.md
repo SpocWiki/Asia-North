@@ -1,4 +1,4 @@
-﻿---
+---
 location: [54.4,93.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Artemovsk|Artemovsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Artemovsk.public|Artemovsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Artemovsk.internal|Artemovsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Artemovsk.protect|Artemovsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Artemovsk.private|Artemovsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Artemovsk.personal|Artemovsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Artemovsk.secret|Artemovsk.secret]] 
+
+### #is_/same_as :: [Artemovsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.md) 
+
+### #is_/same_as :: [Artemovsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.public.md) 
+
+### #is_/same_as :: [Artemovsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.internal.md) 
+
+### #is_/same_as :: [Artemovsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.protect.md) 
+
+### #is_/same_as :: [Artemovsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.private.md) 
+
+### #is_/same_as :: [Artemovsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.personal.md) 
+
+### #is_/same_as :: [Artemovsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [59.65,56.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Solikamsk|Solikamsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Solikamsk.public|Solikamsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Solikamsk.internal|Solikamsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Solikamsk.protect|Solikamsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Solikamsk.private|Solikamsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Solikamsk.personal|Solikamsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Solikamsk.secret|Solikamsk.secret]] 
+
+### #is_/same_as :: [Solikamsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Solikamsk.md) 
+
+### #is_/same_as :: [Solikamsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Solikamsk.public.md) 
+
+### #is_/same_as :: [Solikamsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Solikamsk.internal.md) 
+
+### #is_/same_as :: [Solikamsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Solikamsk.protect.md) 
+
+### #is_/same_as :: [Solikamsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Solikamsk.private.md) 
+
+### #is_/same_as :: [Solikamsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Solikamsk.personal.md) 
+
+### #is_/same_as :: [Solikamsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Solikamsk.secret.md)
+

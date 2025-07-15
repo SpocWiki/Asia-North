@@ -1,4 +1,4 @@
-﻿---
+---
 location: [60.4,56.52] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Tscheidyn|Tscheidyn]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Tscheidyn.public|Tscheidyn.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Tscheidyn.internal|Tscheidyn.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Tscheidyn.protect|Tscheidyn.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Tscheidyn.private|Tscheidyn.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Tscheidyn.personal|Tscheidyn.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Tscheidyn.secret|Tscheidyn.secret]] 
+
+### #is_/same_as :: [Tscheidyn](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Tscheidyn.md) 
+
+### #is_/same_as :: [Tscheidyn.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Tscheidyn.public.md) 
+
+### #is_/same_as :: [Tscheidyn.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Tscheidyn.internal.md) 
+
+### #is_/same_as :: [Tscheidyn.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Tscheidyn.protect.md) 
+
+### #is_/same_as :: [Tscheidyn.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Tscheidyn.private.md) 
+
+### #is_/same_as :: [Tscheidyn.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Tscheidyn.personal.md) 
+
+### #is_/same_as :: [Tscheidyn.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Perm_Krai/City/Tscheidyn.secret.md)
+

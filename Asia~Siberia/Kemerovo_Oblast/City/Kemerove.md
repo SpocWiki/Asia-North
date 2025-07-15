@@ -1,4 +1,4 @@
-﻿---
+---
 location: [55.33,86.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kemerove|Kemerove]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kemerove.public|Kemerove.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kemerove.internal|Kemerove.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kemerove.protect|Kemerove.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kemerove.private|Kemerove.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kemerove.personal|Kemerove.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kemerove.secret|Kemerove.secret]] 
+
+### #is_/same_as :: [Kemerove](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Kemerove.md) 
+
+### #is_/same_as :: [Kemerove.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Kemerove.public.md) 
+
+### #is_/same_as :: [Kemerove.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Kemerove.internal.md) 
+
+### #is_/same_as :: [Kemerove.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Kemerove.protect.md) 
+
+### #is_/same_as :: [Kemerove.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Kemerove.private.md) 
+
+### #is_/same_as :: [Kemerove.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Kemerove.personal.md) 
+
+### #is_/same_as :: [Kemerove.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Kemerove.secret.md)
+

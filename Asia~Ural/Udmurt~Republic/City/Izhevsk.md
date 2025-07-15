@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.85,53.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Izhevsk|Izhevsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Izhevsk.public|Izhevsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Izhevsk.internal|Izhevsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Izhevsk.protect|Izhevsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Izhevsk.private|Izhevsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Izhevsk.personal|Izhevsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Izhevsk.secret|Izhevsk.secret]] 
+
+### #is_/same_as :: [Izhevsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Izhevsk.md) 
+
+### #is_/same_as :: [Izhevsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Izhevsk.public.md) 
+
+### #is_/same_as :: [Izhevsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Izhevsk.internal.md) 
+
+### #is_/same_as :: [Izhevsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Izhevsk.protect.md) 
+
+### #is_/same_as :: [Izhevsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Izhevsk.private.md) 
+
+### #is_/same_as :: [Izhevsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Izhevsk.personal.md) 
+
+### #is_/same_as :: [Izhevsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Udmurt~Republic/City/Izhevsk.secret.md)
+

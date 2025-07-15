@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kamen_Rybdow|Kamen_Rybdow]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kamen_Rybdow.public|Kamen_Rybdow.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kamen_Rybdow.internal|Kamen_Rybdow.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kamen_Rybdow.protect|Kamen_Rybdow.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kamen_Rybdow.private|Kamen_Rybdow.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kamen_Rybdow.personal|Kamen_Rybdow.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kamen_Rybdow.secret|Kamen_Rybdow.secret]] 
+
+### #is_/same_as :: [Kamen_Rybdow](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Kamen_Rybdow.md) 
+
+### #is_/same_as :: [Kamen_Rybdow.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Kamen_Rybdow.public.md) 
+
+### #is_/same_as :: [Kamen_Rybdow.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Kamen_Rybdow.internal.md) 
+
+### #is_/same_as :: [Kamen_Rybdow.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Kamen_Rybdow.protect.md) 
+
+### #is_/same_as :: [Kamen_Rybdow.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Kamen_Rybdow.private.md) 
+
+### #is_/same_as :: [Kamen_Rybdow.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Kamen_Rybdow.personal.md) 
+
+### #is_/same_as :: [Kamen_Rybdow.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Kamen_Rybdow.secret.md)
+

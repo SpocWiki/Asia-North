@@ -40,11 +40,18 @@ markerFolder: ./_Lakes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Kamchatka_Krai/_Lakes|_Lakes]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Kamchatka_Krai/_Lakes.public|_Lakes.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Kamchatka_Krai/_Lakes.internal|_Lakes.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Kamchatka_Krai/_Lakes.protect|_Lakes.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Kamchatka_Krai/_Lakes.private|_Lakes.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Kamchatka_Krai/_Lakes.personal|_Lakes.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Kamchatka_Krai/_Lakes.secret|_Lakes.secret]] 
+
+### #is_/same_as :: [_Lakes](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.md) 
+
+### #is_/same_as :: [_Lakes.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.public.md) 
+
+### #is_/same_as :: [_Lakes.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.internal.md) 
+
+### #is_/same_as :: [_Lakes.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.protect.md) 
+
+### #is_/same_as :: [_Lakes.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.private.md) 
+
+### #is_/same_as :: [_Lakes.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.personal.md) 
+
+### #is_/same_as :: [_Lakes.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.secret.md)
 

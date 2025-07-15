@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Sakhalin_Oblast|State~Sakhalin_Oblast]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.internal|State~Sakhalin_Oblast.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.protect|State~Sakhalin_Oblast.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.private|State~Sakhalin_Oblast.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.personal|State~Sakhalin_Oblast.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Sakhalin_Oblast.secret|State~Sakhalin_Oblast.secret]] 
+
+### #is_/same_as :: [Sakhalin_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.md) 
+
+### #is_/same_as :: [Sakhalin_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.public.md) 
+
+### #is_/same_as :: [Sakhalin_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.internal.md) 
+
+### #is_/same_as :: [Sakhalin_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.protect.md) 
+
+### #is_/same_as :: [Sakhalin_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.private.md) 
+
+### #is_/same_as :: [Sakhalin_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.personal.md) 
+
+### #is_/same_as :: [Sakhalin_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast.secret.md)
+

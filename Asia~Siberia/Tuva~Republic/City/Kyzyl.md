@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Kyzyl|Kyzyl]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Kyzyl.public|Kyzyl.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Kyzyl.internal|Kyzyl.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Kyzyl.protect|Kyzyl.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Kyzyl.private|Kyzyl.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Kyzyl.personal|Kyzyl.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Kyzyl.secret|Kyzyl.secret]] 
+
+### #is_/same_as :: [Kyzyl](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic/City/Kyzyl.md) 
+
+### #is_/same_as :: [Kyzyl.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic/City/Kyzyl.public.md) 
+
+### #is_/same_as :: [Kyzyl.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic/City/Kyzyl.internal.md) 
+
+### #is_/same_as :: [Kyzyl.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic/City/Kyzyl.protect.md) 
+
+### #is_/same_as :: [Kyzyl.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic/City/Kyzyl.private.md) 
+
+### #is_/same_as :: [Kyzyl.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic/City/Kyzyl.personal.md) 
+
+### #is_/same_as :: [Kyzyl.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic/City/Kyzyl.secret.md)
+

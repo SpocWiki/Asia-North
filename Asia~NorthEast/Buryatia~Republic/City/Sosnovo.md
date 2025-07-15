@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Sosnovo|Sosnovo]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Sosnovo.public|Sosnovo.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Sosnovo.internal|Sosnovo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Sosnovo.protect|Sosnovo.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Sosnovo.private|Sosnovo.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Sosnovo.personal|Sosnovo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Sosnovo.secret|Sosnovo.secret]] 
+
+### #is_/same_as :: [Sosnovo](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Sosnovo.md) 
+
+### #is_/same_as :: [Sosnovo.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Sosnovo.public.md) 
+
+### #is_/same_as :: [Sosnovo.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Sosnovo.internal.md) 
+
+### #is_/same_as :: [Sosnovo.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Sosnovo.protect.md) 
+
+### #is_/same_as :: [Sosnovo.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Sosnovo.private.md) 
+
+### #is_/same_as :: [Sosnovo.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Sosnovo.personal.md) 
+
+### #is_/same_as :: [Sosnovo.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Sosnovo.secret.md)
+

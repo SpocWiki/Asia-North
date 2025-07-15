@@ -40,11 +40,18 @@ markerFolder: ./Island~Herald/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Herald|Island~Herald]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Herald.public|Island~Herald.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Herald.internal|Island~Herald.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Herald.protect|Island~Herald.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Herald.private|Island~Herald.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Herald.personal|Island~Herald.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Russia~Asia/Russia~FarEast/State~Chukotka_Autonomous_Okrug/Island~Herald.secret|Island~Herald.secret]] 
+
+### #is_/same_as :: [Island~Herald](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Herald.md) 
+
+### #is_/same_as :: [Island~Herald.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Herald.public.md) 
+
+### #is_/same_as :: [Island~Herald.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Herald.internal.md) 
+
+### #is_/same_as :: [Island~Herald.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Herald.protect.md) 
+
+### #is_/same_as :: [Island~Herald.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Herald.private.md) 
+
+### #is_/same_as :: [Island~Herald.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Herald.personal.md) 
+
+### #is_/same_as :: [Island~Herald.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Herald.secret.md)
 

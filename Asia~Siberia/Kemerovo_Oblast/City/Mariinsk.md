@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.18,87.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Mariinsk|Mariinsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Mariinsk.public|Mariinsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Mariinsk.internal|Mariinsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Mariinsk.protect|Mariinsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Mariinsk.private|Mariinsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Mariinsk.personal|Mariinsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Mariinsk.secret|Mariinsk.secret]] 
+
+### #is_/same_as :: [Mariinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Mariinsk.md) 
+
+### #is_/same_as :: [Mariinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Mariinsk.public.md) 
+
+### #is_/same_as :: [Mariinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Mariinsk.internal.md) 
+
+### #is_/same_as :: [Mariinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Mariinsk.protect.md) 
+
+### #is_/same_as :: [Mariinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Mariinsk.private.md) 
+
+### #is_/same_as :: [Mariinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Mariinsk.personal.md) 
+
+### #is_/same_as :: [Mariinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Mariinsk.secret.md)
+

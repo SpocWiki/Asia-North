@@ -1,4 +1,4 @@
-﻿---
+---
 location: [53.83,86.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak|Prokopiewsk=Prokopievak]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.public|Prokopiewsk=Prokopievak.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.internal|Prokopiewsk=Prokopievak.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.protect|Prokopiewsk=Prokopievak.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.private|Prokopiewsk=Prokopievak.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.personal|Prokopiewsk=Prokopievak.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Prokopiewsk=Prokopievak.secret|Prokopiewsk=Prokopievak.secret]] 
+
+### #is_/same_as :: [Prokopiewsk=Prokopievak](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.md) 
+
+### #is_/same_as :: [Prokopiewsk=Prokopievak.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.public.md) 
+
+### #is_/same_as :: [Prokopiewsk=Prokopievak.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.internal.md) 
+
+### #is_/same_as :: [Prokopiewsk=Prokopievak.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.protect.md) 
+
+### #is_/same_as :: [Prokopiewsk=Prokopievak.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.private.md) 
+
+### #is_/same_as :: [Prokopiewsk=Prokopievak.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.personal.md) 
+
+### #is_/same_as :: [Prokopiewsk=Prokopievak.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.secret.md)
+

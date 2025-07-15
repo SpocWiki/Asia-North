@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.82,60.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Jekaterinburg|Jekaterinburg]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jekaterinburg.public|Jekaterinburg.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jekaterinburg.internal|Jekaterinburg.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jekaterinburg.protect|Jekaterinburg.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jekaterinburg.private|Jekaterinburg.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jekaterinburg.personal|Jekaterinburg.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jekaterinburg.secret|Jekaterinburg.secret]] 
+
+### #is_/same_as :: [Jekaterinburg](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.md) 
+
+### #is_/same_as :: [Jekaterinburg.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.public.md) 
+
+### #is_/same_as :: [Jekaterinburg.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.internal.md) 
+
+### #is_/same_as :: [Jekaterinburg.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.protect.md) 
+
+### #is_/same_as :: [Jekaterinburg.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.private.md) 
+
+### #is_/same_as :: [Jekaterinburg.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.personal.md) 
+
+### #is_/same_as :: [Jekaterinburg.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.secret.md)
+

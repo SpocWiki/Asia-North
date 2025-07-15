@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.58,137.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Komosomolsk|Komosomolsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Komosomolsk.public|Komosomolsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Komosomolsk.internal|Komosomolsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Komosomolsk.protect|Komosomolsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Komosomolsk.private|Komosomolsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Komosomolsk.personal|Komosomolsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Komosomolsk.secret|Komosomolsk.secret]] 
+
+### #is_/same_as :: [Komosomolsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Komosomolsk.md) 
+
+### #is_/same_as :: [Komosomolsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Komosomolsk.public.md) 
+
+### #is_/same_as :: [Komosomolsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Komosomolsk.internal.md) 
+
+### #is_/same_as :: [Komosomolsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Komosomolsk.protect.md) 
+
+### #is_/same_as :: [Komosomolsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Komosomolsk.private.md) 
+
+### #is_/same_as :: [Komosomolsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Komosomolsk.personal.md) 
+
+### #is_/same_as :: [Komosomolsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Komosomolsk.secret.md)
+

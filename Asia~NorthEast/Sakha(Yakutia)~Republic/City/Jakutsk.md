@@ -1,4 +1,4 @@
-﻿---
+---
 location: [62.02,129.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Jakutsk|Jakutsk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jakutsk.public|Jakutsk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jakutsk.internal|Jakutsk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jakutsk.protect|Jakutsk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jakutsk.private|Jakutsk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jakutsk.personal|Jakutsk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jakutsk.secret|Jakutsk.secret]] 
+
+### #is_/same_as :: [Jakutsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Jakutsk.md) 
+
+### #is_/same_as :: [Jakutsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Jakutsk.public.md) 
+
+### #is_/same_as :: [Jakutsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Jakutsk.internal.md) 
+
+### #is_/same_as :: [Jakutsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Jakutsk.protect.md) 
+
+### #is_/same_as :: [Jakutsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Jakutsk.private.md) 
+
+### #is_/same_as :: [Jakutsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Jakutsk.personal.md) 
+
+### #is_/same_as :: [Jakutsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Jakutsk.secret.md)
+

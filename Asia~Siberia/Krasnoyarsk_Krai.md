@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Krasnoyarsk_Krai|State~Krasnoyarsk_Krai]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.internal|State~Krasnoyarsk_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.protect|State~Krasnoyarsk_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.private|State~Krasnoyarsk_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.personal|State~Krasnoyarsk_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Krasnoyarsk_Krai.secret|State~Krasnoyarsk_Krai.secret]] 
+
+### #is_/same_as :: [Krasnoyarsk_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai.md) 
+
+### #is_/same_as :: [Krasnoyarsk_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai.public.md) 
+
+### #is_/same_as :: [Krasnoyarsk_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai.internal.md) 
+
+### #is_/same_as :: [Krasnoyarsk_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai.protect.md) 
+
+### #is_/same_as :: [Krasnoyarsk_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai.private.md) 
+
+### #is_/same_as :: [Krasnoyarsk_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai.personal.md) 
+
+### #is_/same_as :: [Krasnoyarsk_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai.secret.md)
+

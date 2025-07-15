@@ -1,4 +1,4 @@
-﻿---
+---
 location: [51.97,85.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Oyrot|Oyrot]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Oyrot.public|Oyrot.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Oyrot.internal|Oyrot.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Oyrot.protect|Oyrot.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Oyrot.private|Oyrot.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Oyrot.personal|Oyrot.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Oyrot.secret|Oyrot.secret]] 
+
+### #is_/same_as :: [Oyrot](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Oyrot.md) 
+
+### #is_/same_as :: [Oyrot.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Oyrot.public.md) 
+
+### #is_/same_as :: [Oyrot.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Oyrot.internal.md) 
+
+### #is_/same_as :: [Oyrot.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Oyrot.protect.md) 
+
+### #is_/same_as :: [Oyrot.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Oyrot.private.md) 
+
+### #is_/same_as :: [Oyrot.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Oyrot.personal.md) 
+
+### #is_/same_as :: [Oyrot.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Oyrot.secret.md)
+

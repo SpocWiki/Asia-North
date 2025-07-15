@@ -31,9 +31,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[State~Khabarovsk_Krai|State~Khabarovsk_Krai]]  
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/State/State~Khabarovsk_Krai.internal|State~Khabarovsk_Krai.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/State/State~Khabarovsk_Krai.protect|State~Khabarovsk_Krai.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/State/State~Khabarovsk_Krai.private|State~Khabarovsk_Krai.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/State/State~Khabarovsk_Krai.personal|State~Khabarovsk_Krai.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/State/State~Khabarovsk_Krai.secret|State~Khabarovsk_Krai.secret]] 
+
+### #is_/same_as :: [Khabarovsk_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.md) 
+
+### #is_/same_as :: [Khabarovsk_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.public.md) 
+
+### #is_/same_as :: [Khabarovsk_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.internal.md) 
+
+### #is_/same_as :: [Khabarovsk_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.protect.md) 
+
+### #is_/same_as :: [Khabarovsk_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.private.md) 
+
+### #is_/same_as :: [Khabarovsk_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.personal.md) 
+
+### #is_/same_as :: [Khabarovsk_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai.secret.md)
+

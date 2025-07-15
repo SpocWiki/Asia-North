@@ -1,4 +1,4 @@
-﻿---
+---
 location: [58.45,92.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Jennisseisk|Jennisseisk]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Jennisseisk.public|Jennisseisk.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Jennisseisk.internal|Jennisseisk.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Jennisseisk.protect|Jennisseisk.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Jennisseisk.private|Jennisseisk.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Jennisseisk.personal|Jennisseisk.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Jennisseisk.secret|Jennisseisk.secret]] 
+
+### #is_/same_as :: [Jennisseisk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.md) 
+
+### #is_/same_as :: [Jennisseisk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.public.md) 
+
+### #is_/same_as :: [Jennisseisk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.internal.md) 
+
+### #is_/same_as :: [Jennisseisk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.protect.md) 
+
+### #is_/same_as :: [Jennisseisk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.private.md) 
+
+### #is_/same_as :: [Jennisseisk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.personal.md) 
+
+### #is_/same_as :: [Jennisseisk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.secret.md)
+

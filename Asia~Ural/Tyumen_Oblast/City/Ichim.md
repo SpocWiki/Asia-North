@@ -1,4 +1,4 @@
-﻿---
+---
 location: [56.1,69.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Ichim|Ichim]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Ichim.public|Ichim.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Ichim.internal|Ichim.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Ichim.protect|Ichim.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Ichim.private|Ichim.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Ichim.personal|Ichim.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Ichim.secret|Ichim.secret]] 
+
+### #is_/same_as :: [Ichim](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.md) 
+
+### #is_/same_as :: [Ichim.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.public.md) 
+
+### #is_/same_as :: [Ichim.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.internal.md) 
+
+### #is_/same_as :: [Ichim.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.protect.md) 
+
+### #is_/same_as :: [Ichim.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.private.md) 
+
+### #is_/same_as :: [Ichim.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.personal.md) 
+
+### #is_/same_as :: [Ichim.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.secret.md)
+

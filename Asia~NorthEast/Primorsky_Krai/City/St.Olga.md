@@ -1,4 +1,4 @@
-﻿---
+---
 location: [43.73,135.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/St.Olga|St.Olga]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/St.Olga.public|St.Olga.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/St.Olga.internal|St.Olga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/St.Olga.protect|St.Olga.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/St.Olga.private|St.Olga.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/St.Olga.personal|St.Olga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/St.Olga.secret|St.Olga.secret]] 
+
+### #is_/same_as :: [St.Olga](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.md) 
+
+### #is_/same_as :: [St.Olga.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.public.md) 
+
+### #is_/same_as :: [St.Olga.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.internal.md) 
+
+### #is_/same_as :: [St.Olga.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.protect.md) 
+
+### #is_/same_as :: [St.Olga.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.private.md) 
+
+### #is_/same_as :: [St.Olga.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.personal.md) 
+
+### #is_/same_as :: [St.Olga.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.secret.md)
+
