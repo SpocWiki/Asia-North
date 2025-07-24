@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+
+
 [name::Altai Krai] 
 [name-abbr::] 
 Country :: [[Russia]]  
