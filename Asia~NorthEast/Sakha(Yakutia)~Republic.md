@@ -1,15 +1,20 @@
 ---
-location: [62.02,129.75] 
+aliases:
+  - Yakutia
+  - Sakha
+location:
+  - 62.02
+  - 129.75
 type: State
 tags:
-- geo/State
-
-
+  - geo/State
 SpocWebEntityId: 37050
 isDeleted: false
 confidential: public
-
 ---
+
+# [[Sakha(Yakutia)~Republic]] 
+
 [name::Sakha(Yakutia)~Republic] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -18,12 +23,12 @@ Capital :: [[Jakutsk]]
 [geo-lat::62.02] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
-id: State~Sakha(Yakutia)~Republic
-geojsonFolder: ./State~Sakha(Yakutia)~Republic/
-markerFolder: ./State~Sakha(Yakutia)~Republic/
+id: Sakha(Yakutia)~Republic
+geojsonFolder: ./Sakha(Yakutia)~Republic/
+markerFolder: ./Sakha(Yakutia)~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
