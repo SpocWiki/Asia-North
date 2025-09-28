@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Kamchatka_Krai]] 
+
 [name::Kamchatka Krai] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -18,12 +21,12 @@ Capital :: [[../../Asia~Central/Counties/North_Kazakhstan/City/Petropawlowsk]]
 [geo-lat::53.02] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: State~Kamchatka_Krai
-geojsonFolder: ./State~Kamchatka_Krai/
-markerFolder: ./State~Kamchatka_Krai/
+geojsonFolder: ./Kamchatka_Krai///
+markerFolder: ./Kamchatka_Krai///
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
