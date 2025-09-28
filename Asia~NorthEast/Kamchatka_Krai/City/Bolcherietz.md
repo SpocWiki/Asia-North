@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Bolcherietz]] 
+
 [geo-lon::156.83] 
 [geo-lat::55.93] 
 [name::Bolcherietz] 
@@ -21,12 +24,14 @@ Country :: [[Russia]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
 id: Bolcherietz
 coordinates: [[Bolcherietz]] 
 markerFile: [[Bolcherietz]] 
-defaultZoom: 11 
+defaultZoom: 7 
+minZoom: 4
 maxZoom: 18
 ```
 

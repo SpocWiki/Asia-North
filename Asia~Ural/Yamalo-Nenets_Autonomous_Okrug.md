@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Yamalo-Nenets_Autonomous_Okrug]] 
+
 [name::Yamalo-Nenets Autonomous Okrug] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -18,12 +21,12 @@ Capital :: [[Salekhard]]
 [geo-lat::66.5333] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: State~Yamalo-Nenets_Autonomous_Okrug
-geojsonFolder: ./State~Yamalo-Nenets_Autonomous_Okrug/
-markerFolder: ./State~Yamalo-Nenets_Autonomous_Okrug/
+geojsonFolder: ./Yamalo-Nenets_Autonomous_Okrug/
+markerFolder: ./Yamalo-Nenets_Autonomous_Okrug/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

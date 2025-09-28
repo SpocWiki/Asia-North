@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Island~Wrangel
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 3 
 maxZoom: 18
 geojsonFolder: ./Island~Wrangel/
 markerFolder: ./Island~Wrangel/
