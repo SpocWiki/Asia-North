@@ -24,7 +24,7 @@ Capital :: [[Salekhard]]
 ## #has_/map 
 
 ```leaflet
-id: State~Yamalo-Nenets_Autonomous_Okrug
+id: Yamalo-Nenets_Autonomous_Okrug
 geojsonFolder: ./Yamalo-Nenets_Autonomous_Okrug/
 markerFolder: ./Yamalo-Nenets_Autonomous_Okrug/
 zoomFeatures: true 

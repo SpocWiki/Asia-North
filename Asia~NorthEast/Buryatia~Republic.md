@@ -3,7 +3,7 @@ location:
   - 54
   - 111
 type: geo-Region
-title: State~Buryatia~Republic
+title: Buryatia~Republic
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -13,7 +13,7 @@ confidential: public
 tags:
   - geo/Country/Region
 aliases:
-  - State~Buryatia~Republic
+  - Buryatia~Republic
 Languages:
   - de
 cssclasses:
@@ -26,15 +26,15 @@ publishDate:
 expiryDate:
 ---
 
-# State~Buryatia~Republic
+# Buryatia~Republic
 
 ```leaflet
-id: State~Buryatia~Republic
+id: Buryatia~Republic
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./State~Buryatia~Republic/
-markerFolder: ./State~Buryatia~Republic/
+geojsonFolder: ./Buryatia~Republic/
+markerFolder: ./Buryatia~Republic/
 ```
 
 

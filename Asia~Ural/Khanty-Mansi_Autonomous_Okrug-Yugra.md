@@ -21,9 +21,9 @@ Capital :: [[Khanty-Mansisyk]]
 
 
 ```leaflet
-id: State~Khanty-Mansi_Autonomous_Okrug-Yugra
-geojsonFolder: ./State~Khanty-Mansi_Autonomous_Okrug-Yugra/
-markerFolder: ./State~Khanty-Mansi_Autonomous_Okrug-Yugra/
+id: Khanty-Mansi_Autonomous_Okrug-Yugra
+geojsonFolder: ./Khanty-Mansi_Autonomous_Okrug-Yugra/
+markerFolder: ./Khanty-Mansi_Autonomous_Okrug-Yugra/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

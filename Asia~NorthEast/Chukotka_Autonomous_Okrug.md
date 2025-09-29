@@ -21,9 +21,9 @@ Capital :: [[Anadyr]]
 
 
 ```leaflet
-id: State~Chukotka_Autonomous_Okrug
-geojsonFolder: ./State~Chukotka_Autonomous_Okrug/
-markerFolder: ./State~Chukotka_Autonomous_Okrug/
+id: Chukotka_Autonomous_Okrug
+geojsonFolder: ./Chukotka_Autonomous_Okrug/
+markerFolder: ./Chukotka_Autonomous_Okrug/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

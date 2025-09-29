@@ -21,9 +21,9 @@ Capital :: [[Kyzyl]]
 
 
 ```leaflet
-id: State~Tuva~Republic
-geojsonFolder: ./State~Tuva~Republic/
-markerFolder: ./State~Tuva~Republic/
+id: Tuva~Republic
+geojsonFolder: ./Tuva~Republic/
+markerFolder: ./Tuva~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

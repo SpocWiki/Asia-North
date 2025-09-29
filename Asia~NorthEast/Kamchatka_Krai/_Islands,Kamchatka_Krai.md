@@ -2,7 +2,7 @@
 ## #has_/map 
 
 ```leaflet
-id: State~Kamchatka_Krai
+id: Kamchatka_Krai
 geojsonFolder: ./_Islands,Kamchatka_Krai///
 markerFolder: ./_Islands,Kamchatka_Krai///
 zoomFeatures: true 

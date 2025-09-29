@@ -21,9 +21,9 @@ Capital :: [[Wladiwostok]]
 
 
 ```leaflet
-id: State~Primorsky_Krai
-geojsonFolder: ./State~Primorsky_Krai/
-markerFolder: ./State~Primorsky_Krai/
+id: Primorsky_Krai
+geojsonFolder: ./Primorsky_Krai/
+markerFolder: ./Primorsky_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

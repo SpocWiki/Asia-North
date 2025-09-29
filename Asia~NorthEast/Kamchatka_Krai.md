@@ -98,7 +98,7 @@ Capital :: [[../../Asia~Central/Counties/North_Kazakhstan/City/Petropawlowsk]]
 ## #has_/map 
 
 ```leaflet
-id: State~Kamchatka_Krai
+id: Kamchatka_Krai
 geojsonFolder: ./Kamchatka_Krai/
 markerFolder: ./Kamchatka_Krai/
 zoomFeatures: true 

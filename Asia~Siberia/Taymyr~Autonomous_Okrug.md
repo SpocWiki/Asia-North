@@ -21,9 +21,9 @@ Capital :: [[Dudinka]]
 
 
 ```leaflet
-id: State~Taymyr_Autonomous_Okrug
-geojsonFolder: ./State~Taymyr_Autonomous_Okrug/
-markerFolder: ./State~Taymyr_Autonomous_Okrug/
+id: Taymyr_Autonomous_Okrug
+geojsonFolder: ./Taymyr_Autonomous_Okrug/
+markerFolder: ./Taymyr_Autonomous_Okrug/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

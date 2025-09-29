@@ -21,9 +21,9 @@ Capital :: [[Kurgan]]
 
 
 ```leaflet
-id: State~Kurgan_Oblast
-geojsonFolder: ./State~Kurgan_Oblast/
-markerFolder: ./State~Kurgan_Oblast/
+id: Kurgan_Oblast
+geojsonFolder: ./Kurgan_Oblast/
+markerFolder: ./Kurgan_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

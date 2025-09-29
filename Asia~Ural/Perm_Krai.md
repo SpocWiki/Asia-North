@@ -21,9 +21,9 @@ Capital :: [[Perm=Molotow]]
 
 
 ```leaflet
-id: State~Perm_Krai
-geojsonFolder: ./State~Perm_Krai/
-markerFolder: ./State~Perm_Krai/
+id: Perm_Krai
+geojsonFolder: ./Perm_Krai/
+markerFolder: ./Perm_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -22,9 +22,9 @@ Capital :: [[Aginskoye]]
 [Agin-Buryat Autonomous Okrug](https://en.wikipedia.org/wiki/Agin-Buryat_Autonomous_Okrug "Agin-Buryat Autonomous Okrug")  
 
 ```leaflet
-id: State~Agin-Buryat~Okrug
-geojsonFolder: ./State~Chita~Oblast/
-markerFolder: ./State~Chita~Oblast/
+id: Agin-Buryat~Okrug
+geojsonFolder: ./Chita~Oblast/
+markerFolder: ./Chita~Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

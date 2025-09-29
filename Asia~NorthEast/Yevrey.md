@@ -3,7 +3,7 @@ location:
   - 48.6
   - 132.7
 type: geo-Region
-title: State~Yevrey
+title: Yevrey
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -13,7 +13,7 @@ confidential: public
 tags:
   - geo/Country/Region
 aliases:
-  - State~Yevrey
+  - Yevrey
 Languages:
   - de
 cssclasses:
@@ -26,15 +26,15 @@ publishDate:
 expiryDate:
 ---
 
-# State~Yevrey
+# Yevrey
 
 ```leaflet
-id: State~Yevrey
+id: Yevrey
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./State~Yevrey/
-markerFolder: ./State~Yevrey/
+geojsonFolder: ./Yevrey/
+markerFolder: ./Yevrey/
 ```
 
 

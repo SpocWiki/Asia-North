@@ -24,9 +24,9 @@ Capital :: [[Barnaul]]
 
 
 ```leaflet
-id: State~Altai_Krai
-geojsonFolder: ./State~Altai_Krai/
-markerFolder: ./State~Altai_Krai/
+id: Altai_Krai
+geojsonFolder: ./Altai_Krai/
+markerFolder: ./Altai_Krai/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

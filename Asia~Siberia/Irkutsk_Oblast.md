@@ -19,9 +19,9 @@ Capital :: [[Irkutsk]]
 [Population::] 
 
 ```leaflet
-id: State~Irkutsk_Oblast
-geojsonFolder: ./State~Irkutsk_Oblast/
-markerFolder: ./State~Irkutsk_Oblast/
+id: Irkutsk_Oblast
+geojsonFolder: ./Irkutsk_Oblast/
+markerFolder: ./Irkutsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -21,9 +21,9 @@ Capital :: [[Gorno-Altaysk]]
 
 
 ```leaflet
-id: State~Altai~Republic
-geojsonFolder: ./State~Altai~Republic/
-markerFolder: ./State~Altai~Republic/
+id: Altai~Republic
+geojsonFolder: ./Altai~Republic/
+markerFolder: ./Altai~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

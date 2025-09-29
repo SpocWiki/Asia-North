@@ -21,9 +21,9 @@ Capital :: [[Tschita]]
 
 
 ```leaflet
-id: State~Chita~Oblast
-geojsonFolder: ./State~Chita~Oblast/
-markerFolder: ./State~Chita~Oblast/
+id: Chita~Oblast
+geojsonFolder: ./Chita~Oblast/
+markerFolder: ./Chita~Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

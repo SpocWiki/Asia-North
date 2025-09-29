@@ -21,9 +21,9 @@ Capital :: [[Birobidjan]]
 
 
 ```leaflet
-id: State~Jewish_Autonomous_Oblast
-geojsonFolder: ./State~Jewish_Autonomous_Oblast/
-markerFolder: ./State~Jewish_Autonomous_Oblast/
+id: Jewish_Autonomous_Oblast
+geojsonFolder: ./Jewish_Autonomous_Oblast/
+markerFolder: ./Jewish_Autonomous_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

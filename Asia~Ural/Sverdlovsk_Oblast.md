@@ -21,9 +21,9 @@ Capital :: [[Swerdlowsk]]
 
 
 ```leaflet
-id: State~Sverdlovsk_Oblast
-geojsonFolder: ./State~Sverdlovsk_Oblast/
-markerFolder: ./State~Sverdlovsk_Oblast/
+id: Sverdlovsk_Oblast
+geojsonFolder: ./Sverdlovsk_Oblast/
+markerFolder: ./Sverdlovsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

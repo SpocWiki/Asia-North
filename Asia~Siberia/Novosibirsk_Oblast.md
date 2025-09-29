@@ -21,9 +21,9 @@ Capital :: [[Nowosibirsk]]
 
 
 ```leaflet
-id: State~Novosibirsk_Oblast
-geojsonFolder: ./State~Novosibirsk_Oblast/
-markerFolder: ./State~Novosibirsk_Oblast/
+id: Novosibirsk_Oblast
+geojsonFolder: ./Novosibirsk_Oblast/
+markerFolder: ./Novosibirsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

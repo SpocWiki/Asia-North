@@ -21,9 +21,9 @@ Capital :: [[Yuzhno-Sakhalinsk]]
 
 
 ```leaflet
-id: State~Sakhalin_Oblast
-geojsonFolder: ./State~Sakhalin_Oblast/
-markerFolder: ./State~Sakhalin_Oblast/
+id: Sakhalin_Oblast
+geojsonFolder: ./Sakhalin_Oblast/
+markerFolder: ./Sakhalin_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

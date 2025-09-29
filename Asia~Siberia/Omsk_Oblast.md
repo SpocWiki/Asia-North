@@ -21,9 +21,9 @@ Capital :: [[Omsk]]
 
 
 ```leaflet
-id: State~Omsk_Oblast
-geojsonFolder: ./State~Omsk_Oblast/
-markerFolder: ./State~Omsk_Oblast/
+id: Omsk_Oblast
+geojsonFolder: ./Omsk_Oblast/
+markerFolder: ./Omsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

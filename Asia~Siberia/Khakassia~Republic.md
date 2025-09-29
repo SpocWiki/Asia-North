@@ -21,9 +21,9 @@ Capital :: [[Abakan]]
 
 
 ```leaflet
-id: State~Khakassia~Republic
-geojsonFolder: ./State~Khakassia~Republic/
-markerFolder: ./State~Khakassia~Republic/
+id: Khakassia~Republic
+geojsonFolder: ./Khakassia~Republic/
+markerFolder: ./Khakassia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -21,9 +21,9 @@ Capital :: [[Izhevsk]]
 
 
 ```leaflet
-id: State~Udmurt~Republic
-geojsonFolder: ./State~Udmurt~Republic/
-markerFolder: ./State~Udmurt~Republic/
+id: Udmurt~Republic
+geojsonFolder: ./Udmurt~Republic/
+markerFolder: ./Udmurt~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

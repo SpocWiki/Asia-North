@@ -21,9 +21,9 @@ Capital :: [[Kemerove]]
 
 
 ```leaflet
-id: State~Kemerovo_Oblast
-geojsonFolder: ./State~Kemerovo_Oblast/
-markerFolder: ./State~Kemerovo_Oblast/
+id: Kemerovo_Oblast
+geojsonFolder: ./Kemerovo_Oblast/
+markerFolder: ./Kemerovo_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

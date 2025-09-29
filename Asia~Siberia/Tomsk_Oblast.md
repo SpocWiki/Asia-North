@@ -21,9 +21,9 @@ Capital :: [[Tomsk]]
 
 
 ```leaflet
-id: State~Tomsk_Oblast
-geojsonFolder: ./State~Tomsk_Oblast/
-markerFolder: ./State~Tomsk_Oblast/
+id: Tomsk_Oblast
+geojsonFolder: ./Tomsk_Oblast/
+markerFolder: ./Tomsk_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

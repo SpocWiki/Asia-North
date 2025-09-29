@@ -1,6 +1,6 @@
 
 > Zabaykalsky Krai (Russian: Забайкальский край, tr. Zabaikal'skii krai, IPA: [zəbɐjˈkalʲskʲɪj kraj], lit. "Transbaikal krai"; Buryat: Yбэр Байгалай хизаар, romanized: Uber Baigalai Xizaar) is a federal subject of Russia (a krai), located in the Russian Far East. Its administrative center is Chita. As of the 2010 Census, the population was 1,107,107.
-> The krai was created on March 1, 2008 as a result of a merger of [[State~Chita~Oblast]] and [[State~Agin-Buryat~Okrug]] after a referendum held on the issue on March 11, 2007. 
+> The krai was created on March 1, 2008 as a result of a merger of [[Chita~Oblast]] and [[Agin-Buryat~Okrug]] after a referendum held on the issue on March 11, 2007. 
 > In 2018, the krai became part of the Far Eastern Federal District.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Zabaykalsky%20Krai)
@@ -27,9 +27,9 @@ Country :: [[Russia]]
 
 
 ```leaflet
-id: State~Zabaykalsky_Krai
-geojsonFolder: ./State~Chita~Oblast/
-markerFolder: ./State~Chita~Oblast/
+id: Zabaykalsky_Krai
+geojsonFolder: ./Chita~Oblast/
+markerFolder: ./Chita~Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -21,9 +21,9 @@ Capital :: [[Blagoveshchensk]]
 
 
 ```leaflet
-id: State~Amur_Oblast
-geojsonFolder: ./State~Amur_Oblast/
-markerFolder: ./State~Amur_Oblast/
+id: Amur_Oblast
+geojsonFolder: ./Amur_Oblast/
+markerFolder: ./Amur_Oblast/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -21,9 +21,9 @@ Capital :: [[Ufa]]
 
 
 ```leaflet
-id: State~Bashkortostan~Republic
-geojsonFolder: ./State~Bashkortostan~Republic/
-markerFolder: ./State~Bashkortostan~Republic/
+id: Bashkortostan~Republic
+geojsonFolder: ./Bashkortostan~Republic/
+markerFolder: ./Bashkortostan~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

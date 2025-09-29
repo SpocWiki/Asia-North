@@ -21,9 +21,9 @@ Capital :: [[Ulan_Ude]]
 
 
 ```leaflet
-id: State~Buryatia~Republic
-geojsonFolder: ./State~Buryatia~Republic/
-markerFolder: ./State~Buryatia~Republic/
+id: Buryatia~Republic
+geojsonFolder: ./Buryatia~Republic/
+markerFolder: ./Buryatia~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
