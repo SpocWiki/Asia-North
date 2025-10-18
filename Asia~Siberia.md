@@ -1,5 +1,79 @@
+---
+aliases:
+has_id_wikidata: Q5428
+Colon_Classification: SG--48
+MeSH_tree_code: Z01.252.122.500.500
+Commons_gallery: Сибирь
+demonym:
+  - siberier
+  - Sibirier
+  - Sibirierin
+  - Siberiano
+  - Sibéarach
+  - Xi-bê-ri
+  - сибиряк
+  - сибирячка
+  - sibirisch
+  - Siberian
+instance_of: "[[_Standards/WikiData/WD~region,82794]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
+has_part_s_:
+  - "[[_Standards/WikiData/WD~Russian_Far_East,609176]]"
+  - "[[_Standards/WikiData/WD~Western_Siberia,1191358]]"
+  - "[[_Standards/WikiData/WD~Eastern_Siberia,1191996]]"
+opposite_of: "[[_Standards/WikiData/WD~European_Russia,875134]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Siberia,2918368]]"
+occupant: "[[_Standards/WikiData/WD~Siberians,4418370]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Siberia,14616216]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q31973296,31973296]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q32008779,32008779]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Siberia,106020225]]"
+studied_by: "[[_Standards/WikiData/WD~Siberian_studies,136458097]]"
+coordinates_of_westernmost_point: Point(59.0 51.5)
+coordinates_of_northernmost_point: Point(104.18 77.72)
+different_from: "[[_Standards/WikiData/WD~Serbia,403]]"
+located_in_or_next_to_body_of_water:
+  - "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
+  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+continent: "[[_Standards/WikiData/WD~Eurasia,5401]]"
+partially_coincident_with:
+  - "[[_Standards/WikiData/WD~Central_Asia,27275]]"
+  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~North_Asia,27329]]"
+part_of: "[[_Standards/WikiData/WD~Asia,48]]"
+area: 10000000
+country: "[[_Standards/WikiData/WD~Russia,159]]"
+INSEE_countries_and_foreign_territories_code: "99209"
+Commons_category: Siberia
+BHCL_UUID:
+  - 3d1a74f4-7361-4ddf-ace3-09907c2a78d1
+  - a676b214-1002-4b4a-91e0-25321673bf0a
+PM20_geo_code: B11
+IMDb_keyword: siberia
+native_label: Сибирь
+coordinates_of_easternmost_point: Point(-169.651944 66.079167)
+U_S_National_Archives_Identifier: "10045597"
+coordinate_location: Point(105.0 60.0)
+coordinates_of_southernmost_point: Point(87.8 49.1)
+population: 37275609
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Krasnoyarsk%20Taiga%20banner.jpg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Siberia%20%28orthographic%20projection%29.svg
+UMLS_CUI: C0037045
+---
 
 # [[Asia~Siberia]] 
+
+#is_/same_as :: [[../../../../WikiData/WD~Siberia,5428|WD~Siberia,5428]] 
 
 ## #has_/map 
 
@@ -7,8 +81,8 @@
 id: Asia~Siberia
 zoomFeatures: true 
 minZoom: 2 
-defaultZoom: 2 
 maxZoom: 18
+defaultZoom: 2 
 coordinates: [[Asia~Siberia]] 
 markerFile: [[Asia~Siberia]] 
 geojsonFolder: ./Asia~Siberia/
