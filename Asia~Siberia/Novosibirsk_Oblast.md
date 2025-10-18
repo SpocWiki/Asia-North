@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Novosibirsk_Oblast]] 
+
 [name::Novosibirsk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -18,7 +21,7 @@ Capital :: [[Nowosibirsk]]
 [geo-lat::55.03] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Novosibirsk_Oblast

@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Nowosibirsk]] 
+
 [geo-lon::82.88] 
 [geo-lat::55.03] 
 [name::Nowosibirsk] 
@@ -21,6 +24,7 @@ Country :: [[Russia]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
 id: Nowosibirsk
