@@ -13,7 +13,7 @@ confidential: public
 [name::Primorsky Krai] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Wladiwostok]]  
+Capital :: [[Primorsky_Krai/City/Vladiwostok]]  
 [geo-lon::131.88] 
 [geo-lat::43.12] 
 [Population::] 
