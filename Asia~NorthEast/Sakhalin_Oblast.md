@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Sakhalin_Oblast]] 
+
 [name::Sakhalin Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -19,10 +22,11 @@ Capital :: [[Yuzhno-Sakhalinsk]]
 [Population::] 
 
 
+## #has_/map 
 
 ```leaflet
 id: Sakhalin_Oblast
-geojsonFolder: ./Sakhalin_Oblast/
+geojsonFolder: ./Sakhalin_Oblast//
 markerFolder: ./Sakhalin_Oblast/
 zoomFeatures: true 
 minZoom: 2 
