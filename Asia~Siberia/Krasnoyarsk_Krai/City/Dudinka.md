@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Dudinka]] 
+
 [geo-lon::86.17] 
 [geo-lat::69.42] 
 [name::Dudinka] 
@@ -21,6 +24,7 @@ Country :: [[Russia]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map 
 
 ```leaflet
 id: Dudinka

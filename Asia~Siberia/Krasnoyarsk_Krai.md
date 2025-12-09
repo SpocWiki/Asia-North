@@ -146,7 +146,7 @@ native_label: Красноярский край
 [name::Krasnoyarsk Krai] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Krasnojarsk]]  
+Capital :: [[Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk]]  
 [geo-lon::92.8] 
 [geo-lat::56.02] 
 [Population::] 
@@ -156,8 +156,10 @@ Capital :: [[Krasnojarsk]]
 
 ```leaflet
 id: Krasnoyarsk_Krai
-geojsonFolder: ./Krasnoyarsk_Krai/
+geojsonFolder: ./Krasnoyarsk_Krai//
 markerFolder: ./Krasnoyarsk_Krai/
+coordinates: [[Krasnoyarsk_Krai]] 
+markerFile: [[Krasnoyarsk_Krai]] 
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

@@ -13,7 +13,7 @@ confidential: public
 [name::Khakassia~Republic] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Abakan]]  
+Capital :: [[Krasnoyarsk_Krai/counties~Krasnoyarsk/Karatuzskiy,Rayon/Abakan]]  
 [geo-lon::93.5] 
 [geo-lat::53.75] 
 [Population::] 
