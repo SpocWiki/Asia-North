@@ -10,6 +10,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Sverdlovsk_Oblast]] 
+
 [name::Sverdlovsk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
@@ -18,7 +21,7 @@ Capital :: [[Swerdlowsk]]
 [geo-lat::56.83] 
 [Population::] 
 
-
+## #has_/map 
 
 ```leaflet
 id: Sverdlovsk_Oblast
