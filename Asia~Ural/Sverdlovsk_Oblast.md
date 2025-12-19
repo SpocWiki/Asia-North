@@ -16,7 +16,7 @@ confidential: public
 [name::Sverdlovsk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Swerdlowsk]]  
+Capital :: [[Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg]]  
 [geo-lon::60.63] 
 [geo-lat::56.83] 
 [Population::] 
@@ -25,8 +25,8 @@ Capital :: [[Swerdlowsk]]
 
 ```leaflet
 id: Sverdlovsk_Oblast
-geojsonFolder: ./Sverdlovsk_Oblast/
-markerFolder: ./Sverdlovsk_Oblast/
+geojsonFolder: ./Sverdlovsk_Oblast//
+markerFolder: ./Sverdlovsk_Oblast//
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

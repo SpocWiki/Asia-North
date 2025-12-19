@@ -2,18 +2,21 @@
 aliases:
   - Ekaterinburg
   - Sverdlovsk
-  - ??????????
-  - ????????????
+  - Свердловск
+  - Екатеринбург
   - Jekaterinburg
+  - Swerdlowsk
 has_id_wikidata: Q887
-location: [56.82,60.58] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 56.82
+  - 60.58
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 31180
 isDeleted: false
 confidential: public
@@ -28,16 +31,16 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~Pervouralsk_Urban_Okrug,4145674]]"
   - "[[_Standards/WikiData/WD~Sredneuralsk_Urban_Okrug,4145675]]"
   - "[[_Standards/WikiData/WD~Polevskoy_Urban_Okrug,4369677]]"
-K�ppen_climate_classification: "[[_Standards/WikiData/WD~continental_climate,185005]]"
+Köppen_climate_classification: "[[_Standards/WikiData/WD~continental_climate,185005]]"
 award_received: "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
 significant_person:
   - "[[_Standards/WikiData/WD~Vasily_Tatishchev,333232]]"
   - "[[_Standards/WikiData/WD~Georg_Wilhelm_de_Gennin,2387506]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
@@ -94,7 +97,7 @@ twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Guangzhou,16572]]"
   - "[[_Standards/WikiData/WD~Incheon,20934]]"
   - "[[_Standards/WikiData/WD~Gothenburg,25287]]"
-  - "[[_Standards/WikiData/WD~Plzen,43453]]"
+  - "[[_Standards/WikiData/WD~Plzeň,43453]]"
   - "[[_Standards/WikiData/WD~Ferentino,50197]]"
 located_in_time_zone: "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
 official_language: "[[_Standards/WikiData/WD~Russian,7737]]"
@@ -110,12 +113,12 @@ licence_plate_code:
   - "196"
 population: 1468833
 U_S_National_Archives_Identifier: "10046314"
-native_label: ????????????
-official_name: ????????????
+native_label: Екатеринбург
+official_name: Екатеринбург
 Commons_category: Yekaterinburg
 coordinate_location: Point(60.612777777 56.835555555)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Yekaterinburg%20%28Sverdlovsk%20oblast%29.svg
-official_website: https://????????????.??
+official_website: https://екатеринбург.рф
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yekaterinburg%20%28Sverdlovsk%20oblast%29.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sverdlovsaya%20oblast%20ATD%202006%20Ekaterinburg.png
 VK_username: ekb
@@ -126,22 +129,22 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/E-burg%20asv2019
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3.oga
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/View%20from%20the%20Vysotsky%20skyscraper%20%282015-04-18%29.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Views%20of%20Yekaterinburg%20from%20Vysotsky%20viewpoint%20-%2012.jpg
-IPA_transcription: "[j?k?t??r??n'burk]"
+IPA_transcription: "[jɪkətʲɪrʲɪnˈburk]"
 BHCL_UUID: 44999479-6622-41b9-a4b7-54dbbc655909
-postal_code: 620000�620999
+postal_code: 620000–620999
 Krugosvet_article_archived_: Earth_sciences/geografiya/EKATERINBURG.html
 Facebook_username: ekb196
 X_Twitter_username: ekburg
 Instagram_username: ekburg_official
 Wolfram_Language_entity_code: Entity["City", {"Yekaterinburg", "Sverdlovsk", "Russia"}]
 UN_LOCODE: RUYEK
-Commons_gallery: ????????????
+Commons_gallery: Екатеринбург
 demonym:
-  - �katerinbourgeois
-  - �katerinbourgeoise
+  - Ékaterinbourgeois
+  - Ékaterinbourgeoise
   - Iekaterinbourgeois
   - Iekaterinbourgeoise
-nickname: ?????
+nickname: Ёбург
 ---
 
 # [[Yekaterinburg]] 
@@ -153,28 +156,33 @@ State ::
 Country :: [[Russia]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[WD~Yekaterinburg,887]]  
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Yekaterinburg,887|WD~Yekaterinburg,887]]   
 
+## #has_/map 
 
 ```leaflet
-id: Jekaterinburg
-coordinates: [[Jekaterinburg]] 
-markerFile: [[Jekaterinburg]] 
+id: Yekaterinburg
+geojsonFolder: ./Yekaterinburg/
+markerFolder: ./Yekaterinburg/
+coordinates: [[Yekaterinburg]] 
+markerFile: [[Yekaterinburg]] 
+zoomFeatures: true
 defaultZoom: 11 
 maxZoom: 18
+minZoom: 6
 ```
 
 ## #has_/text_of_/abstract 
 
-> **Yekaterinburg** ( yih-KAT-?r-in-burg; Russian: ????????????, IPA: [j?k?t??r??n'burk]), 
+> **Yekaterinburg** ( yih-KAT-ər-in-burg; Russian: Екатеринбург, IPA: [jɪkətʲɪrʲɪnˈburk]), 
 > alternatively romanized as Ekaterinburg and 
-> formerly known as Sverdlovsk (?????????? IPA: [sv??r'dlofsk] ; 1924�1991), 
+> formerly known as Sverdlovsk (Свердловск IPA: [svʲɪrˈdlofsk] ; 1924–1991), 
 > is a city and the administrative centre of Sverdlovsk Oblast 
 > and the Ural Federal District, Russia. 
 > 
 > The city is located on the Iset River between the Volga-Ural region and Siberia, with a population of roughly 1.5 million residents, up to 2.2 million residents in the urban agglomeration. Yekaterinburg is the fourth most populous city in Russia, the largest city in the Ural Federal District, and one of Russia's main cultural and industrial centres. Yekaterinburg has been dubbed the "Third capital of Russia", as it is ranked third by the size of its economy, culture, transportation and tourism.
 >
-> Yekaterinburg was founded on 18 November 1723 and named after the Orthodox name of Catherine I (born Marta Helena Skowronska), the wife of Russian Emperor Peter the Great. The city served as the mining capital of the Russian Empire as well as a strategic connection between Europe and Asia. In 1781, Catherine the Great gave Yekaterinburg the status of a district town of Perm Province, and built the historical Siberian Route through the city. Yekaterinburg became a key city to Siberia, which had rich resources. In the late 19th century, Yekaterinburg became one of the centres of revolutionary movements in the Urals. In 1924, after the Russian SFSR founded the Soviet Union, the city was renamed Sverdlovsk after the Bolshevik leader Yakov Sverdlov. During the Soviet era, Sverdlovsk was turned into an industrial and administrative powerhouse. On 23 September 1991 the city returned to its historical name.
+> Yekaterinburg was founded on 18 November 1723 and named after the Orthodox name of Catherine I (born Marta Helena Skowrońska), the wife of Russian Emperor Peter the Great. The city served as the mining capital of the Russian Empire as well as a strategic connection between Europe and Asia. In 1781, Catherine the Great gave Yekaterinburg the status of a district town of Perm Province, and built the historical Siberian Route through the city. Yekaterinburg became a key city to Siberia, which had rich resources. In the late 19th century, Yekaterinburg became one of the centres of revolutionary movements in the Urals. In 1924, after the Russian SFSR founded the Soviet Union, the city was renamed Sverdlovsk after the Bolshevik leader Yakov Sverdlov. During the Soviet era, Sverdlovsk was turned into an industrial and administrative powerhouse. On 23 September 1991 the city returned to its historical name.
 >
 > Yekaterinburg is one of Russia's most important economic centres and was one of the host cities of the 2018 FIFA World Cup. The city is currently experiencing an economic and population boom, which resulted in some of the tallest skyscrapers of Russia being located in the city. Yekaterinburg is home to the headquarters of the Central Military District of the Russian Armed Forces, as well as the presidium of the Ural Branch of the Russian Academy of Sciences.
 >
