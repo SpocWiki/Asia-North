@@ -1,8 +1,12 @@
 ---
-location:
-  - 48.6
-  - 132.7
-type: geo-Region
+aliases:
+  - Yevrey
+  - Jewish_Autonomous_Oblast
+location: [48.8,132.95] 
+type: State
+tags:
+- geo/State
+SpocWebEntityId: 37198
 title: Yevrey
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
@@ -10,10 +14,6 @@ isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-tags:
-  - geo/Country/Region
-aliases:
-  - Yevrey
 Languages:
   - de
 cssclasses:
@@ -26,15 +26,28 @@ publishDate:
 expiryDate:
 ---
 
-# Yevrey
+# [[Jewish_Autonomous_Oblast]] 
+
+[name::Jewish Autonomous Oblast] 
+[name-abbr::] 
+Country :: [[Russia]]  
+Capital :: [[Birobidjan]]  
+[geo-lon::132.95] 
+[geo-lat::48.8] 
+[Population::] 
+
+## #has_/map 
 
 ```leaflet
-id: Yevrey
-zoomFeatures: true 
+id: Jewish_Autonomous_Oblast
+geojsonFolder: ./Jewish_Autonomous_Oblast/
+markerFolder: ./Jewish_Autonomous_Oblast/
+coordinates: [[Jewish_Autonomous_Oblast]] 
+markerFile: [[Jewish_Autonomous_Oblast]] 
+zoomFeatures: true
+defaultZoom: 6 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Yevrey/
-markerFolder: ./Yevrey/
 ```
 
 
