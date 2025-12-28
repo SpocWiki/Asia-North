@@ -1,5 +1,7 @@
 ---
 aliases:
+  - Siberian Federal District
+  - Сибирский федеральный округ
 has_id_wikidata: Q5428
 Colon_Classification: SG--48
 MeSH_tree_code: Z01.252.122.500.500
@@ -74,20 +76,38 @@ UMLS_CUI: C0037045
 # [[Asia~Siberia]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Siberia,5428|WD~Siberia,5428]] 
+#has_/id_/wikidata :: Q41979 
 
 ## #has_/map 
 
 ```leaflet
 id: Asia~Siberia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 3 
 maxZoom: 18
-defaultZoom: 2 
+defaultZoom: 3 
 coordinates: [[Asia~Siberia]] 
 markerFile: [[Asia~Siberia]] 
 geojsonFolder: ./Asia~Siberia/
 markerFolder: ./Asia~Siberia/
 ```
+
+## #has_/text_of_/abstract 
+
+> The **Siberian Federal District** (Russian: Сибирский федеральный округ, IPA: [sʲɪˈbʲirskʲɪj fʲɪdʲɪˈralʲnɨj ˈokrʊk]) is one of the eight federal districts of Russia. 
+> 
+> Its population was 17,178,298 according to the 2010 Census, 
+> living in an area of 4,361,800 square kilometers (1,684,100 sq mi). 
+> The entire federal district lies within the continent of Asia.
+>
+> The district was created by presidential decree on 13 May 2000 
+> and covers around 30% of the total land area of Russia. 
+> 
+> In November 2018, Buryatia and Zabaykalsky Krai 
+> were removed from the Siberian Federal District 
+> and added to the Far Eastern Federal District by a decree issued by Russian President Vladimir Putin.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Siberian%20Federal%20District)
 
 ## #has_/text_of_/abstract 
 

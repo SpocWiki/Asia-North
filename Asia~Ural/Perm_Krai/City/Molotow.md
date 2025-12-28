@@ -1,5 +1,5 @@
 ---
-location: [58.02,56.27] 
+location: [58,56.31667] 
 mapzoom: [7,12] 
 mapmarker: city 
 type: City
@@ -7,25 +7,25 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 32542
+SpocWebEntityId: [32542,33308,37106]
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::56.27] 
-[geo-lat::58.02] 
-[name::Molotow] 
+[geo-lon::56.31667] 
+[geo-lat::58] 
+[name::Perm] 
 State ::  
 Country :: [[Russia]]  
-[StateId::] 
+[StateId::37102] 
 [Population::] 
 [Unknown::] 
 
 
 ```leaflet
-id: Molotow
-coordinates: [[Molotow]] 
-markerFile: [[Molotow]] 
+id: Perm
+coordinates: [[Perm]] 
+markerFile: [[Perm]] 
 defaultZoom: 11 
 maxZoom: 18
 ```

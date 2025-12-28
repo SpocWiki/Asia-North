@@ -1,5 +1,16 @@
+---
+aliases:
+  - Far Eastern Federal District
+  - Дальневосточный федеральный округ
+  - Far_Eastern_Federal_District
+has_id_wikidata: Q41968
+---
 
 # [[Asia~NorthEast]] 
+
+#is_/same_as :: [[_Standards/WikiData/WD~Far_Eastern_Federal_District,41968]] 
+
+## #has_/map 
 
 ```leaflet
 id: Norway
@@ -9,6 +20,17 @@ maxZoom: 18
 geojsonFolder: ./Asia~NorthEast/
 markerFolder: ./Asia~NorthEast/
 ```
+
+
+## #has_/text_of_/abstract 
+
+> The **Far Eastern Federal District** (Russian: Дальневосточный федеральный округ, IPA: [dəlʲnʲɪvɐˈstot͡ɕnɨj fʲɪdʲɪˈralʲnɨj ˈokrʊk]) 
+> is the largest and the least populated federal district of Russia, 
+> with a population of around 7.9 million and an area of 6,952,555 square kilometres. 
+> The federal district is within North Asia as per the UN geoscheme 
+> and it is coextensive with the Russian Far East.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Far%20Eastern%20Federal%20District) 
 
 
 
