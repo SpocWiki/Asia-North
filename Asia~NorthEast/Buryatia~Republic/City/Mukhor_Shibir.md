@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mukhor_Shibir](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir|Mukhor_Shibir]] 
 
-### #is_/same_as :: [Mukhor_Shibir.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.public|Mukhor_Shibir.public]] 
 
-### #is_/same_as :: [Mukhor_Shibir.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.internal|Mukhor_Shibir.internal]] 
 
-### #is_/same_as :: [Mukhor_Shibir.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.protect|Mukhor_Shibir.protect]] 
 
-### #is_/same_as :: [Mukhor_Shibir.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.private|Mukhor_Shibir.private]] 
 
-### #is_/same_as :: [Mukhor_Shibir.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.personal|Mukhor_Shibir.personal]] 
 
-### #is_/same_as :: [Mukhor_Shibir.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Mukhor_Shibir.secret|Mukhor_Shibir.secret]] 
 

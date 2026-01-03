@@ -38,17 +38,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bolcherietz](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz|Bolcherietz]] 
 
-### #is_/same_as :: [Bolcherietz.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.public|Bolcherietz.public]] 
 
-### #is_/same_as :: [Bolcherietz.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.internal|Bolcherietz.internal]] 
 
-### #is_/same_as :: [Bolcherietz.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.protect|Bolcherietz.protect]] 
 
-### #is_/same_as :: [Bolcherietz.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.private|Bolcherietz.private]] 
 
-### #is_/same_as :: [Bolcherietz.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.personal|Bolcherietz.personal]] 
 
-### #is_/same_as :: [Bolcherietz.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/City/Bolcherietz.secret|Bolcherietz.secret]] 
 

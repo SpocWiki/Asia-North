@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Olekminsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk|Olekminsk]] 
 
-### #is_/same_as :: [Olekminsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.public|Olekminsk.public]] 
 
-### #is_/same_as :: [Olekminsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.internal|Olekminsk.internal]] 
 
-### #is_/same_as :: [Olekminsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.protect|Olekminsk.protect]] 
 
-### #is_/same_as :: [Olekminsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.private|Olekminsk.private]] 
 
-### #is_/same_as :: [Olekminsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.personal|Olekminsk.personal]] 
 
-### #is_/same_as :: [Olekminsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/City/Olekminsk.secret|Olekminsk.secret]] 
 

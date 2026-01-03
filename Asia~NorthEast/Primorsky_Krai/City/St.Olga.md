@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [St.Olga](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga|St.Olga]] 
 
-### #is_/same_as :: [St.Olga.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.public|St.Olga.public]] 
 
-### #is_/same_as :: [St.Olga.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.internal|St.Olga.internal]] 
 
-### #is_/same_as :: [St.Olga.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.protect|St.Olga.protect]] 
 
-### #is_/same_as :: [St.Olga.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.private|St.Olga.private]] 
 
-### #is_/same_as :: [St.Olga.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.personal|St.Olga.personal]] 
 
-### #is_/same_as :: [St.Olga.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/St.Olga.secret|St.Olga.secret]] 
 

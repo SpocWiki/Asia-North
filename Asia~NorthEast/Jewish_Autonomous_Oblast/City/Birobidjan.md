@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Birobidjan](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Birobidjan|Birobidjan]] 
 
-### #is_/same_as :: [Birobidjan.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Birobidjan.public|Birobidjan.public]] 
 
-### #is_/same_as :: [Birobidjan.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Birobidjan.internal|Birobidjan.internal]] 
 
-### #is_/same_as :: [Birobidjan.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Birobidjan.protect|Birobidjan.protect]] 
 
-### #is_/same_as :: [Birobidjan.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Birobidjan.private|Birobidjan.private]] 
 
-### #is_/same_as :: [Birobidjan.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Birobidjan.personal|Birobidjan.personal]] 
 
-### #is_/same_as :: [Birobidjan.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Birobidjan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Birobidjan.secret|Birobidjan.secret]] 
 

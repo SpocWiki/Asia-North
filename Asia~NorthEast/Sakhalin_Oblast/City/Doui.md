@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doui](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui|Doui]] 
 
-### #is_/same_as :: [Doui.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.public|Doui.public]] 
 
-### #is_/same_as :: [Doui.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.internal|Doui.internal]] 
 
-### #is_/same_as :: [Doui.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.protect|Doui.protect]] 
 
-### #is_/same_as :: [Doui.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.private|Doui.private]] 
 
-### #is_/same_as :: [Doui.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.personal|Doui.personal]] 
 
-### #is_/same_as :: [Doui.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Doui.secret|Doui.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tobolsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk|Tobolsk]] 
 
-### #is_/same_as :: [Tobolsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.public|Tobolsk.public]] 
 
-### #is_/same_as :: [Tobolsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.internal|Tobolsk.internal]] 
 
-### #is_/same_as :: [Tobolsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.protect|Tobolsk.protect]] 
 
-### #is_/same_as :: [Tobolsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.private|Tobolsk.private]] 
 
-### #is_/same_as :: [Tobolsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.personal|Tobolsk.personal]] 
 
-### #is_/same_as :: [Tobolsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tobolsk.secret|Tobolsk.secret]] 
 

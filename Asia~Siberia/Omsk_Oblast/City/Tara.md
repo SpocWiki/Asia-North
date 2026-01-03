@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tara](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara|Tara]] 
 
-### #is_/same_as :: [Tara.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.public|Tara.public]] 
 
-### #is_/same_as :: [Tara.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.internal|Tara.internal]] 
 
-### #is_/same_as :: [Tara.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.protect|Tara.protect]] 
 
-### #is_/same_as :: [Tara.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.private|Tara.private]] 
 
-### #is_/same_as :: [Tara.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.personal|Tara.personal]] 
 
-### #is_/same_as :: [Tara.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Tara.secret|Tara.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Omsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk|Omsk]] 
 
-### #is_/same_as :: [Omsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.public|Omsk.public]] 
 
-### #is_/same_as :: [Omsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.internal|Omsk.internal]] 
 
-### #is_/same_as :: [Omsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.protect|Omsk.protect]] 
 
-### #is_/same_as :: [Omsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.private|Omsk.private]] 
 
-### #is_/same_as :: [Omsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.personal|Omsk.personal]] 
 
-### #is_/same_as :: [Omsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Omsk_Oblast/City/Omsk.secret|Omsk.secret]] 
 

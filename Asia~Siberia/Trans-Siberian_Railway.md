@@ -126,3 +126,20 @@ date_of_official_opening: 1903-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Trans-Siberian%20Railway) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Trans-Siberian_Railway|Trans-Siberian_Railway]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Trans-Siberian_Railway.public|Trans-Siberian_Railway.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Trans-Siberian_Railway.internal|Trans-Siberian_Railway.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Trans-Siberian_Railway.protect|Trans-Siberian_Railway.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Trans-Siberian_Railway.private|Trans-Siberian_Railway.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Trans-Siberian_Railway.personal|Trans-Siberian_Railway.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Trans-Siberian_Railway.secret|Trans-Siberian_Railway.secret]] 
+

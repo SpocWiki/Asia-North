@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agin-Buryat~Okrug](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug|Agin-Buryat~Okrug]] 
 
-### #is_/same_as :: [Agin-Buryat~Okrug.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.public|Agin-Buryat~Okrug.public]] 
 
-### #is_/same_as :: [Agin-Buryat~Okrug.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.internal|Agin-Buryat~Okrug.internal]] 
 
-### #is_/same_as :: [Agin-Buryat~Okrug.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.protect|Agin-Buryat~Okrug.protect]] 
 
-### #is_/same_as :: [Agin-Buryat~Okrug.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.private|Agin-Buryat~Okrug.private]] 
 
-### #is_/same_as :: [Agin-Buryat~Okrug.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.personal|Agin-Buryat~Okrug.personal]] 
 
-### #is_/same_as :: [Agin-Buryat~Okrug.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Agin-Buryat~Okrug.secret|Agin-Buryat~Okrug.secret]] 
 

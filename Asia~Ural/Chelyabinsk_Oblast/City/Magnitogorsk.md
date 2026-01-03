@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnitogorsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk|Magnitogorsk]] 
 
-### #is_/same_as :: [Magnitogorsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.public|Magnitogorsk.public]] 
 
-### #is_/same_as :: [Magnitogorsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.internal|Magnitogorsk.internal]] 
 
-### #is_/same_as :: [Magnitogorsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.protect|Magnitogorsk.protect]] 
 
-### #is_/same_as :: [Magnitogorsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.private|Magnitogorsk.private]] 
 
-### #is_/same_as :: [Magnitogorsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.personal|Magnitogorsk.personal]] 
 
-### #is_/same_as :: [Magnitogorsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/City/Magnitogorsk.secret|Magnitogorsk.secret]] 
 

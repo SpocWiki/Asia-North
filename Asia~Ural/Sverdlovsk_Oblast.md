@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sverdlovsk_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast|Sverdlovsk_Oblast]] 
 
-### #is_/same_as :: [Sverdlovsk_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.public|Sverdlovsk_Oblast.public]] 
 
-### #is_/same_as :: [Sverdlovsk_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.internal|Sverdlovsk_Oblast.internal]] 
 
-### #is_/same_as :: [Sverdlovsk_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.protect|Sverdlovsk_Oblast.protect]] 
 
-### #is_/same_as :: [Sverdlovsk_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.private|Sverdlovsk_Oblast.private]] 
 
-### #is_/same_as :: [Sverdlovsk_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.personal|Sverdlovsk_Oblast.personal]] 
 
-### #is_/same_as :: [Sverdlovsk_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast.secret|Sverdlovsk_Oblast.secret]] 
 

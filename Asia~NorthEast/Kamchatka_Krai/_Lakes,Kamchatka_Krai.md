@@ -40,17 +40,17 @@ markerFolder: ./_Lakes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Lakes](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes,Kamchatka_Krai|_Lakes,Kamchatka_Krai]] 
 
-### #is_/same_as :: [_Lakes.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes,Kamchatka_Krai.public|_Lakes,Kamchatka_Krai.public]] 
 
-### #is_/same_as :: [_Lakes.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes,Kamchatka_Krai.internal|_Lakes,Kamchatka_Krai.internal]] 
 
-### #is_/same_as :: [_Lakes.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes,Kamchatka_Krai.protect|_Lakes,Kamchatka_Krai.protect]] 
 
-### #is_/same_as :: [_Lakes.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes,Kamchatka_Krai.private|_Lakes,Kamchatka_Krai.private]] 
 
-### #is_/same_as :: [_Lakes.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes,Kamchatka_Krai.personal|_Lakes,Kamchatka_Krai.personal]] 
 
-### #is_/same_as :: [_Lakes.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/_Lakes,Kamchatka_Krai.secret|_Lakes,Kamchatka_Krai.secret]] 
 

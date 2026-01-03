@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bantschikowo](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo|Bantschikowo]] 
 
-### #is_/same_as :: [Bantschikowo.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.public|Bantschikowo.public]] 
 
-### #is_/same_as :: [Bantschikowo.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.internal|Bantschikowo.internal]] 
 
-### #is_/same_as :: [Bantschikowo.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.protect|Bantschikowo.protect]] 
 
-### #is_/same_as :: [Bantschikowo.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.private|Bantschikowo.private]] 
 
-### #is_/same_as :: [Bantschikowo.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.personal|Bantschikowo.personal]] 
 
-### #is_/same_as :: [Bantschikowo.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Bantschikowo.secret|Bantschikowo.secret]] 
 

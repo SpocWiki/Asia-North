@@ -40,17 +40,17 @@ markerFolder: ./Island~Ayon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Island~Ayon](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon|Island~Ayon]] 
 
-### #is_/same_as :: [Island~Ayon.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.public|Island~Ayon.public]] 
 
-### #is_/same_as :: [Island~Ayon.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.internal|Island~Ayon.internal]] 
 
-### #is_/same_as :: [Island~Ayon.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.protect|Island~Ayon.protect]] 
 
-### #is_/same_as :: [Island~Ayon.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.private|Island~Ayon.private]] 
 
-### #is_/same_as :: [Island~Ayon.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.personal|Island~Ayon.personal]] 
 
-### #is_/same_as :: [Island~Ayon.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/Island~Ayon.secret|Island~Ayon.secret]] 
 

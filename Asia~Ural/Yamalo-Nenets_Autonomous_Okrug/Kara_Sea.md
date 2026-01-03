@@ -80,3 +80,20 @@ Commons_category: Kara Sea
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kara%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/Kara_Sea|Kara_Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/Kara_Sea.public|Kara_Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/Kara_Sea.internal|Kara_Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/Kara_Sea.protect|Kara_Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/Kara_Sea.private|Kara_Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/Kara_Sea.personal|Kara_Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/Kara_Sea.secret|Kara_Sea.secret]] 
+

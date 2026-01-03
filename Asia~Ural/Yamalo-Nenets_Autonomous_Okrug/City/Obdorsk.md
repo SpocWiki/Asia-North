@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obdorsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk|Obdorsk]] 
 
-### #is_/same_as :: [Obdorsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.public|Obdorsk.public]] 
 
-### #is_/same_as :: [Obdorsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.internal|Obdorsk.internal]] 
 
-### #is_/same_as :: [Obdorsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.protect|Obdorsk.protect]] 
 
-### #is_/same_as :: [Obdorsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.private|Obdorsk.private]] 
 
-### #is_/same_as :: [Obdorsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.personal|Obdorsk.personal]] 
 
-### #is_/same_as :: [Obdorsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Yamalo-Nenets_Autonomous_Okrug/City/Obdorsk.secret|Obdorsk.secret]] 
 

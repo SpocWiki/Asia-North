@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khanty-Mansisyk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk|Khanty-Mansisyk]] 
 
-### #is_/same_as :: [Khanty-Mansisyk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.public|Khanty-Mansisyk.public]] 
 
-### #is_/same_as :: [Khanty-Mansisyk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.internal|Khanty-Mansisyk.internal]] 
 
-### #is_/same_as :: [Khanty-Mansisyk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.protect|Khanty-Mansisyk.protect]] 
 
-### #is_/same_as :: [Khanty-Mansisyk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.private|Khanty-Mansisyk.private]] 
 
-### #is_/same_as :: [Khanty-Mansisyk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.personal|Khanty-Mansisyk.personal]] 
 
-### #is_/same_as :: [Khanty-Mansisyk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra/City/Khanty-Mansisyk.secret|Khanty-Mansisyk.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khabarovka](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Khabarovka|Khabarovka]] 
 
-### #is_/same_as :: [Khabarovka.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Khabarovka.public|Khabarovka.public]] 
 
-### #is_/same_as :: [Khabarovka.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Khabarovka.internal|Khabarovka.internal]] 
 
-### #is_/same_as :: [Khabarovka.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Khabarovka.protect|Khabarovka.protect]] 
 
-### #is_/same_as :: [Khabarovka.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Khabarovka.private|Khabarovka.private]] 
 
-### #is_/same_as :: [Khabarovka.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Khabarovka.personal|Khabarovka.personal]] 
 
-### #is_/same_as :: [Khabarovka.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Khabarovka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Khabarovka.secret|Khabarovka.secret]] 
 

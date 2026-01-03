@@ -77,3 +77,19 @@ maxZoom: 18
 ```
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/Rivers~Yakutia/Indigirka|Indigirka]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/Rivers~Yakutia/Indigirka.public|Indigirka.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/Rivers~Yakutia/Indigirka.internal|Indigirka.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/Rivers~Yakutia/Indigirka.protect|Indigirka.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/Rivers~Yakutia/Indigirka.private|Indigirka.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/Rivers~Yakutia/Indigirka.personal|Indigirka.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/Rivers~Yakutia/Indigirka.secret|Indigirka.secret]] 
+

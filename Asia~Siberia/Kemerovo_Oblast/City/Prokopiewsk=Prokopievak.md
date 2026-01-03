@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prokopiewsk=Prokopievak](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak|Prokopiewsk=Prokopievak]] 
 
-### #is_/same_as :: [Prokopiewsk=Prokopievak.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.public|Prokopiewsk=Prokopievak.public]] 
 
-### #is_/same_as :: [Prokopiewsk=Prokopievak.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.internal|Prokopiewsk=Prokopievak.internal]] 
 
-### #is_/same_as :: [Prokopiewsk=Prokopievak.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.protect|Prokopiewsk=Prokopievak.protect]] 
 
-### #is_/same_as :: [Prokopiewsk=Prokopievak.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.private|Prokopiewsk=Prokopievak.private]] 
 
-### #is_/same_as :: [Prokopiewsk=Prokopievak.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.personal|Prokopiewsk=Prokopievak.personal]] 
 
-### #is_/same_as :: [Prokopiewsk=Prokopievak.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Kemerovo_Oblast/City/Prokopiewsk=Prokopievak.secret|Prokopiewsk=Prokopievak.secret]] 
 

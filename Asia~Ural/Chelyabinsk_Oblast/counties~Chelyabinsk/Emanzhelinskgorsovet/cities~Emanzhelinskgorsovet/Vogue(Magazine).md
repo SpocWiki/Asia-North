@@ -104,4 +104,19 @@ Threads_username: voguemagazine
 > [Wikipedia](https://en.wikipedia.org/wiki/Vogue%20(magazine)) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/counties~Chelyabinsk/Emanzhelinskgorsovet/cities~Emanzhelinskgorsovet/Vogue(Magazine)|Vogue(Magazine)]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/counties~Chelyabinsk/Emanzhelinskgorsovet/cities~Emanzhelinskgorsovet/Vogue(Magazine).public|Vogue(Magazine).public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/counties~Chelyabinsk/Emanzhelinskgorsovet/cities~Emanzhelinskgorsovet/Vogue(Magazine).internal|Vogue(Magazine).internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/counties~Chelyabinsk/Emanzhelinskgorsovet/cities~Emanzhelinskgorsovet/Vogue(Magazine).protect|Vogue(Magazine).protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/counties~Chelyabinsk/Emanzhelinskgorsovet/cities~Emanzhelinskgorsovet/Vogue(Magazine).private|Vogue(Magazine).private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/counties~Chelyabinsk/Emanzhelinskgorsovet/cities~Emanzhelinskgorsovet/Vogue(Magazine).personal|Vogue(Magazine).personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Chelyabinsk_Oblast/counties~Chelyabinsk/Emanzhelinskgorsovet/cities~Emanzhelinskgorsovet/Vogue(Magazine).secret|Vogue(Magazine).secret]] 
 

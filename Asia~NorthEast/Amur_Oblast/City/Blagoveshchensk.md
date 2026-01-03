@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blagoveshchensk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk|Blagoveshchensk]] 
 
-### #is_/same_as :: [Blagoveshchensk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.public|Blagoveshchensk.public]] 
 
-### #is_/same_as :: [Blagoveshchensk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.internal|Blagoveshchensk.internal]] 
 
-### #is_/same_as :: [Blagoveshchensk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.protect|Blagoveshchensk.protect]] 
 
-### #is_/same_as :: [Blagoveshchensk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.private|Blagoveshchensk.private]] 
 
-### #is_/same_as :: [Blagoveshchensk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.personal|Blagoveshchensk.personal]] 
 
-### #is_/same_as :: [Blagoveshchensk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Blagoveshchensk.secret|Blagoveshchensk.secret]] 
 

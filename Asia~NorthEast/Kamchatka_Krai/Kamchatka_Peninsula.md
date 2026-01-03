@@ -60,3 +60,20 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%2
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kamchatka%20Peninsula) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Kamchatka_Peninsula|Kamchatka_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Kamchatka_Peninsula.public|Kamchatka_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Kamchatka_Peninsula.internal|Kamchatka_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Kamchatka_Peninsula.protect|Kamchatka_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Kamchatka_Peninsula.private|Kamchatka_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Kamchatka_Peninsula.personal|Kamchatka_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Kamchatka_Peninsula.secret|Kamchatka_Peninsula.secret]] 
+

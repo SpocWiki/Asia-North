@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Artemovsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kuraginskiy,Rayon/Artemovsk|Artemovsk]] 
 
-### #is_/same_as :: [Artemovsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kuraginskiy,Rayon/Artemovsk.public|Artemovsk.public]] 
 
-### #is_/same_as :: [Artemovsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kuraginskiy,Rayon/Artemovsk.internal|Artemovsk.internal]] 
 
-### #is_/same_as :: [Artemovsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kuraginskiy,Rayon/Artemovsk.protect|Artemovsk.protect]] 
 
-### #is_/same_as :: [Artemovsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kuraginskiy,Rayon/Artemovsk.private|Artemovsk.private]] 
 
-### #is_/same_as :: [Artemovsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kuraginskiy,Rayon/Artemovsk.personal|Artemovsk.personal]] 
 
-### #is_/same_as :: [Artemovsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Artemovsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kuraginskiy,Rayon/Artemovsk.secret|Artemovsk.secret]] 
 

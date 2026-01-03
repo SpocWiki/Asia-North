@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bogsolowsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Karpinskgorsovet/Bogsolowsk|Bogsolowsk]] 
 
-### #is_/same_as :: [Bogsolowsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Karpinskgorsovet/Bogsolowsk.public|Bogsolowsk.public]] 
 
-### #is_/same_as :: [Bogsolowsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Karpinskgorsovet/Bogsolowsk.internal|Bogsolowsk.internal]] 
 
-### #is_/same_as :: [Bogsolowsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Karpinskgorsovet/Bogsolowsk.protect|Bogsolowsk.protect]] 
 
-### #is_/same_as :: [Bogsolowsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Karpinskgorsovet/Bogsolowsk.private|Bogsolowsk.private]] 
 
-### #is_/same_as :: [Bogsolowsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Karpinskgorsovet/Bogsolowsk.personal|Bogsolowsk.personal]] 
 
-### #is_/same_as :: [Bogsolowsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Bogsolowsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Karpinskgorsovet/Bogsolowsk.secret|Bogsolowsk.secret]] 
 

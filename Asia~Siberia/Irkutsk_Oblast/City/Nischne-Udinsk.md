@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nischne-Udinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk|Nischne-Udinsk]] 
 
-### #is_/same_as :: [Nischne-Udinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.public|Nischne-Udinsk.public]] 
 
-### #is_/same_as :: [Nischne-Udinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.internal|Nischne-Udinsk.internal]] 
 
-### #is_/same_as :: [Nischne-Udinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.protect|Nischne-Udinsk.protect]] 
 
-### #is_/same_as :: [Nischne-Udinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.private|Nischne-Udinsk.private]] 
 
-### #is_/same_as :: [Nischne-Udinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.personal|Nischne-Udinsk.personal]] 
 
-### #is_/same_as :: [Nischne-Udinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Irkutsk_Oblast/City/Nischne-Udinsk.secret|Nischne-Udinsk.secret]] 
 

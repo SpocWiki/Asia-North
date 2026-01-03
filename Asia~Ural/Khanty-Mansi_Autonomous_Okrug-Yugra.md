@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra|Khanty-Mansi_Autonomous_Okrug-Yugra]] 
 
-### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.public|Khanty-Mansi_Autonomous_Okrug-Yugra.public]] 
 
-### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.internal|Khanty-Mansi_Autonomous_Okrug-Yugra.internal]] 
 
-### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.protect|Khanty-Mansi_Autonomous_Okrug-Yugra.protect]] 
 
-### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.private|Khanty-Mansi_Autonomous_Okrug-Yugra.private]] 
 
-### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.personal|Khanty-Mansi_Autonomous_Okrug-Yugra.personal]] 
 
-### #is_/same_as :: [Khanty-Mansi_Autonomous_Okrug-Yugra.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Khanty-Mansi_Autonomous_Okrug-Yugra.secret|Khanty-Mansi_Autonomous_Okrug-Yugra.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kovima=la_Basse](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse|Kovima=la_Basse]] 
 
-### #is_/same_as :: [Kovima=la_Basse.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.public|Kovima=la_Basse.public]] 
 
-### #is_/same_as :: [Kovima=la_Basse.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.internal|Kovima=la_Basse.internal]] 
 
-### #is_/same_as :: [Kovima=la_Basse.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.protect|Kovima=la_Basse.protect]] 
 
-### #is_/same_as :: [Kovima=la_Basse.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.private|Kovima=la_Basse.private]] 
 
-### #is_/same_as :: [Kovima=la_Basse.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.personal|Kovima=la_Basse.personal]] 
 
-### #is_/same_as :: [Kovima=la_Basse.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Chukotka_Autonomous_Okrug/City/Kovima=la_Basse.secret|Kovima=la_Basse.secret]] 
 

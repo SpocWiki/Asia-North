@@ -53,17 +53,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magadan_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast|Magadan_Oblast]] 
 
-### #is_/same_as :: [Magadan_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.public|Magadan_Oblast.public]] 
 
-### #is_/same_as :: [Magadan_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.internal|Magadan_Oblast.internal]] 
 
-### #is_/same_as :: [Magadan_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.protect|Magadan_Oblast.protect]] 
 
-### #is_/same_as :: [Magadan_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.private|Magadan_Oblast.private]] 
 
-### #is_/same_as :: [Magadan_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.personal|Magadan_Oblast.personal]] 
 
-### #is_/same_as :: [Magadan_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast.secret|Magadan_Oblast.secret]] 
 

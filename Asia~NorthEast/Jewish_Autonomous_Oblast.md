@@ -55,17 +55,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yevrey](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast|Jewish_Autonomous_Oblast]] 
 
-### #is_/same_as :: [Yevrey.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast.public|Jewish_Autonomous_Oblast.public]] 
 
-### #is_/same_as :: [Yevrey.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast.internal|Jewish_Autonomous_Oblast.internal]] 
 
-### #is_/same_as :: [Yevrey.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast.protect|Jewish_Autonomous_Oblast.protect]] 
 
-### #is_/same_as :: [Yevrey.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast.private|Jewish_Autonomous_Oblast.private]] 
 
-### #is_/same_as :: [Yevrey.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast.personal|Jewish_Autonomous_Oblast.personal]] 
 
-### #is_/same_as :: [Yevrey.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast.secret|Jewish_Autonomous_Oblast.secret]] 
 

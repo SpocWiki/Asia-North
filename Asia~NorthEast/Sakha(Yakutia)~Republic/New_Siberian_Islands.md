@@ -50,3 +50,20 @@ native_label: Саҥа Сибиир арыылара
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/New%20Siberian%20Islands) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/New_Siberian_Islands|New_Siberian_Islands]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/New_Siberian_Islands.public|New_Siberian_Islands.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/New_Siberian_Islands.internal|New_Siberian_Islands.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/New_Siberian_Islands.protect|New_Siberian_Islands.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/New_Siberian_Islands.private|New_Siberian_Islands.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/New_Siberian_Islands.personal|New_Siberian_Islands.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakha(Yakutia)~Republic/New_Siberian_Islands.secret|New_Siberian_Islands.secret]] 
+

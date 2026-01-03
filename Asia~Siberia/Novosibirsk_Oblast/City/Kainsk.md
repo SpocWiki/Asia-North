@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kainsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk|Kainsk]] 
 
-### #is_/same_as :: [Kainsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.public|Kainsk.public]] 
 
-### #is_/same_as :: [Kainsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.internal|Kainsk.internal]] 
 
-### #is_/same_as :: [Kainsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.protect|Kainsk.protect]] 
 
-### #is_/same_as :: [Kainsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.private|Kainsk.private]] 
 
-### #is_/same_as :: [Kainsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.personal|Kainsk.personal]] 
 
-### #is_/same_as :: [Kainsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Novosibirsk_Oblast/City/Kainsk.secret|Kainsk.secret]] 
 

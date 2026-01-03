@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yuzhno-Sakhalinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk|Yuzhno-Sakhalinsk]] 
 
-### #is_/same_as :: [Yuzhno-Sakhalinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.public|Yuzhno-Sakhalinsk.public]] 
 
-### #is_/same_as :: [Yuzhno-Sakhalinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.internal|Yuzhno-Sakhalinsk.internal]] 
 
-### #is_/same_as :: [Yuzhno-Sakhalinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.protect|Yuzhno-Sakhalinsk.protect]] 
 
-### #is_/same_as :: [Yuzhno-Sakhalinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.private|Yuzhno-Sakhalinsk.private]] 
 
-### #is_/same_as :: [Yuzhno-Sakhalinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.personal|Yuzhno-Sakhalinsk.personal]] 
 
-### #is_/same_as :: [Yuzhno-Sakhalinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Sakhalin_Oblast/City/Yuzhno-Sakhalinsk.secret|Yuzhno-Sakhalinsk.secret]] 
 

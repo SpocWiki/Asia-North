@@ -40,17 +40,17 @@ markerFolder: ./Buryatia~Republic/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buryatia~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic|Buryatia~Republic]] 
 
-### #is_/same_as :: [Buryatia~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.public|Buryatia~Republic.public]] 
 
-### #is_/same_as :: [Buryatia~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.internal|Buryatia~Republic.internal]] 
 
-### #is_/same_as :: [Buryatia~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.protect|Buryatia~Republic.protect]] 
 
-### #is_/same_as :: [Buryatia~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.private|Buryatia~Republic.private]] 
 
-### #is_/same_as :: [Buryatia~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.personal|Buryatia~Republic.personal]] 
 
-### #is_/same_as :: [Buryatia~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic.secret|Buryatia~Republic.secret]] 
 

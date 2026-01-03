@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tura](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Tura.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura|Tura]] 
 
-### #is_/same_as :: [Tura.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Tura.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura.public|Tura.public]] 
 
-### #is_/same_as :: [Tura.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Tura.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura.internal|Tura.internal]] 
 
-### #is_/same_as :: [Tura.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Tura.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura.protect|Tura.protect]] 
 
-### #is_/same_as :: [Tura.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Tura.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura.private|Tura.private]] 
 
-### #is_/same_as :: [Tura.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Tura.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura.personal|Tura.personal]] 
 
-### #is_/same_as :: [Tura.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Tura.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura.secret|Tura.secret]] 
 

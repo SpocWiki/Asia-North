@@ -33,21 +33,19 @@ markerFolder: ./Asia~NorthEast/
 > [Wikipedia](https://en.wikipedia.org/wiki/Far%20Eastern%20Federal%20District) 
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asia~NorthEast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast|Asia~NorthEast]] 
 
-### #is_/same_as :: [Asia~NorthEast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast.public|Asia~NorthEast.public]] 
 
-### #is_/same_as :: [Asia~NorthEast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast.internal|Asia~NorthEast.internal]] 
 
-### #is_/same_as :: [Asia~NorthEast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast.protect|Asia~NorthEast.protect]] 
 
-### #is_/same_as :: [Asia~NorthEast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast.private|Asia~NorthEast.private]] 
 
-### #is_/same_as :: [Asia~NorthEast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast.personal|Asia~NorthEast.personal]] 
 
-### #is_/same_as :: [Asia~NorthEast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast.secret|Asia~NorthEast.secret]] 
 

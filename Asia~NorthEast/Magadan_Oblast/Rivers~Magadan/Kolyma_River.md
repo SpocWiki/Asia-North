@@ -87,3 +87,20 @@ State_Water_Register_Code_Russia_: "19010100112019000000019"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kolyma%20(river)) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast/Rivers~Magadan/Kolyma_River|Kolyma_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast/Rivers~Magadan/Kolyma_River.public|Kolyma_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast/Rivers~Magadan/Kolyma_River.internal|Kolyma_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast/Rivers~Magadan/Kolyma_River.protect|Kolyma_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast/Rivers~Magadan/Kolyma_River.private|Kolyma_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast/Rivers~Magadan/Kolyma_River.personal|Kolyma_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Magadan_Oblast/Rivers~Magadan/Kolyma_River.secret|Kolyma_River.secret]] 
+

@@ -116,19 +116,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Kamchatka%20Krai) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kamchatka_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai|Kamchatka_Krai]] 
 
-### #is_/same_as :: [Kamchatka_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.public|Kamchatka_Krai.public]] 
 
-### #is_/same_as :: [Kamchatka_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.internal|Kamchatka_Krai.internal]] 
 
-### #is_/same_as :: [Kamchatka_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.protect|Kamchatka_Krai.protect]] 
 
-### #is_/same_as :: [Kamchatka_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.private|Kamchatka_Krai.private]] 
 
-### #is_/same_as :: [Kamchatka_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.personal|Kamchatka_Krai.personal]] 
 
-### #is_/same_as :: [Kamchatka_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai.secret|Kamchatka_Krai.secret]] 
 

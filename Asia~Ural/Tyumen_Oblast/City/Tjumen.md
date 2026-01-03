@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tjumen](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen|Tjumen]] 
 
-### #is_/same_as :: [Tjumen.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.public|Tjumen.public]] 
 
-### #is_/same_as :: [Tjumen.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.internal|Tjumen.internal]] 
 
-### #is_/same_as :: [Tjumen.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.protect|Tjumen.protect]] 
 
-### #is_/same_as :: [Tjumen.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.private|Tjumen.private]] 
 
-### #is_/same_as :: [Tjumen.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.personal|Tjumen.personal]] 
 
-### #is_/same_as :: [Tjumen.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Tjumen.secret|Tjumen.secret]] 
 

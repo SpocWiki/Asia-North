@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stalinsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Stalinsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Stalinsk|Stalinsk]] 
 
-### #is_/same_as :: [Stalinsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Stalinsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Stalinsk.public|Stalinsk.public]] 
 
-### #is_/same_as :: [Stalinsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Stalinsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Stalinsk.internal|Stalinsk.internal]] 
 
-### #is_/same_as :: [Stalinsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Stalinsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Stalinsk.protect|Stalinsk.protect]] 
 
-### #is_/same_as :: [Stalinsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Stalinsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Stalinsk.private|Stalinsk.private]] 
 
-### #is_/same_as :: [Stalinsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Stalinsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Stalinsk.personal|Stalinsk.personal]] 
 
-### #is_/same_as :: [Stalinsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Yevrey/City/Stalinsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Jewish_Autonomous_Oblast/City/Stalinsk.secret|Stalinsk.secret]] 
 

@@ -40,3 +40,19 @@ coordinate_location: Point(136.167 45.333)
 > [Wikipedia](https://en.wikipedia.org/wiki/Sikhote-Alin) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/Sikhote-Alin|Sikhote-Alin]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/Sikhote-Alin.public|Sikhote-Alin.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/Sikhote-Alin.internal|Sikhote-Alin.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/Sikhote-Alin.protect|Sikhote-Alin.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/Sikhote-Alin.private|Sikhote-Alin.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/Sikhote-Alin.personal|Sikhote-Alin.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/Sikhote-Alin.secret|Sikhote-Alin.secret]] 
+

@@ -41,17 +41,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Werchoturje](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Werchoturje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Verkhoturskiy,Rayon/cities~Verkhoturskiy,Rayon/Verkhoturye|Verkhoturye]] 
 
-### #is_/same_as :: [Werchoturje.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Werchoturje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Verkhoturskiy,Rayon/cities~Verkhoturskiy,Rayon/Verkhoturye.public|Verkhoturye.public]] 
 
-### #is_/same_as :: [Werchoturje.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Werchoturje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Verkhoturskiy,Rayon/cities~Verkhoturskiy,Rayon/Verkhoturye.internal|Verkhoturye.internal]] 
 
-### #is_/same_as :: [Werchoturje.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Werchoturje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Verkhoturskiy,Rayon/cities~Verkhoturskiy,Rayon/Verkhoturye.protect|Verkhoturye.protect]] 
 
-### #is_/same_as :: [Werchoturje.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Werchoturje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Verkhoturskiy,Rayon/cities~Verkhoturskiy,Rayon/Verkhoturye.private|Verkhoturye.private]] 
 
-### #is_/same_as :: [Werchoturje.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Werchoturje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Verkhoturskiy,Rayon/cities~Verkhoturskiy,Rayon/Verkhoturye.personal|Verkhoturye.personal]] 
 
-### #is_/same_as :: [Werchoturje.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Werchoturje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Verkhoturskiy,Rayon/cities~Verkhoturskiy,Rayon/Verkhoturye.secret|Verkhoturye.secret]] 
 

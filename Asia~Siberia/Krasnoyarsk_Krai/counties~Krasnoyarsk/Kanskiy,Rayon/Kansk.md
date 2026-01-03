@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kansk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Kansk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kanskiy,Rayon/Kansk|Kansk]] 
 
-### #is_/same_as :: [Kansk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Kansk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kanskiy,Rayon/Kansk.public|Kansk.public]] 
 
-### #is_/same_as :: [Kansk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Kansk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kanskiy,Rayon/Kansk.internal|Kansk.internal]] 
 
-### #is_/same_as :: [Kansk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Kansk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kanskiy,Rayon/Kansk.protect|Kansk.protect]] 
 
-### #is_/same_as :: [Kansk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Kansk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kanskiy,Rayon/Kansk.private|Kansk.private]] 
 
-### #is_/same_as :: [Kansk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Kansk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kanskiy,Rayon/Kansk.personal|Kansk.personal]] 
 
-### #is_/same_as :: [Kansk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Kansk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Kanskiy,Rayon/Kansk.secret|Kansk.secret]] 
 

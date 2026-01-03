@@ -75,3 +75,20 @@ Wolfram_Language_entity_code: Entity["Concept", "AltaiMountains::m3y24"]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Altai%20Mountains) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Mountains|Altai_Mountains]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Mountains.public|Altai_Mountains.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Mountains.internal|Altai_Mountains.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Mountains.protect|Altai_Mountains.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Mountains.private|Altai_Mountains.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Mountains.personal|Altai_Mountains.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Mountains.secret|Altai_Mountains.secret]] 
+

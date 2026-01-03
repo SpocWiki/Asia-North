@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kurgan_Oblast](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast|Kurgan_Oblast]] 
 
-### #is_/same_as :: [Kurgan_Oblast.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.public|Kurgan_Oblast.public]] 
 
-### #is_/same_as :: [Kurgan_Oblast.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.internal|Kurgan_Oblast.internal]] 
 
-### #is_/same_as :: [Kurgan_Oblast.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.protect|Kurgan_Oblast.protect]] 
 
-### #is_/same_as :: [Kurgan_Oblast.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.private|Kurgan_Oblast.private]] 
 
-### #is_/same_as :: [Kurgan_Oblast.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.personal|Kurgan_Oblast.personal]] 
 
-### #is_/same_as :: [Kurgan_Oblast.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Kurgan_Oblast.secret|Kurgan_Oblast.secret]] 
 

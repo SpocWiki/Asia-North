@@ -193,17 +193,17 @@ minZoom: 6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jekaterinburg](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg|Yekaterinburg]] 
 
-### #is_/same_as :: [Jekaterinburg.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg.public|Yekaterinburg.public]] 
 
-### #is_/same_as :: [Jekaterinburg.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg.internal|Yekaterinburg.internal]] 
 
-### #is_/same_as :: [Jekaterinburg.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg.protect|Yekaterinburg.protect]] 
 
-### #is_/same_as :: [Jekaterinburg.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg.private|Yekaterinburg.private]] 
 
-### #is_/same_as :: [Jekaterinburg.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg.personal|Yekaterinburg.personal]] 
 
-### #is_/same_as :: [Jekaterinburg.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/City/Jekaterinburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg.secret|Yekaterinburg.secret]] 
 

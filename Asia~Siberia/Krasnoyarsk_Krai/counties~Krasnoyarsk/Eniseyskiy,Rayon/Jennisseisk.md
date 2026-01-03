@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jennisseisk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Eniseyskiy,Rayon/Jennisseisk|Jennisseisk]] 
 
-### #is_/same_as :: [Jennisseisk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Eniseyskiy,Rayon/Jennisseisk.public|Jennisseisk.public]] 
 
-### #is_/same_as :: [Jennisseisk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Eniseyskiy,Rayon/Jennisseisk.internal|Jennisseisk.internal]] 
 
-### #is_/same_as :: [Jennisseisk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Eniseyskiy,Rayon/Jennisseisk.protect|Jennisseisk.protect]] 
 
-### #is_/same_as :: [Jennisseisk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Eniseyskiy,Rayon/Jennisseisk.private|Jennisseisk.private]] 
 
-### #is_/same_as :: [Jennisseisk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Eniseyskiy,Rayon/Jennisseisk.personal|Jennisseisk.personal]] 
 
-### #is_/same_as :: [Jennisseisk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Jennisseisk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Eniseyskiy,Rayon/Jennisseisk.secret|Jennisseisk.secret]] 
 

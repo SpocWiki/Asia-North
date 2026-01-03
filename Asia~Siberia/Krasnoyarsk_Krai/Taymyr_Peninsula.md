@@ -31,3 +31,20 @@ Commons_category: Taymyr Peninsula
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Taymyr%20Peninsula) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Taymyr_Peninsula|Taymyr_Peninsula]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Taymyr_Peninsula.public|Taymyr_Peninsula.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Taymyr_Peninsula.internal|Taymyr_Peninsula.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Taymyr_Peninsula.protect|Taymyr_Peninsula.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Taymyr_Peninsula.private|Taymyr_Peninsula.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Taymyr_Peninsula.personal|Taymyr_Peninsula.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Taymyr_Peninsula.secret|Taymyr_Peninsula.secret]] 
+

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barnaul](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul|Barnaul]] 
 
-### #is_/same_as :: [Barnaul.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.public|Barnaul.public]] 
 
-### #is_/same_as :: [Barnaul.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.internal|Barnaul.internal]] 
 
-### #is_/same_as :: [Barnaul.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.protect|Barnaul.protect]] 
 
-### #is_/same_as :: [Barnaul.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.private|Barnaul.private]] 
 
-### #is_/same_as :: [Barnaul.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.personal|Barnaul.personal]] 
 
-### #is_/same_as :: [Barnaul.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic/City/Barnaul.secret|Barnaul.secret]] 
 

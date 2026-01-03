@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khakassia~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic|Khakassia~Republic]] 
 
-### #is_/same_as :: [Khakassia~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.public|Khakassia~Republic.public]] 
 
-### #is_/same_as :: [Khakassia~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.internal|Khakassia~Republic.internal]] 
 
-### #is_/same_as :: [Khakassia~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.protect|Khakassia~Republic.protect]] 
 
-### #is_/same_as :: [Khakassia~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.private|Khakassia~Republic.private]] 
 
-### #is_/same_as :: [Khakassia~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.personal|Khakassia~Republic.personal]] 
 
-### #is_/same_as :: [Khakassia~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Khakassia~Republic.secret|Khakassia~Republic.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ichim](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim|Ichim]] 
 
-### #is_/same_as :: [Ichim.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.public|Ichim.public]] 
 
-### #is_/same_as :: [Ichim.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.internal|Ichim.internal]] 
 
-### #is_/same_as :: [Ichim.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.protect|Ichim.protect]] 
 
-### #is_/same_as :: [Ichim.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.private|Ichim.private]] 
 
-### #is_/same_as :: [Ichim.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.personal|Ichim.personal]] 
 
-### #is_/same_as :: [Ichim.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural/Tyumen_Oblast/City/Ichim.secret|Ichim.secret]] 
 

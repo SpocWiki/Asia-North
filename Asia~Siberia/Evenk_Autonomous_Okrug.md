@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evenk_Autonomous_Okrug](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug|Evenk_Autonomous_Okrug]] 
 
-### #is_/same_as :: [Evenk_Autonomous_Okrug.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.public|Evenk_Autonomous_Okrug.public]] 
 
-### #is_/same_as :: [Evenk_Autonomous_Okrug.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.internal|Evenk_Autonomous_Okrug.internal]] 
 
-### #is_/same_as :: [Evenk_Autonomous_Okrug.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.protect|Evenk_Autonomous_Okrug.protect]] 
 
-### #is_/same_as :: [Evenk_Autonomous_Okrug.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.private|Evenk_Autonomous_Okrug.private]] 
 
-### #is_/same_as :: [Evenk_Autonomous_Okrug.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.personal|Evenk_Autonomous_Okrug.personal]] 
 
-### #is_/same_as :: [Evenk_Autonomous_Okrug.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Evenk_Autonomous_Okrug.secret|Evenk_Autonomous_Okrug.secret]] 
 

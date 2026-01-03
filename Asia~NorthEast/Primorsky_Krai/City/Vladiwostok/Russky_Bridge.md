@@ -49,3 +49,20 @@ date_of_official_opening: 2012-07-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Russky%20Bridge) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok/Russky_Bridge|Russky_Bridge]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok/Russky_Bridge.public|Russky_Bridge.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok/Russky_Bridge.internal|Russky_Bridge.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok/Russky_Bridge.protect|Russky_Bridge.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok/Russky_Bridge.private|Russky_Bridge.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok/Russky_Bridge.personal|Russky_Bridge.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok/Russky_Bridge.secret|Russky_Bridge.secret]] 
+

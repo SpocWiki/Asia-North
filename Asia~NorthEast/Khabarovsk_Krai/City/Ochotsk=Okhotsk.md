@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ochotsk=Okhotsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk|Ochotsk=Okhotsk]] 
 
-### #is_/same_as :: [Ochotsk=Okhotsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.public|Ochotsk=Okhotsk.public]] 
 
-### #is_/same_as :: [Ochotsk=Okhotsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.internal|Ochotsk=Okhotsk.internal]] 
 
-### #is_/same_as :: [Ochotsk=Okhotsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.protect|Ochotsk=Okhotsk.protect]] 
 
-### #is_/same_as :: [Ochotsk=Okhotsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.private|Ochotsk=Okhotsk.private]] 
 
-### #is_/same_as :: [Ochotsk=Okhotsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.personal|Ochotsk=Okhotsk.personal]] 
 
-### #is_/same_as :: [Ochotsk=Okhotsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Khabarovsk_Krai/City/Ochotsk=Okhotsk.secret|Ochotsk=Okhotsk.secret]] 
 

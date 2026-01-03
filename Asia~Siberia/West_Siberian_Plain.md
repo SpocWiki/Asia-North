@@ -61,3 +61,20 @@ minZoom: 3
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/West%20Siberian%20Plain) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/West_Siberian_Plain|West_Siberian_Plain]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/West_Siberian_Plain.public|West_Siberian_Plain.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/West_Siberian_Plain.internal|West_Siberian_Plain.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/West_Siberian_Plain.protect|West_Siberian_Plain.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/West_Siberian_Plain.private|West_Siberian_Plain.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/West_Siberian_Plain.personal|West_Siberian_Plain.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/West_Siberian_Plain.secret|West_Siberian_Plain.secret]] 
+

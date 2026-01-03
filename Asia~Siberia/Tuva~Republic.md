@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuva~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic|Tuva~Republic]] 
 
-### #is_/same_as :: [Tuva~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.public|Tuva~Republic.public]] 
 
-### #is_/same_as :: [Tuva~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.internal|Tuva~Republic.internal]] 
 
-### #is_/same_as :: [Tuva~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.protect|Tuva~Republic.protect]] 
 
-### #is_/same_as :: [Tuva~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.private|Tuva~Republic.private]] 
 
-### #is_/same_as :: [Tuva~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.personal|Tuva~Republic.personal]] 
 
-### #is_/same_as :: [Tuva~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Tuva~Republic.secret|Tuva~Republic.secret]] 
 

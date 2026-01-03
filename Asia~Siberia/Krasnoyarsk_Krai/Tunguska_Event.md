@@ -59,3 +59,20 @@ time_of_discovery_or_invention: 1908-06-30T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tunguska%20event) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Tunguska_Event|Tunguska_Event]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Tunguska_Event.public|Tunguska_Event.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Tunguska_Event.internal|Tunguska_Event.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Tunguska_Event.protect|Tunguska_Event.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Tunguska_Event.private|Tunguska_Event.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Tunguska_Event.personal|Tunguska_Event.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Tunguska_Event.secret|Tunguska_Event.secret]] 
+

@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Altai~Republic](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic|Altai~Republic]] 
 
-### #is_/same_as :: [Altai~Republic.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.public|Altai~Republic.public]] 
 
-### #is_/same_as :: [Altai~Republic.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.internal|Altai~Republic.internal]] 
 
-### #is_/same_as :: [Altai~Republic.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.protect|Altai~Republic.protect]] 
 
-### #is_/same_as :: [Altai~Republic.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.private|Altai~Republic.private]] 
 
-### #is_/same_as :: [Altai~Republic.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.personal|Altai~Republic.personal]] 
 
-### #is_/same_as :: [Altai~Republic.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai~Republic.secret|Altai~Republic.secret]] 
 

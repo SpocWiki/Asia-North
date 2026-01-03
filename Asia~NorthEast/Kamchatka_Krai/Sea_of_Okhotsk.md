@@ -178,3 +178,20 @@ Commons_category: Sea of Okhotsk
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sea%20of%20Okhotsk) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Sea_of_Okhotsk|Sea_of_Okhotsk]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Sea_of_Okhotsk.public|Sea_of_Okhotsk.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Sea_of_Okhotsk.internal|Sea_of_Okhotsk.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Sea_of_Okhotsk.protect|Sea_of_Okhotsk.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Sea_of_Okhotsk.private|Sea_of_Okhotsk.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Sea_of_Okhotsk.personal|Sea_of_Okhotsk.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Kamchatka_Krai/Sea_of_Okhotsk.secret|Sea_of_Okhotsk.secret]] 
+

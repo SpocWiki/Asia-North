@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gorno-Altaysk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk|Gorno-Altaysk]] 
 
-### #is_/same_as :: [Gorno-Altaysk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.public|Gorno-Altaysk.public]] 
 
-### #is_/same_as :: [Gorno-Altaysk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.internal|Gorno-Altaysk.internal]] 
 
-### #is_/same_as :: [Gorno-Altaysk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.protect|Gorno-Altaysk.protect]] 
 
-### #is_/same_as :: [Gorno-Altaysk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.private|Gorno-Altaysk.private]] 
 
-### #is_/same_as :: [Gorno-Altaysk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.personal|Gorno-Altaysk.personal]] 
 
-### #is_/same_as :: [Gorno-Altaysk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Altai_Krai/City/Gorno-Altaysk.secret|Gorno-Altaysk.secret]] 
 

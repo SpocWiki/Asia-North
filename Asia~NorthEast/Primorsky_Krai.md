@@ -32,17 +32,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Primorsky_Krai](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai|Primorsky_Krai]] 
 
-### #is_/same_as :: [Primorsky_Krai.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.public|Primorsky_Krai.public]] 
 
-### #is_/same_as :: [Primorsky_Krai.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.internal|Primorsky_Krai.internal]] 
 
-### #is_/same_as :: [Primorsky_Krai.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.protect|Primorsky_Krai.protect]] 
 
-### #is_/same_as :: [Primorsky_Krai.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.private|Primorsky_Krai.private]] 
 
-### #is_/same_as :: [Primorsky_Krai.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.personal|Primorsky_Krai.personal]] 
 
-### #is_/same_as :: [Primorsky_Krai.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai.secret|Primorsky_Krai.secret]] 
 

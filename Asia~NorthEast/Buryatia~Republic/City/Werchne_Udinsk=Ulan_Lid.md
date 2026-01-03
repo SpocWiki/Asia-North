@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid|Werchne_Udinsk=Ulan_Lid]] 
 
-### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.public|Werchne_Udinsk=Ulan_Lid.public]] 
 
-### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.internal|Werchne_Udinsk=Ulan_Lid.internal]] 
 
-### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.protect|Werchne_Udinsk=Ulan_Lid.protect]] 
 
-### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.private|Werchne_Udinsk=Ulan_Lid.private]] 
 
-### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.personal|Werchne_Udinsk=Ulan_Lid.personal]] 
 
-### #is_/same_as :: [Werchne_Udinsk=Ulan_Lid.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchne_Udinsk=Ulan_Lid.secret|Werchne_Udinsk=Ulan_Lid.secret]] 
 

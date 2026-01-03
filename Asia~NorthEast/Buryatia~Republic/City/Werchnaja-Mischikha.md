@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Werchnaja-Mischikha](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha|Werchnaja-Mischikha]] 
 
-### #is_/same_as :: [Werchnaja-Mischikha.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.public|Werchnaja-Mischikha.public]] 
 
-### #is_/same_as :: [Werchnaja-Mischikha.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.internal|Werchnaja-Mischikha.internal]] 
 
-### #is_/same_as :: [Werchnaja-Mischikha.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.protect|Werchnaja-Mischikha.protect]] 
 
-### #is_/same_as :: [Werchnaja-Mischikha.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.private|Werchnaja-Mischikha.private]] 
 
-### #is_/same_as :: [Werchnaja-Mischikha.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.personal|Werchnaja-Mischikha.personal]] 
 
-### #is_/same_as :: [Werchnaja-Mischikha.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Buryatia~Republic/City/Werchnaja-Mischikha.secret|Werchnaja-Mischikha.secret]] 
 

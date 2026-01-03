@@ -62,17 +62,17 @@ markerFile: [[Asia~Ural]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asia~Ural](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Ural|Asia~Ural]] 
 
-### #is_/same_as :: [Asia~Ural.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Ural.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Ural.public|Asia~Ural.public]] 
 
-### #is_/same_as :: [Asia~Ural.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Ural.internal|Asia~Ural.internal]] 
 
-### #is_/same_as :: [Asia~Ural.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Ural.protect|Asia~Ural.protect]] 
 
-### #is_/same_as :: [Asia~Ural.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Ural.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Ural.private|Asia~Ural.private]] 
 
-### #is_/same_as :: [Asia~Ural.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Ural.personal|Asia~Ural.personal]] 
 
-### #is_/same_as :: [Asia~Ural.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Ural.secret|Asia~Ural.secret]] 
 

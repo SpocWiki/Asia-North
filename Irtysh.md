@@ -150,3 +150,20 @@ Commons_category: Irtysh River
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Irtysh)  
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Irtysh|Irtysh]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Irtysh.public|Irtysh.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Irtysh.internal|Irtysh.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Irtysh.protect|Irtysh.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Irtysh.private|Irtysh.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Irtysh.personal|Irtysh.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Irtysh.secret|Irtysh.secret]] 
+

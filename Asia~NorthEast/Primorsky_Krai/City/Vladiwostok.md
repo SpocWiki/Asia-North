@@ -159,17 +159,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vladiwostok](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok|Vladiwostok]] 
 
-### #is_/same_as :: [Vladiwostok.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.public|Vladiwostok.public]] 
 
-### #is_/same_as :: [Vladiwostok.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.internal|Vladiwostok.internal]] 
 
-### #is_/same_as :: [Vladiwostok.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.protect|Vladiwostok.protect]] 
 
-### #is_/same_as :: [Vladiwostok.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.private|Vladiwostok.private]] 
 
-### #is_/same_as :: [Vladiwostok.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.personal|Vladiwostok.personal]] 
 
-### #is_/same_as :: [Vladiwostok.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Primorsky_Krai/City/Vladiwostok.secret|Vladiwostok.secret]] 
 

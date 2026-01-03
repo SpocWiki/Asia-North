@@ -43,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Krasnojarsk](/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk|Krasnojarsk]] 
 
-### #is_/same_as :: [Krasnojarsk.public](/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk.public|Krasnojarsk.public]] 
 
-### #is_/same_as :: [Krasnojarsk.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk.internal|Krasnojarsk.internal]] 
 
-### #is_/same_as :: [Krasnojarsk.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk.protect|Krasnojarsk.protect]] 
 
-### #is_/same_as :: [Krasnojarsk.private](/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk.private|Krasnojarsk.private]] 
 
-### #is_/same_as :: [Krasnojarsk.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk.personal|Krasnojarsk.personal]] 
 
-### #is_/same_as :: [Krasnojarsk.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/City/Krasnojarsk.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/counties~Krasnoyarsk/Krasnoyarsk-county/Krasnojarsk.secret|Krasnojarsk.secret]] 
 

@@ -258,3 +258,20 @@ minZoom: 6
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Yenisei) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Rivers~Krasnoyarsk_Krai/Yenisey|Yenisey]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Rivers~Krasnoyarsk_Krai/Yenisey.public|Yenisey.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Rivers~Krasnoyarsk_Krai/Yenisey.internal|Yenisey.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Rivers~Krasnoyarsk_Krai/Yenisey.protect|Yenisey.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Rivers~Krasnoyarsk_Krai/Yenisey.private|Yenisey.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Rivers~Krasnoyarsk_Krai/Yenisey.personal|Yenisey.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~Siberia/Krasnoyarsk_Krai/Rivers~Krasnoyarsk_Krai/Yenisey.secret|Yenisey.secret]] 
+

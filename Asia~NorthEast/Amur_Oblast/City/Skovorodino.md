@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skovorodino](/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino|Skovorodino]] 
 
-### #is_/same_as :: [Skovorodino.public](/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.public|Skovorodino.public]] 
 
-### #is_/same_as :: [Skovorodino.internal](/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.internal|Skovorodino.internal]] 
 
-### #is_/same_as :: [Skovorodino.protect](/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.protect|Skovorodino.protect]] 
 
-### #is_/same_as :: [Skovorodino.private](/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.private|Skovorodino.private]] 
 
-### #is_/same_as :: [Skovorodino.personal](/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.personal|Skovorodino.personal]] 
 
-### #is_/same_as :: [Skovorodino.secret](/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North/Asia~NorthEast/Amur_Oblast/City/Skovorodino.secret|Skovorodino.secret]] 
 
