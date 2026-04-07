@@ -13,7 +13,7 @@ confidential: public
 [name::Evenk Autonomous Okrug] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura]]  
+Capital :: [[Krasnoyarsk_Krai/counties~Krasnoyarsk/Ilimpiyskiy,Rayon/Tura|Tura]]  
 [geo-lon::99.97] 
 [geo-lat::64.17] 
 [Population::] 

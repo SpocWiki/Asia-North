@@ -3,15 +3,15 @@ aliases:
 has_id_wikidata: Q37056
 location: [ 75.361111111, 107.694722222]
 coordinate_location: Point(107.694722222 75.361111111)
-highest_point: "[[_Standards/WikiData/WD~Byrranga_Mountains,804012]]"
-different_from: "[[_Standards/WikiData/WD~Taymyr,845868]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32234234,32234234]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Krasnoyarsk_Krai,6563]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+highest_point: "[[_Standards/WikiData/WD~Byrranga_Mountains,804012|WD~Byrranga_Mountains,804012]]"
+different_from: "[[_Standards/WikiData/WD~Taymyr,845868|WD~Taymyr,845868]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32234234,32234234|WD~Q32234234,32234234]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Krasnoyarsk_Krai,6563|WD~Krasnoyarsk_Krai,6563]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 area: 400000
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Kara_Sea,33629]]"
-instance_of: "[[_Standards/WikiData/WD~peninsula,34763]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Kara_Sea,33629|WD~Kara_Sea,33629]]"
+instance_of: "[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]"
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Kara%20sea2TY.PNG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tundra%20in%20Siberia.jpg
 Commons_category: Taymyr Peninsula

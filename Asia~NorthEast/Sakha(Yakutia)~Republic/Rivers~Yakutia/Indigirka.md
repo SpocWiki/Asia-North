@@ -5,40 +5,40 @@ aliases:
   - Индигиир
   - İndigiir
 has_id_wikidata: Q82207
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~East_Siberian_Sea,163434]]"
+mouth_of_the_watercourse: "[[_Standards/WikiData/WD~East_Siberian_Sea,163434|WD~East_Siberian_Sea,163434]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Badyarikha_River,267885]]"
-  - "[[_Standards/WikiData/WD~Moma_River,783916]]"
-  - "[[_Standards/WikiData/WD~Byoryolyokh,879450]]"
-  - "[[_Standards/WikiData/WD~Allaikha_River,1313409]]"
-  - "[[_Standards/WikiData/WD~Selennyakh_River,1784612]]"
-  - "[[_Standards/WikiData/WD~Uyandina,2312062]]"
-  - "[[_Standards/WikiData/WD~Elgi,2450529]]"
-  - "[[_Standards/WikiData/WD~Nera_River,2450540]]"
-  - "[[_Standards/WikiData/WD~Bol'shaya_Ercha,3641684]]"
-  - "[[_Standards/WikiData/WD~Buor_Yuryakh,3647175]]"
-  - "[[_Standards/WikiData/WD~Khastakh,3665762]]"
-  - "[[_Standards/WikiData/WD~Syuryuktyakh,3962437]]"
-  - "[[_Standards/WikiData/WD~Q4248976,4248976]]"
-  - "[[_Standards/WikiData/WD~Q4405570,4405570]]"
-  - "[[_Standards/WikiData/WD~Sakhartymay,4409506]]"
-  - "[[_Standards/WikiData/WD~Khomut,4499644]]"
-  - "[[_Standards/WikiData/WD~Chibagalakh,4515572]]"
-  - "[[_Standards/WikiData/WD~Shangina,4520017]]"
-  - "[[_Standards/WikiData/WD~Suturuokha,34855082]]"
-  - "[[_Standards/WikiData/WD~Taryn_Yuryakh,34939239]]"
+  - "[[_Standards/WikiData/WD~Badyarikha_River,267885|WD~Badyarikha_River,267885]]"
+  - "[[_Standards/WikiData/WD~Moma_River,783916|WD~Moma_River,783916]]"
+  - "[[_Standards/WikiData/WD~Byoryolyokh,879450|WD~Byoryolyokh,879450]]"
+  - "[[_Standards/WikiData/WD~Allaikha_River,1313409|WD~Allaikha_River,1313409]]"
+  - "[[_Standards/WikiData/WD~Selennyakh_River,1784612|WD~Selennyakh_River,1784612]]"
+  - "[[_Standards/WikiData/WD~Uyandina,2312062|WD~Uyandina,2312062]]"
+  - "[[_Standards/WikiData/WD~Elgi,2450529|WD~Elgi,2450529]]"
+  - "[[_Standards/WikiData/WD~Nera_River,2450540|WD~Nera_River,2450540]]"
+  - "[[_Standards/WikiData/WD~Bol'shaya_Ercha,3641684|WD~Bol'shaya_Ercha,3641684]]"
+  - "[[_Standards/WikiData/WD~Buor_Yuryakh,3647175|WD~Buor_Yuryakh,3647175]]"
+  - "[[_Standards/WikiData/WD~Khastakh,3665762|WD~Khastakh,3665762]]"
+  - "[[_Standards/WikiData/WD~Syuryuktyakh,3962437|WD~Syuryuktyakh,3962437]]"
+  - "[[_Standards/WikiData/WD~Q4248976,4248976|WD~Q4248976,4248976]]"
+  - "[[_Standards/WikiData/WD~Q4405570,4405570|WD~Q4405570,4405570]]"
+  - "[[_Standards/WikiData/WD~Sakhartymay,4409506|WD~Sakhartymay,4409506]]"
+  - "[[_Standards/WikiData/WD~Khomut,4499644|WD~Khomut,4499644]]"
+  - "[[_Standards/WikiData/WD~Chibagalakh,4515572|WD~Chibagalakh,4515572]]"
+  - "[[_Standards/WikiData/WD~Shangina,4520017|WD~Shangina,4520017]]"
+  - "[[_Standards/WikiData/WD~Suturuokha,34855082|WD~Suturuokha,34855082]]"
+  - "[[_Standards/WikiData/WD~Taryn_Yuryakh,34939239|WD~Taryn_Yuryakh,34939239]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 coordinate_location:
   - Point(148.903198 70.816714)
   - Point(144.185277777 63.111388888)
   - Point(150.860833333 71.445555555)
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sakha,6605]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+instance_of: "[[_Standards/WikiData/WD~river,4022|WD~river,4022]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sakha,6605|WD~Sakha,6605]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 watershed_area: 360000
 discharge: 1570
 length: 1726

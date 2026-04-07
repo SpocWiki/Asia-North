@@ -1,17 +1,17 @@
 ---
 aliases:
 has_id_wikidata: Q125953
-instance_of: "[[_Standards/WikiData/WD~explosion,179057]]"
-location: "[[_Standards/WikiData/WD~Evenk_Autonomous_Okrug,214262]]"
+instance_of: "[[_Standards/WikiData/WD~explosion,179057|WD~explosion,179057]]"
+location: "[[_Standards/WikiData/WD~Evenk_Autonomous_Okrug,214262|WD~Evenk_Autonomous_Okrug,214262]]"
 site_of_astronomical_discovery:
-  - "[[_Standards/WikiData/WD~Yeniseysk_Governorate,385163]]"
-  - "[[_Standards/WikiData/WD~Podkamennaya_Tunguska,26361]]"
-has_cause: "[[_Standards/WikiData/WD~Tunguska_meteorite,112787549]]"
+  - "[[_Standards/WikiData/WD~Yeniseysk_Governorate,385163|WD~Yeniseysk_Governorate,385163]]"
+  - "[[_Standards/WikiData/WD~Podkamennaya_Tunguska,26361|WD~Podkamennaya_Tunguska,26361]]"
+has_cause: "[[_Standards/WikiData/WD~Tunguska_meteorite,112787549|WD~Tunguska_meteorite,112787549]]"
 coordinate_location: Point(101.95 60.916666666)
-named_after: "[[_Standards/WikiData/WD~Podkamennaya_Tunguska,26361]]"
+named_after: "[[_Standards/WikiData/WD~Podkamennaya_Tunguska,26361|WD~Podkamennaya_Tunguska,26361]]"
 number_of_injured: 0
 number_of_deaths: 0
-country: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
+country: "[[_Standards/WikiData/WD~Russian_Empire,34266|WD~Russian_Empire,34266]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tunguska%20Ereignis-1.jpg
 Commons_category: Tunguska event
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tunguska-Map-fr.svg

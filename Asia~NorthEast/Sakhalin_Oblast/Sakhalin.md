@@ -2,27 +2,27 @@
 aliases:
 has_id_wikidata: Q7792
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-different_from: "[[_Standards/WikiData/WD~Sakhalin,664325]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Norsk_Haandlexikon,65528751|WD~Norsk_Haandlexikon,65528751]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+different_from: "[[_Standards/WikiData/WD~Sakhalin,664325|WD~Sakhalin,664325]]"
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~North_Pacific_Ocean,12353254]]"
-  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Sakhalin,135640841]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+11_00,7069]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sakhalin_Oblast,7797]]"
-capital: "[[_Standards/WikiData/WD~Yuzhno_Sakhalinsk,7859]]"
+  - "[[_Standards/WikiData/WD~North_Pacific_Ocean,12353254|WD~North_Pacific_Ocean,12353254]]"
+  - "[[_Standards/WikiData/WD~Sea_of_Japan,27092|WD~Sea_of_Japan,27092]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Sakhalin,135640841|WD~history_of_Sakhalin,135640841]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+11_00,7069|WD~UTC+11_00,7069]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sakhalin_Oblast,7797|WD~Sakhalin_Oblast,7797]]"
+capital: "[[_Standards/WikiData/WD~Yuzhno_Sakhalinsk,7859|WD~Yuzhno_Sakhalinsk,7859]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~island,23442]]"
-  - "[[_Standards/WikiData/WD~executive_branch,35798]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~island,23442|WD~island,23442]]"
+  - "[[_Standards/WikiData/WD~executive_branch,35798|WD~executive_branch,35798]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 width: 160
 length: 950
 elevation_above_sea_level: 1609

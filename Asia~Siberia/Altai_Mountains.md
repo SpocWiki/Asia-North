@@ -3,29 +3,29 @@ has_id_wikidata: Q5955
 aliases:
   - Altay Mountains
   - Altai Mountains
-different_from: "[[db/Altai]]"
+different_from: "[[db/Altai|Altai]]"
 described_by_source:
-  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Encyclopædia_Britannica_11th_edition]]"
-  - "[[db/Q2041543]]"
-  - "[[db/The_Nuttall_Encyclopædia]]"
-  - "[[db/Encyclopedic_Lexicon]]"
-  - "[[db/Granat_Encyclopedic_Dictionary]]"
-  - "[[db/The_New_Student's_Reference_Work]]"
-  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
-  - "[[db/Great_dictionary_of_geographical_names]]"
-highest_point: "[[db/Belukha_Mountain]]"
-instance_of: "[[db/non_geologically_related_mountain_range]]"
-located_in_on_physical_feature: "[[db/Altai]]"
+  - "[[db/Brockhaus_and_Efron_Encyclopedic_Dictionary|Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
+  - "[[db/Encyclopædia_Britannica_11th_edition|Encyclopædia_Britannica_11th_edition]]"
+  - "[[db/Q2041543|Q2041543]]"
+  - "[[db/The_Nuttall_Encyclopædia|The_Nuttall_Encyclopædia]]"
+  - "[[db/Encyclopedic_Lexicon|Encyclopedic_Lexicon]]"
+  - "[[db/Granat_Encyclopedic_Dictionary|Granat_Encyclopedic_Dictionary]]"
+  - "[[db/The_New_Student's_Reference_Work|The_New_Student's_Reference_Work]]"
+  - "[[db/Small_Brockhaus_and_Efron_Encyclopedic_Dictionary|Small_Brockhaus_and_Efron_Encyclopedic_Dictionary]]"
+  - "[[db/Great_dictionary_of_geographical_names|Great_dictionary_of_geographical_names]]"
+highest_point: "[[db/Belukha_Mountain|Belukha_Mountain]]"
+instance_of: "[[db/non_geologically_related_mountain_range|non_geologically_related_mountain_range]]"
+located_in_on_physical_feature: "[[db/Altai|Altai]]"
 coordinate_location: Point(89.0 49.0)
 country:
-  - "[[db/Mongolia]]"
-  - "[[db/People's_Republic_of_China]]"
-  - "[[db/Russia]]"
-  - "[[db/Kazakhstan]]"
+  - "[[db/Mongolia|Mongolia]]"
+  - "[[db/People's_Republic_of_China|People's_Republic_of_China]]"
+  - "[[db/Russia|Russia]]"
+  - "[[db/Kazakhstan|Kazakhstan]]"
 length: 2000
 width: 600
-made_from_material: "[[db/metamorphic_rock]]"
+made_from_material: "[[db/metamorphic_rock|metamorphic_rock]]"
 elevation_above_sea_level: 4506
 native_label:
   - Алтай
@@ -48,7 +48,7 @@ Wolfram_Language_entity_code: Entity["Concept", "AltaiMountains::m3y24"]
 
 # [[Altai_Mountains]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Altai_Mountains,5955]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Altai_Mountains,5955|WD~Altai_Mountains,5955]] 
 
 ## #has_/text_of_/abstract 
 

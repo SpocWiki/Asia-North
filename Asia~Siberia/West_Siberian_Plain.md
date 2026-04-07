@@ -11,12 +11,12 @@ location:
   - 61.0
   - 74.5
 instance_of:
-  - "[[_Standards/WikiData/WD~temperate_coniferous_forest,144019]]"
-  - "[[_Standards/WikiData/WD~plain,160091]]"
-  - "[[_Standards/WikiData/WD~Russian_Large_Landscape,2177064]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Siberia,5428]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~temperate_coniferous_forest,144019|WD~temperate_coniferous_forest,144019]]"
+  - "[[_Standards/WikiData/WD~plain,160091|WD~plain,160091]]"
+  - "[[_Standards/WikiData/WD~Russian_Large_Landscape,2177064|WD~Russian_Large_Landscape,2177064]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Siberia,5428|WD~Siberia,5428]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vasyugan.jpg
 Commons_category: West Siberian Plain
 ---

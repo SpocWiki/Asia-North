@@ -1,17 +1,17 @@
 ---
 aliases:
 has_id_wikidata: Q209710
-instance_of: "[[_Standards/WikiData/WD~cable_stayed_bridge,158555]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~pylon,453097]]"
+instance_of: "[[_Standards/WikiData/WD~cable_stayed_bridge,158555|WD~cable_stayed_bridge,158555]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~pylon,453097|WD~pylon,453097]]"
 terminus:
-  - "[[_Standards/WikiData/WD~Russky_Island,494924]]"
-  - "[[_Standards/WikiData/WD~Vladivostok,959]]"
-crosses: "[[_Standards/WikiData/WD~Eastern_Bosphorus,715174]]"
+  - "[[_Standards/WikiData/WD~Russky_Island,494924|WD~Russky_Island,494924]]"
+  - "[[_Standards/WikiData/WD~Vladivostok,959|WD~Vladivostok,959]]"
+crosses: "[[_Standards/WikiData/WD~Eastern_Bosphorus,715174|WD~Eastern_Bosphorus,715174]]"
 location: [ 43.063055555, 131.907777777]
 coordinate_location: Point(131.907777777 43.063055555)
-locations: "[[_Standards/WikiData/WD~Vladivostok,959]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Vladivostok,959]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+locations: "[[_Standards/WikiData/WD~Vladivostok,959|WD~Vladivostok,959]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Vladivostok,959|WD~Vladivostok,959]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 clearance: 70
 number_of_spans: 11
 length: 3100

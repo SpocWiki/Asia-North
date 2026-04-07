@@ -4,27 +4,27 @@ aliases:
   - полуостров Камчатка
   - poluostrov Kamchatka
 has_id_wikidata: Q993
-highest_point: "[[_Standards/WikiData/WD~Klyuchevskaya_Sopka,210252]]"
+highest_point: "[[_Standards/WikiData/WD~Klyuchevskaya_Sopka,210252|WD~Klyuchevskaya_Sopka,210252]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-has_part_s_: "[[_Standards/WikiData/WD~Eastern_Range,2216872]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+has_part_s_: "[[_Standards/WikiData/WD~Eastern_Range,2216872|WD~Eastern_Range,2216872]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Kamchatsky_Peninsula,4211806]]"
-  - "[[_Standards/WikiData/WD~Kamchatka_Krai,7948]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32643990,32643990]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32643992,32643992]]"
+  - "[[_Standards/WikiData/WD~Kamchatsky_Peninsula,4211806|WD~Kamchatsky_Peninsula,4211806]]"
+  - "[[_Standards/WikiData/WD~Kamchatka_Krai,7948|WD~Kamchatka_Krai,7948]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32643990,32643990|WD~Q32643990,32643990]]"
+category_of_associated_people: "[[_Standards/WikiData/WD~Q32643992,32643992|WD~Q32643992,32643992]]"
 coordinate_location: Point(160.0 57.0)
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kamchatka_Krai,7948]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Kamchatka_Krai,7948|WD~Kamchatka_Krai,7948]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 area: 270000
-instance_of: "[[_Standards/WikiData/WD~peninsula,34763]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Sea_of_Okhotsk,41602]]"
+instance_of: "[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Sea_of_Okhotsk,41602|WD~Sea_of_Okhotsk,41602]]"
 INSEE_countries_and_foreign_territories_code: "99211"
 OmegaWiki_Defined_Meaning: "1331980"
 native_label: Камчатка

@@ -16,7 +16,7 @@ confidential: public
 [name::Sverdlovsk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg]]  
+Capital :: [[Sverdlovsk_Oblast/counties~Sverdlovsk/Ekaterinburggorsovet/Yekaterinburg|Yekaterinburg]]  
 [geo-lon::60.63] 
 [geo-lat::56.83] 
 [Population::] 

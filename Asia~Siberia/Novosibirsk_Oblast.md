@@ -16,7 +16,7 @@ confidential: public
 [name::Novosibirsk Oblast] 
 [name-abbr::] 
 Country :: [[Russia]]  
-Capital :: [[Novosibirsk_Oblast/counties~Novosibirsk/Novosibirskiy,Rayon/Novosibirsk]]  
+Capital :: [[Novosibirsk_Oblast/counties~Novosibirsk/Novosibirskiy,Rayon/Novosibirsk|Novosibirsk]]  
 [geo-lon::82.88] 
 [geo-lat::55.03] 
 [Population::] 

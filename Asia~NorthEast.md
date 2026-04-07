@@ -8,7 +8,7 @@ has_id_wikidata: Q41968
 
 # [[Asia~NorthEast]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Far_Eastern_Federal_District,41968]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Far_Eastern_Federal_District,41968|WD~Far_Eastern_Federal_District,41968]] 
 
 ## #has_/map 
 

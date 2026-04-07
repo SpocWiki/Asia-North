@@ -10,25 +10,25 @@ aliases:
   - Анжу арыылара
 has_id_wikidata: Q201012
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Anzhu_Islands,569425]]"
-  - "[[_Standards/WikiData/WD~De_Long_Islands,577808]]"
-  - "[[_Standards/WikiData/WD~Lyakhovsky_Islands,912074]]"
+  - "[[_Standards/WikiData/WD~Anzhu_Islands,569425|WD~Anzhu_Islands,569425]]"
+  - "[[_Standards/WikiData/WD~De_Long_Islands,577808|WD~De_Long_Islands,577808]]"
+  - "[[_Standards/WikiData/WD~Lyakhovsky_Islands,912074|WD~Lyakhovsky_Islands,912074]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~island_group,1402592]]"
-  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741]]"
+  - "[[_Standards/WikiData/WD~island_group,1402592|WD~island_group,1402592]]"
+  - "[[_Standards/WikiData/WD~WWF_ecoregion,6617741|WD~WWF_ecoregion,6617741]]"
 coordinate_location:
   - Point(142.0 75.0)
   - Point(145.25 75.266666666)
 time_of_discovery_or_invention: 1712-01-01T00:00:00Z
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Arctic_Ocean,788]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sakha,6605]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+11_00,7069]]"
-country: "[[_Standards/WikiData/WD~Russia,159]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Arctic_Ocean,788|WD~Arctic_Ocean,788]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Sakha,6605|WD~Sakha,6605]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+11_00,7069|WD~UTC+11_00,7069]]"
+country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 area: 29900
 elevation_above_sea_level: 426
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/New%20Siberian%20Islands%20map.png
