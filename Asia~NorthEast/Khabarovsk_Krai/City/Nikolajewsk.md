@@ -28,7 +28,7 @@ coordinates: [[Nikolajewsk]]
 markerFile: [[Nikolajewsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

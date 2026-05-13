@@ -28,7 +28,7 @@ coordinates: [[Kyzyl]]
 markerFile: [[Kyzyl]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

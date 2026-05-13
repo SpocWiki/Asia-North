@@ -28,7 +28,7 @@ coordinates: [[Abakan]]
 markerFile: [[Abakan]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

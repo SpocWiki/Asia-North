@@ -57,7 +57,7 @@ markerFile: [[Asia~Ural]]
 > The district contributes 18% to Russia's Gross Regional Product (GRP), 
 > although its population is only 8.5% of the Russian total.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ural%20Federal%20District)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ural%20Federal%20District) 
 
 
 ## Confidential Links & Embeds: 

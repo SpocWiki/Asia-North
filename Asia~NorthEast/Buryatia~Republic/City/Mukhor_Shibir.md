@@ -28,7 +28,7 @@ coordinates: [[Mukhor_Shibir]]
 markerFile: [[Mukhor_Shibir]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

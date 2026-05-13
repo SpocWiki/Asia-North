@@ -28,7 +28,7 @@ coordinates: [[Barnaul]]
 markerFile: [[Barnaul]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

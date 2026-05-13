@@ -28,7 +28,7 @@ coordinates: [[Yuzhno-Sakhalinsk]]
 markerFile: [[Yuzhno-Sakhalinsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

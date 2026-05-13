@@ -28,7 +28,7 @@ coordinates: [[St.Olga]]
 markerFile: [[St.Olga]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

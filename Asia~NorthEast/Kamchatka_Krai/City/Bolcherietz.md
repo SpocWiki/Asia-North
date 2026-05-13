@@ -33,7 +33,7 @@ markerFile: [[Bolcherietz]]
 defaultZoom: 7 
 minZoom: 4
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

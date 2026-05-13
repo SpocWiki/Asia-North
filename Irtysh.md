@@ -148,7 +148,7 @@ Commons_category: Irtysh River
 > The Ob-Irtysh system forms a major drainage basin in Asia, 
 > encompassing most of Western Siberia and the Altai Mountains.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Irtysh)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Irtysh) 
 
 
 ## Confidential Links & Embeds: 

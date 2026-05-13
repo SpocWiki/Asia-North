@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Island~Herald/
 markerFolder: ./Island~Herald/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

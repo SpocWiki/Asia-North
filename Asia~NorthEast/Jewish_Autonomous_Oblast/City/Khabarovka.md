@@ -28,7 +28,7 @@ coordinates: [[Khabarovka]]
 markerFile: [[Khabarovka]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

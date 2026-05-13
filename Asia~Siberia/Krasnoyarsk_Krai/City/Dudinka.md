@@ -32,7 +32,7 @@ coordinates: [[Dudinka]]
 markerFile: [[Dudinka]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

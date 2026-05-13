@@ -28,7 +28,7 @@ coordinates: [[Stalinsk]]
 markerFile: [[Stalinsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

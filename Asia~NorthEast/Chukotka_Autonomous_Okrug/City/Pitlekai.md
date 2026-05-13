@@ -28,7 +28,7 @@ coordinates: [[Pitlekai]]
 markerFile: [[Pitlekai]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

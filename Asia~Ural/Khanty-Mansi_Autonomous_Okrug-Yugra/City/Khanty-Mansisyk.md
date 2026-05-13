@@ -28,7 +28,7 @@ coordinates: [[Khanty-Mansisyk]]
 markerFile: [[Khanty-Mansisyk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

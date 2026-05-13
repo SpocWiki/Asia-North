@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Buryatia~Republic/
 markerFolder: ./Buryatia~Republic/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

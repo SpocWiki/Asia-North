@@ -28,7 +28,7 @@ coordinates: [[Kovima=la_Basse]]
 markerFile: [[Kovima=la_Basse]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

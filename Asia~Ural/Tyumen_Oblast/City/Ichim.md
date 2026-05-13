@@ -28,7 +28,7 @@ coordinates: [[Ichim]]
 markerFile: [[Ichim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 3
 maxZoom: 18
 geojsonFolder: ./Island~Wrangel/
 markerFolder: ./Island~Wrangel/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

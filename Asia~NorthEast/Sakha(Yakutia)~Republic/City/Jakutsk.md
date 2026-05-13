@@ -28,7 +28,7 @@ coordinates: [[Jakutsk]]
 markerFile: [[Jakutsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

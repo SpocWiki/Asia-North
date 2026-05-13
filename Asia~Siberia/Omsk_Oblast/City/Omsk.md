@@ -28,7 +28,7 @@ coordinates: [[Omsk]]
 markerFile: [[Omsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

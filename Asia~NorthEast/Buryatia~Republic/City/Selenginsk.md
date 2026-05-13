@@ -28,7 +28,7 @@ coordinates: [[Selenginsk]]
 markerFile: [[Selenginsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

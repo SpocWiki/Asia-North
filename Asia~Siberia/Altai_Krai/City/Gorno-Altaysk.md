@@ -28,7 +28,7 @@ coordinates: [[Gorno-Altaysk]]
 markerFile: [[Gorno-Altaysk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

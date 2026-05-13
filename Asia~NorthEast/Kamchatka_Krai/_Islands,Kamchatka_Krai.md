@@ -8,7 +8,7 @@ markerFolder: ./_Islands,Kamchatka_Krai///
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

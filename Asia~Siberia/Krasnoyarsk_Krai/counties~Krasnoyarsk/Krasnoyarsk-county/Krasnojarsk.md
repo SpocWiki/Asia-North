@@ -38,7 +38,7 @@ geojsonFolder: ./Krasnojarsk/
 markerFolder: ./Krasnojarsk/
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -27,7 +27,7 @@ markerFolder: ./Khanty-Mansi_Autonomous_Okrug-Yugra/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Island~Ayon/
 markerFolder: ./Island~Ayon/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

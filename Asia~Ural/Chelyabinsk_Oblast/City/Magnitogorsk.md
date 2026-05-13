@@ -28,7 +28,7 @@ coordinates: [[Magnitogorsk]]
 markerFile: [[Magnitogorsk]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

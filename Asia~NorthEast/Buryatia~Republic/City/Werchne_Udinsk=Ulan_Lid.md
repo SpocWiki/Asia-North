@@ -28,7 +28,7 @@ coordinates: [[Werchne_Udinsk=Ulan_Lid]]
 markerFile: [[Werchne_Udinsk=Ulan_Lid]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -154,7 +154,7 @@ maxZoom: 18
 >
 > Vladivostok remains the largest Russian port on the Pacific Ocean, and the chief cultural, economic, scientific, and tourism hub of the Russian Far East. As the terminus of the Trans-Siberian Railway, the city was visited by over three million tourists in 2017. The city is the administrative center of the Far Eastern Federal District, and is the home to the headquarters of the Pacific Fleet of the Russian Navy. Due to its geographical position in Asia combined with its Russian architecture, the city has been referred to as "Europe in the Far East". Many foreign consulates and businesses have offices in Vladivostok, and the city hosts the annual Eastern Economic Forum. With a yearly mean temperature of around 5 °C (41 °F), Vladivostok has a cold climate for its mid-latitude coastal setting. This is due to winds from the vast Eurasian landmass in winter and the cooling ocean temperatures.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vladivostok)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Vladivostok) 
 
 
 ## Confidential Links & Embeds: 

@@ -74,7 +74,7 @@ zoomFeatures: true
 defaultZoom: 6 
 minZoom: 4 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

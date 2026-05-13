@@ -32,7 +32,7 @@ markerFolder: ./Sakha(Yakutia)~Republic/
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

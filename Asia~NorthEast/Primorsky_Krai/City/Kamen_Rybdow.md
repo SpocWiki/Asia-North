@@ -28,7 +28,7 @@ coordinates: [[Kamen_Rybdow]]
 markerFile: [[Kamen_Rybdow]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

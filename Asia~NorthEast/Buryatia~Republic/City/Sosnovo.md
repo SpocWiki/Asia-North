@@ -28,7 +28,7 @@ coordinates: [[Sosnovo]]
 markerFile: [[Sosnovo]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

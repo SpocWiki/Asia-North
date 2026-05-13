@@ -28,7 +28,7 @@ coordinates: [[Prokopiewsk=Prokopievak]]
 markerFile: [[Prokopiewsk=Prokopievak]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
