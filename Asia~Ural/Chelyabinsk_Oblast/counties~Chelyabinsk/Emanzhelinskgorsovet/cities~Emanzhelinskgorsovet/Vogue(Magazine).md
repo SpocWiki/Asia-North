@@ -1,24 +1,24 @@
 ---
 aliases:
 has_id_wikidata: Q154008
-editor_in_chief: "[[_Standards/WikiData/WD~Anna_Wintour,230744|WD~Anna_Wintour,230744]]"
-different_from: "[[_Standards/WikiData/WD~Vogue,232702|WD~Vogue,232702]]"
+editor_in_chief: "[[/_Standards/WikiData/WD~Anna_Wintour,230744|WD~Anna_Wintour,230744]]"
+different_from: "[[/_Standards/WikiData/WD~Vogue,232702|WD~Vogue,232702]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~brand,431289|WD~brand,431289]]"
-  - "[[_Standards/WikiData/WD~monthly_magazine,11780435|WD~monthly_magazine,11780435]]"
-  - "[[_Standards/WikiData/WD~weekly_magazine,12340140|WD~weekly_magazine,12340140]]"
-  - "[[_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]"
-publisher: "[[_Standards/WikiData/WD~Condé_Nast,605401|WD~Condé_Nast,605401]]"
-genre: "[[_Standards/WikiData/WD~fashion_magazine,9397629|WD~fashion_magazine,9397629]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-editor: "[[_Standards/WikiData/WD~Chloe_Malle,136047706|WD~Chloe_Malle,136047706]]"
+  - "[[/_Standards/WikiData/WD~brand,431289|WD~brand,431289]]"
+  - "[[/_Standards/WikiData/WD~monthly_magazine,11780435|WD~monthly_magazine,11780435]]"
+  - "[[/_Standards/WikiData/WD~weekly_magazine,12340140|WD~weekly_magazine,12340140]]"
+  - "[[/_Standards/WikiData/WD~magazine,41298|WD~magazine,41298]]"
+publisher: "[[/_Standards/WikiData/WD~Condé_Nast,605401|WD~Condé_Nast,605401]]"
+genre: "[[/_Standards/WikiData/WD~fashion_magazine,9397629|WD~fashion_magazine,9397629]]"
+on_focus_list_of_Wikimedia_project: "[[/_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+editor: "[[/_Standards/WikiData/WD~Chloe_Malle,136047706|WD~Chloe_Malle,136047706]]"
 inception: 1892-12-17T00:00:00Z
 start_time: 1892-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
-headquarters_location: "[[_Standards/WikiData/WD~One_World_Trade_Center,11245|WD~One_World_Trade_Center,11245]]"
-main_subject: "[[_Standards/WikiData/WD~fashion,12684|WD~fashion,12684]]"
-field_of_work: "[[_Standards/WikiData/WD~fashion,12684|WD~fashion,12684]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+language_of_work_or_name: "[[/_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+headquarters_location: "[[/_Standards/WikiData/WD~One_World_Trade_Center,11245|WD~One_World_Trade_Center,11245]]"
+main_subject: "[[/_Standards/WikiData/WD~fashion,12684|WD~fashion,12684]]"
+field_of_work: "[[/_Standards/WikiData/WD~fashion,12684|WD~fashion,12684]]"
+country_of_origin: "[[/_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
 publication_interval: 1
 social_media_followers: 15200000
 Facebook_username:

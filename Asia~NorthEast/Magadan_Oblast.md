@@ -23,7 +23,7 @@ Capital :: [[Magadan]]
 [geo-lat::59.5667] 
 [Population::] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Magadan_Oblast,7971|WD~Magadan_Oblast,7971]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Magadan_Oblast,7971|WD~Magadan_Oblast,7971]] 
 
 ## #has_/map  
 

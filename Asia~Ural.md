@@ -3,22 +3,22 @@ aliases:
   - Ural Federal District
   - Уральский федеральный округ
 has_id_wikidata: Q41964
-shares_border_with: "[[_Standards/WikiData/WD~Volga_Federal_District,202317|WD~Volga_Federal_District,202317]]"
-instance_of: "[[_Standards/WikiData/WD~federal_district_of_Russia,484215|WD~federal_district_of_Russia,484215]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q9229496,9229496|WD~Q9229496,9229496]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q14466120,14466120|WD~Q14466120,14466120]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q21007690,21007690|WD~Q21007690,21007690]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q100332218,100332218|WD~Q100332218,100332218]]"
+shares_border_with: "[[/_Standards/WikiData/WD~Volga_Federal_District,202317|WD~Volga_Federal_District,202317]]"
+instance_of: "[[/_Standards/WikiData/WD~federal_district_of_Russia,484215|WD~federal_district_of_Russia,484215]]"
+category_for_people_born_here: "[[/_Standards/WikiData/WD~Q9229496,9229496|WD~Q9229496,9229496]]"
+topic_has_template: "[[/_Standards/WikiData/WD~Q14466120,14466120|WD~Q14466120,14466120]]"
+category_for_people_who_died_here: "[[/_Standards/WikiData/WD~Q21007690,21007690|WD~Q21007690,21007690]]"
+permanent_duplicated_item: "[[/_Standards/WikiData/WD~Q100332218,100332218|WD~Q100332218,100332218]]"
 coordinate_location: Point(60.583333333 56.833333333)
-capital: "[[_Standards/WikiData/WD~Yekaterinburg,887|WD~Yekaterinburg,887]]"
+capital: "[[/_Standards/WikiData/WD~Yekaterinburg,887|WD~Yekaterinburg,887]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Sverdlovsk_Oblast,5462|WD~Sverdlovsk_Oblast,5462]]"
-  - "[[_Standards/WikiData/WD~Chelyabinsk_Oblast,5714|WD~Chelyabinsk_Oblast,5714]]"
-  - "[[_Standards/WikiData/WD~Kurgan_Oblast,5741|WD~Kurgan_Oblast,5741]]"
-  - "[[_Standards/WikiData/WD~Tyumen_Oblast,5824|WD~Tyumen_Oblast,5824]]"
-  - "[[_Standards/WikiData/WD~Khanty_Mansi_Autonomous_Okrug,6320|WD~Khanty_Mansi_Autonomous_Okrug,6320]]"
-  - "[[_Standards/WikiData/WD~Yamalo_Nenets_Autonomous_Okrug,6407|WD~Yamalo_Nenets_Autonomous_Okrug,6407]]"
-country: "[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
+  - "[[/_Standards/WikiData/WD~Sverdlovsk_Oblast,5462|WD~Sverdlovsk_Oblast,5462]]"
+  - "[[/_Standards/WikiData/WD~Chelyabinsk_Oblast,5714|WD~Chelyabinsk_Oblast,5714]]"
+  - "[[/_Standards/WikiData/WD~Kurgan_Oblast,5741|WD~Kurgan_Oblast,5741]]"
+  - "[[/_Standards/WikiData/WD~Tyumen_Oblast,5824|WD~Tyumen_Oblast,5824]]"
+  - "[[/_Standards/WikiData/WD~Khanty_Mansi_Autonomous_Okrug,6320|WD~Khanty_Mansi_Autonomous_Okrug,6320]]"
+  - "[[/_Standards/WikiData/WD~Yamalo_Nenets_Autonomous_Okrug,6407|WD~Yamalo_Nenets_Autonomous_Okrug,6407]]"
+country: "[[/_Standards/WikiData/WD~Russia,159|WD~Russia,159]]"
 area: 1788900
 OmegaWiki_Defined_Meaning: "418932"
 population: 12282737
@@ -31,7 +31,7 @@ Commons_category: Ural Federal District
 
 # [[Asia~Ural]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ural_Federal_District,41964|WD~Ural_Federal_District,41964]] 
+#is_/same_as :: [[/_Standards/WikiData/WD~Ural_Federal_District,41964|WD~Ural_Federal_District,41964]] 
 
 ```leaflet
 id: Norway
